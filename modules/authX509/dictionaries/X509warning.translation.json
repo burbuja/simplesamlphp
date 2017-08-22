@@ -1,0 +1,32 @@
+{
+    "warning": {
+        "da": "Dit certifikat udl\u00f8ber om %days% dage.",
+        "es": "Tu certificado expirar\u00e1 en %days% d\u00edas.",
+        "nl": "Je certificaat verloopt over %days% dagen.",
+        "no": "Sertifikatet ditt vil utl\u00f8pe om %days% dager."
+    },
+    "warning_header": {
+        "da": "Dit certifikat udl\u00f8ber om kort tid",
+        "es": "Tu certificado est\u00e1 a punto de expirar.",
+        "nl": "Je certificaat verloopt binnenkort.",
+        "no": "Sertifikatet ditt vil snart utl\u00f8pe."
+    },
+    "renew": {
+        "da": "Forny venligst dit certifikat i tide.",
+        "es": "Por favor renueva tu certificado a tiempo.",
+        "nl": "Vervang tijdig je certificaat.",
+        "no": "Vennligst forny sertifikatet ditt f\u00f8r det utl\u00f8per."
+    },
+    "renew_url": {
+        "da": "<a href='%renewurl%'>Forny<\/a>, venligst dit certifikat f\u00f8r det udl\u00f8ber.",
+        "es": "Por favor <a href='%renewurl%'>renueva<\/a> tu certificado a tiempo.",
+        "nl": "<a href='%renewurl%'>Vervang<\/a> tijdig je certificaat.",
+        "no": "Vennligst <a href=\u2018%renewurl%\u2019>forny<\/a> sertifikatet ditt f\u00f8r det utl\u00f8per."
+    },
+    "proceed": {
+        "da": "Forts\u00e6t",
+        "es": "Proceder",
+        "nl": "Verder",
+        "no": "Fortsett"
+    }
+}

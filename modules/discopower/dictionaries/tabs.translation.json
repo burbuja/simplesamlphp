@@ -1,0 +1,96 @@
+{
+    "norway": {
+        "af": "Noorwe\u00eb",
+        "da": "Norge",
+        "es": "Noruega",
+        "gl": "Noruega",
+        "nl": "Noorwegen",
+        "ru": "\u041d\u043e\u0440\u0432\u0435\u0433\u0438\u044f",
+        "zh-tw": "\u632a\u5a01"
+    },
+    "kalmar": {
+        "af": "Kalmar",
+        "da": "Kalmar",
+        "es": "Kalmar",
+        "nl": "Kalmar",
+        "ru": "\u041a\u0430\u043b\u044c\u043c\u0430\u0440",
+        "zh-tw": "\u5361\u723e\u99ac"
+    },
+    "finland": {
+        "af": "Finland",
+        "da": "Finland",
+        "es": "Finlandia",
+        "gl": "Finlandia",
+        "nl": "Finland",
+        "ru": "\u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u044f",
+        "zh-tw": "\u82ac\u862d"
+    },
+    "sweden": {
+        "af": "Swede",
+        "da": "Sverige",
+        "es": "Suecia",
+        "gl": "Suecia",
+        "nl": "Zweden",
+        "ru": "\u0428\u0432\u0435\u0446\u0438\u044f",
+        "zh-tw": "\u745e\u5178"
+    },
+    "iceland": {
+        "af": "Ysland",
+        "da": "Island",
+        "es": "Islandia",
+        "gl": "Islandia",
+        "nl": "IJsland",
+        "ru": "\u0418\u0441\u043b\u0430\u043d\u0434\u0438\u044f",
+        "zh-tw": "\u51b0\u5cf6"
+    },
+    "denmark": {
+        "af": "Denmark",
+        "da": "Danmark",
+        "es": "Dinamarca",
+        "gl": "Dinamarca",
+        "nl": "Denemarken",
+        "ru": "\u0414\u0430\u043d\u0438\u044f",
+        "zh-tw": "\u4e39\u9ea5"
+    },
+    "switzerland": {
+        "af": "Switserland",
+        "da": "Schweiz",
+        "es": "Suiza",
+        "gl": "Suiza",
+        "nl": "Zwitserland",
+        "ru": "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u044f",
+        "zh-tw": "\u745e\u58eb"
+    },
+    "edugain": {
+        "af": "Europa (eduGAIN)",
+        "da": "Europa (eduGAIN)",
+        "es": "Europa (eduGAIN)",
+        "gl": "Europa (eduGAIN)",
+        "nl": "Europa (eduGAIN)",
+        "ru": "\u0415\u0432\u0440\u043e\u043f\u0430 (eduGAIN)",
+        "zh-tw": "\u6b50\u6d32 (eduGAIN)"
+    },
+    "misc": {
+        "af": "Verskeie",
+        "da": "Forskellige",
+        "es": "Miscel\u00e1neo",
+        "gl": "Miscelanea",
+        "nl": "Overige",
+        "ru": "\u0420\u0430\u0437\u043d\u043e\u0435",
+        "zh-tw": "\u96dc\u9805"
+    },
+    "incommon": {
+        "af": "In gemeen",
+        "da": "InCommon",
+        "es": "InCommon",
+        "nl": "InCommon",
+        "zh-tw": "InCommon"
+    },
+    "ukacessfederation": {
+        "af": "UK Toegangs Federasie",
+        "da": "Storbritanniens adgangsf\u00f8deration",
+        "es": "UK Access Federation",
+        "nl": "UK Access Federation",
+        "zh-tw": "\u82f1\u570b Access Management Federation for Education and Research."
+    }
+}
