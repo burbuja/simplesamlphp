@@ -5,6 +5,7 @@
         "cs": "Metadata nebyla nalezena",
         "da": "Metadata er ikke fundt",
         "de": "Keine Metadaten gefunden",
+        "el": "\u0394\u03b5\u03bd \u03b2\u03c1\u03ad\u03b8\u03b7\u03ba\u03b1\u03bd \u03bc\u03b5\u03c4\u03b1\u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03b1",
         "es": "Metadatos no encontrados",
         "et": "Metaandmeid ei leitud",
         "eu": "Ez da aurkitu metadaturik",
@@ -27,7 +28,7 @@
         "sr": "Metapodaci nisu prona\u0111eni",
         "sv": "Metadata saknas",
         "zh": "\u6ca1\u6709\u627e\u5230\u5143\u4fe1\u606f",
-        "zh-tw": "\u627e\u4e0d\u5230\u8a6e\u91cb\u8cc7\u6599"
+        "zh-tw": "\u627e\u4e0d\u5230 Metadata"
     },
     "not_found_for": {
         "af": "Ons was nie in staat om die metadata vir die entiteit op te spoor nie:",
@@ -35,6 +36,7 @@
         "cs": "Nebyla nalezena metadata pro entitu:",
         "da": "Vi kan ikke finde metadata for denne forbindelse:",
         "de": "F\u00fcr folgende Entit\u00e4t konnten keine Metadaten gefunden werden:",
+        "el": "\u0394\u03b5\u03bd \u03ae\u03c4\u03b1\u03bd \u03b4\u03c5\u03bd\u03b1\u03c4\u03cc \u03bd\u03b1 \u03b2\u03c1\u03b5\u03b8\u03bf\u03cd\u03bd \u03bc\u03b5\u03c4\u03b1\u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03bf\u03bd\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1:",
         "es": "No pudimos ubicar los metadatos para la entidad:",
         "et": "Ei suudetud leida olemi metaandmeid:",
         "eu": "Ezinezkoa izan da erakunde honentzat metadaturik aurkitzea: ",
@@ -57,7 +59,7 @@
         "sr": "Ne mogu prona\u0107i metapodatke za entitet:",
         "sv": "Metadata f\u00f6r enehten hittades inte:",
         "zh": "\u6211\u4eec\u65e0\u6cd5\u4e3a\u8fd9\u4e2a\u5b9e\u4f53\u5b9a\u4f4d\u5143\u4fe1\u606f",
-        "zh-tw": "\u6211\u5011\u7121\u6cd5\u5b9a\u4f4d\u6b64\u5be6\u9ad4\u4e4b\u8a6e\u91cb\u8cc7\u6599\uff1a"
+        "zh-tw": "\u6211\u5011\u7121\u6cd5\u5b9a\u4f4d\u6b64\u5be6\u9ad4\u4e4b Metadata\uff1a"
     },
     "config_problem": {
         "af": "Di\u00e9 is waarskynlik 'n probleem met die konfigurasie by die diensverskaffer \u00f3f die identiteit verskaffer.",
@@ -65,6 +67,7 @@
         "cs": "Toto je pravd\u011bpodobn\u011b konfigura\u010dn\u00ed probl\u00e9m na stran\u011b poskytovatele slu\u017eby nebo poskytovatele identity.",
         "da": "Der er sandsynligvis en konfigurationsfejl hos enten servicen eller identitetsudbyderen.",
         "de": "Ursache ist wahrscheinlich eine Fehlkonfiguration auf Seiten des Service Providers oder des Identity Providers.",
+        "el": "\u0391\u03c5\u03c4\u03cc \u03c5\u03c0\u03bf\u03b4\u03b5\u03b9\u03ba\u03bd\u03cd\u03b5\u03b9 \u03c0\u03c1\u03cc\u03b2\u03bb\u03b7\u03bc\u03b1 \u03bc\u03b5 \u03c4\u03b9\u03c2 \u03c1\u03c5\u03b8\u03bc\u03af\u03c3\u03b5\u03b9\u03c2 \u03b5\u03af\u03c4\u03b5 \u03c4\u03bf\u03c5 \u03c0\u03b1\u03c1\u03cc\u03c7\u03bf\u03c5 \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03b9\u03ce\u03bd \u03b5\u03af\u03c4\u03b5 \u03c4\u03bf\u03c5 \u03c0\u03b1\u03c1\u03cc\u03c7\u03bf\u03c5 \u03c4\u03b1\u03c5\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2.",
         "es": "Es muy posible que sea un problema de configuraci\u00f3n en el proveedor de servicio o de identidad.",
         "et": "T\u00f5en\u00e4oliselt on tegemist probleemiga kas teenusepakkuja v\u00f5i identiteedipakkuja seadistustes.",
         "eu": "Hau ziurrenik konfigurazio arazo bat izango da zerbitzu hornitzailean edota identitate hornitzailean. ",
@@ -95,6 +98,7 @@
         "cs": "Pokud jste u\u017eivatel, kter\u00fd obdr\u017eel chybu po n\u00e1sledov\u00e1n\u00ed odkazu na webov\u00e9 str\u00e1nce, m\u011bli byste o t\u00e9to chyb\u011b informovat vlastn\u00edka t\u00e9to str\u00e1nky. ",
         "da": "Hvis du har modtaget denne fejlbesked efter at have klikket p\u00e5 et lilnk, skal du rappoterer fejlen til ejeren af siden. ",
         "de": "Sind Sie lediglich einem Verweis einer anderen Website hierher gefolgt, sollten Sie diesen Fehler den Betreibern der Website melden.",
+        "el": "\u0391\u03bd \u03bb\u03ac\u03b2\u03b1\u03c4\u03b5 \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf \u03c3\u03c6\u03ac\u03bb\u03bc\u03b1 \u03b1\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03ce\u03bd\u03c4\u03b1\u03c2 \u03ad\u03bd\u03b1\u03bd \u03c3\u03cd\u03bd\u03b4\u03b5\u03c3\u03bc\u03bf \u03c3\u03b5 \u03ba\u03ac\u03c0\u03bf\u03b9\u03bf\u03bd \u03b9\u03c3\u03c4\u03cc\u03c4\u03bf\u03c0\u03bf, \u03b8\u03b1 \u03c0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03c4\u03bf \u03b1\u03bd\u03b1\u03c6\u03ad\u03c1\u03b5\u03c4\u03b5 \u03c3\u03c4\u03bf\u03bd \u03b9\u03b4\u03b9\u03bf\u03ba\u03c4\u03ae\u03c4\u03b7 \u03c4\u03bf\u03c5 \u03b5\u03bd \u03bb\u03cc\u03b3\u03c9 \u03b9\u03c3\u03c4\u03cc\u03c4\u03bf\u03c0\u03bf\u03c5.",
         "es": "Si eres un usuario que recibi\u00f3 este error despu\u00e9s de seguir un enlace en un sitio web, deber\u00edas informar sobre este error al due\u00f1o de ese sitio.",
         "et": "Kui sa oled kasutaja, kes sai selle veateate veebilehel linki kl\u00f5psates, siis peaksid sellest t\u00f5rkest veebilehe omanikku teavitama.",
         "eu": "Gune bateko lotura bat jarraituz errore hau jasotzen duen erabiltzaile bat bazara,  guneko jabeari eman behar diozu errorearen berri.",
@@ -117,7 +121,7 @@
         "sr": "Ukoliko se ova gre\u0161ka pojavila nakon \u0161to ste sledili link na nekoj web stranici, onda biste gre\u0161ku trebali prijaviti vlasniku navedene stranice.",
         "sv": "Om du \u00e4r en anv\u00e4ndare och fick detta fel n\u00e4r du klickade p\u00e5 en l\u00e4nk b\u00f6r du rapportera felet till den som hanterar webbplatsen med l\u00e4nken.",
         "zh": "\u5982\u679c\u4f60\u662f\u70b9\u51fb\u4e00\u4e2a\u7f51\u7ad9\u4e0a\u7684\u94fe\u63a5\u540e\u6536\u5230\u8be5\u9519\u8bef\u7684\u7528\u6237\uff0c\u4f60\u5e94\u8be5\u62a5\u544a\u8fd9\u4e2a\u9519\u8bef\u7ed9\u7ad9\u70b9\u6240\u6709\u4eba",
-        "zh-tw": "\u82e5\u60a8\u662f\u500b\u4f7f\u7528\u8005\uff0c\u800c\u60a8\u65bc\u6b64\u7db2\u7ad9\u6536\u5230\u4e0b\u5217\u9023\u7d50\uff0c\u8acb\u53cd\u6620\u6b64\u932f\u8aa4\u7d66\u6b64\u7ad9\u7ba1\u7406\u54e1\u3002"
+        "zh-tw": "\u82e5\u60a8\u662f\u500b\u4f7f\u7528\u8005\uff0c\u800c\u60a8\u65bc\u6b64\u7ad9\u53f0\u6536\u5230\u4e0b\u5217\u9023\u7d50\uff0c\u8acb\u53cd\u6620\u6b64\u932f\u8aa4\u7d66\u6b64\u7ad9\u53f0\u7ba1\u7406\u54e1\u3002"
     },
     "suggestion_developer": {
         "af": "As jy 'n programmeerder is wat die 'single sign-on' oplossing implementeer, het jy 'n probleem met die metadata opset. Bevestig dat die metadata korrek ingestel is op beide die identiteit verskaffer en diensverskaffer.",
@@ -125,6 +129,7 @@
         "cs": "Pokud jste v\u00fdvoj\u00e1\u0159 nasazuj\u00edc\u00ed \u0159e\u0161en\u00ed jednotn\u00e9ho p\u0159ihla\u0161ov\u00e1n\u00ed, m\u00e1te probl\u00e9m s konfigurac\u00ed metadat. Ov\u011b\u0159te, zda jsou metadata nakonfigurov\u00e1na spr\u00e1vn\u011b jak u poskytovatele identity tak u poskytovatele slu\u017eby.",
         "da": "Hvis du er udvikler, s\u00e5 har du et metadata-konfigurationsproblem. Tjek at metadata er konfigurerede korrekt b\u00e5de p\u00e5 service-siden og identitetsudbyder-siden.",
         "de": "Arbeiten Sie selbst an einem Web Single Sign-On System, stimmt mit den benutzten Metadaten etwas nicht. \u00dcberpr\u00fcfen Sie die Metadaten des Identity Providers und des Service Providers.",
+        "el": "\u0395\u03ac\u03bd \u03b5\u03af\u03c3\u03c4\u03b5 \u03b4\u03b9\u03b1\u03c7\u03b5\u03b9\u03c1\u03b9\u03c3\u03c4\u03ae\u03c2 \u03c4\u03b7\u03c2 \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b1\u03c2 \u03c4\u03b1\u03c5\u03c4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7\u03c2 \u03ba\u03b1\u03b9 \u03b5\u03be\u03bf\u03c5\u03c3\u03b9\u03bf\u03b4\u03cc\u03c4\u03b7\u03c3\u03b7\u03c2, \u03c4\u03cc\u03c4\u03b5 \u03b1\u03bd\u03c4\u03b9\u03bc\u03b5\u03c4\u03c9\u03c0\u03af\u03b6\u03b5\u03c4\u03b5 \u03ba\u03ac\u03c0\u03bf\u03b9\u03bf \u03c0\u03c1\u03cc\u03b2\u03bb\u03b7\u03bc\u03b1 \u03bc\u03b5 \u03c4\u03b7 \u03b4\u03b9\u03b1\u03bc\u03cc\u03c1\u03c6\u03c9\u03c3\u03b7 \u03c4\u03c9\u03bd \u03bc\u03b5\u03c4\u03b1\u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd. \u0392\u03b5\u03b2\u03b1\u03b9\u03c9\u03b8\u03b5\u03af\u03c4\u03b5 \u03cc\u03c4\u03b9 \u03c4\u03b1 \u03bc\u03b5\u03c4\u03b1\u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03b1 \u03ad\u03c7\u03bf\u03c5\u03bd \u03c1\u03c5\u03b8\u03bc\u03b9\u03c3\u03c4\u03b5\u03af \u03c3\u03c9\u03c3\u03c4\u03ac \u03c4\u03cc\u03c3\u03bf \u03c3\u03c4\u03bf\u03bd \u03c0\u03ac\u03c1\u03bf\u03c7\u03bf \u03c4\u03b1\u03c5\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2 \u03cc\u03c3\u03bf \u03ba\u03b1\u03b9 \u03c3\u03c4\u03bf\u03bd \u03c0\u03ac\u03c1\u03bf\u03c7\u03bf \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03b9\u03ce\u03bd.",
         "es": "Si eres un desarrollador que est\u00e1 desplegando una soluci\u00f3n de inicio de sesi\u00f3n \u00fanico (SSO), tienes un problema con la configuraci\u00f3n de metadatos. Verifica que los metadatos est\u00e9n configurados correctamente tanto en el proveedor de identidad como en el de servicio.",
         "et": "Kui sa oled arendaja, kes juurutab \u00fchekordse sisselogimise lahendust, siis on probleemi p\u00f5hjuseks metaandmete seadistused. Kontrolli, et metaandmed oleks seadistatud korrektselt nii identiteedipakkuja kui teenusepakkuja poolel.",
         "eu": "Hasiera-bakarreko sistema bat zabaltzen ari zaren garatzaile bat bazara, arazo bat duzu zure metadatuen kongigurazioarekin. Egiazta ezazu metadatuak zuzen konfiguratuak daudela identitate hornitzailean eta zerbitzu hornitzailean.",
@@ -147,6 +152,6 @@
         "sr": "Postoji gre\u0161ka sa pode\u0161avanjima metapodataka. Ukoliko ste administrator sistema, proverite da li metapodaci ispravno uneseni na strani davaoca servisa i davaoca identiteta.",
         "sv": "Om du \u00e4r en utvecklare som drifts\u00e4tter en l\u00f6sning med single-on har du problem med metadatakonfigurationen. Kontrollera att metadata \u00e4r korrekt konfigurerade b\u00e5de i identitetsutgivare och tj\u00e4nsteleverant\u00f6ren.",
         "zh": "\u5982\u679c\u4f60\u662f\u90e8\u7f72\u8fd9\u4e2a\u5355\u70b9\u767b\u5f55\u7cfb\u7edf\u7684\u5f00\u53d1\u4eba\u5458\uff0c\u90a3\u4e48\u4f60\u7684\u914d\u7f6e\u6587\u4ef6\u5b58\u5728\u95ee\u9898\uff0c\u9a8c\u8bc1\u670d\u52a1\u63d0\u4f9b\u8005\u548c\u8eab\u4efd\u63d0\u4f9b\u8005\u662f\u5426\u914d\u7f6e\u6b63\u786e",
-        "zh-tw": "\u82e5\u60a8\u662f\u55ae\u4e00\u7c3d\u5165\u7a0b\u5f0f\u958b\u767c\u4eba\u54e1\uff0c\u60a8\u7684\u8a6e\u91cb\u8cc7\u6599\u8a2d\u5b9a\u53ef\u80fd\u6709\u554f\u984c\u3002\u8acb\u78ba\u8a8d\u670d\u52d9\u63d0\u4f9b\u8005\u6216\u9a57\u8b49\u63d0\u4f9b\u8005\u4e4b\u8a6e\u91cb\u8cc7\u6599\u8a2d\u5b9a\u6a94\u662f\u5426\u6b63\u78ba\u3002"
+        "zh-tw": "\u82e5\u60a8\u662f\u55ae\u4e00\u7c3d\u5165\u7a0b\u5f0f\u958b\u767c\u4eba\u54e1\uff0c\u60a8\u7684 Metadata \u8a2d\u5b9a\u53ef\u80fd\u6709\u554f\u984c\u3002\u8acb\u78ba\u8a8d\u670d\u52d9\u63d0\u4f9b\u8005\u6216\u9a57\u8b49\u63d0\u4f9b\u8005\u4e4b Metadata \u8a2d\u5b9a\u6a94\u662f\u5426\u6b63\u78ba\u3002"
     }
 }

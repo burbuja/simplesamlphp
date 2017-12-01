@@ -5,6 +5,7 @@
         "cs": "\u0160patn\u00fd autentiza\u010dn\u00ed kontext",
         "da": "Forkert authentication context",
         "de": "Falscher Authentifizierungskontext",
+        "el": "\u0395\u03c3\u03c6\u03b1\u03bb\u03bc\u03ad\u03bd\u03b7 \u03bc\u03ad\u03b8\u03bf\u03b4\u03bf\u03c2 \u03c4\u03b1\u03c5\u03c4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7\u03c2",
         "es": "Contexto de autenticaci\u00f3n err\u00f3neo",
         "et": "Vale autentimiskontekst",
         "eu": "Kautotze testu inguru okerra",
@@ -21,7 +22,7 @@
         "sr": "Pogre\u0161an kontekst za autentifikaciju",
         "sv": "Felaktig autentiseringsteknik",
         "zh": "\u9519\u8bef\u7684\u9a8c\u8bc1\u4e0a\u4e0b\u6587",
-        "zh-tw": "\u932f\u8aa4\u9a57\u8b49\u78bc"
+        "zh-tw": "\u932f\u8aa4\u7684\u9a57\u8b49\u5167\u5bb9"
     },
     "description": {
         "af": "Jou verifikasie konteks is nie deur die diens aanvaar nie. Waarskynlik te swak of nie twee-faktor nie.",
@@ -29,6 +30,7 @@
         "cs": "V\u00e1\u0161 autentiza\u010dn\u00ed kontext nen\u00ed touto slu\u017ebou akceptov\u00e1n. Pravd\u011bpodobn\u00e9 p\u0159\u00edli\u0161 snadn\u00e9 nebo nedvoufaktorov\u00e9.",
         "da": "Din authentication context er ikke accepteret at denne tjeneste. Formentlig for svag eller manglende 2-faktor login.",
         "de": "Ihr Authentifizierungskontext wird von diesem Dienst nicht akzeptiert. Wahrscheinlich ist er zu schwach oder nicht Zwei-Faktor.",
+        "el": "\u0397 \u03bc\u03ad\u03b8\u03bf\u03b4\u03bf\u03c2 \u03c4\u03b1\u03c5\u03c4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03ae\u03c2 \u03c3\u03b1\u03c2 \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03c0\u03bf\u03b4\u03b5\u03ba\u03c4\u03ae \u03c3\u03b5 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7\u03bd \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b1. \u03a0\u03b9\u03b8\u03b1\u03bd\u03ce\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03bf\u03bb\u03cd \u03b1\u03b4\u03cd\u03bd\u03b1\u03bc\u03b7, \u03c0.\u03c7. \u03b4\u03b5\u03bd \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03ae\u03b8\u03b7\u03ba\u03b5 \u03b5\u03c0\u03b1\u03bb\u03ae\u03b8\u03b5\u03c5\u03c3\u03b7 \u03b4\u03cd\u03bf \u03b2\u03b7\u03bc\u03ac\u03c4\u03c9\u03bd.",
         "es": "El contexto de tu autenticaci\u00f3n no se acepta en este servicio. Probablemente es muy d\u00e9bil o no es de dos factores.",
         "et": "See teenus ei aktsepteeri sinu autentimiskonteksti. T\u00f5en\u00e4oliselt on see liiga n\u00f5rk v\u00f5i pole kaheastmeline.",
         "eu": "Zerbitzu honek ez du onartzen zure kautotze testuingurua. Ziurrenik ahulegia da edo ez da bi faktoredun kautotzea. ",
@@ -45,6 +47,6 @@
         "sr": "Va\u0161 kontekst za autentifikaciju nije podr\u017ean od strane ovog servisa. Verovatno je previ\u0161e slab, ili nije autentifikacija sa dva faktora.",
         "sv": "Din autentiseringsteknik \u00e4r inte godk\u00e4nd av denna tj\u00e4nst, troligen \u00e4r den f\u00f6r svag eller \u00e4r inte en tv\u00e5-faktorsteknik.",
         "zh": "\u6b64\u670d\u52a1\u4e0d\u63a5\u53d7\u60a8\u7684\u9a8c\u8bc1\u4e0a\u4e0b\u6587\u3002\u53ef\u80fd\u56e0\u4e3a\u9a8c\u8bc1\u592a\u5f31\u6216\u975e\u53cc\u56e0\u7d20\u9a8c\u8bc1\u3002",
-        "zh-tw": "\u60a8\u7684\u9a57\u8b49\u78bc\u7121\u6cd5\u88ab\u63a5\u53d7\u3002\u53ef\u80fd\u662f\u5f37\u5ea6\u592a\u5f31\u6216\u662f\u672a\u4f7f\u7528\u5169\u6bb5\u5f0f\u9a57\u8b49\u3002"
+        "zh-tw": "\u60a8\u7684\u9a57\u8b49\u5167\u5bb9\u7121\u6cd5\u88ab\u6b64\u670d\u52d9\u63a5\u53d7\u3002\u53ef\u80fd\u662f\u5f37\u5ea6\u592a\u5f31\u6216\u662f\u672a\u4f7f\u7528\u5169\u6bb5\u5f0f\u9a57\u8b49 (2-factor)\u3002"
     }
 }

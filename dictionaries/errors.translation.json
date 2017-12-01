@@ -5,6 +5,7 @@
         "cs": "SimpleSAMLphp chyba",
         "da": "SimpleSAMLphp fejl",
         "de": "SimpleSAMLphp Fehler",
+        "el": "\u03a3\u03c6\u03ac\u03bb\u03bc\u03b1 \u03c4\u03bf\u03c5 SimpleSAMLphp",
         "es": "Hubo un error de SimpleSAMLphp",
         "et": "SimpleSAMLphp t\u00f5rge",
         "eu": "SimpleSAMLphp-en errorea",
@@ -32,7 +33,7 @@
         "sv": "SimpleSAMLphp fel",
         "tr": "SimpleSAMLphp hatas\u0131",
         "zh": "SimpleSAMLphp\u9519\u8bef",
-        "zh-tw": "SimpleSAMLphp \u7570\u5e38"
+        "zh-tw": "SimpleSAMLphp \u932f\u8aa4"
     },
     "report_trackid": {
         "af": "Waneer jy die fout rapporteer, verskaf asb. ook die 'tracking'\/verwysings nommer wat dit moontlik maak vir die sisteem administrateur om jou sessie in die logs op te spoor:",
@@ -40,6 +41,7 @@
         "cs": "Pokud budete reportovat tuto chybu, pros\u00edm za\u0161lete tak\u00e9 toto ID, toto umo\u017en\u00ed naj\u00edt va\u0161\u00ed session v logu, kter\u00fd je dostupn\u00fd systmov\u00fdm administr\u00e1torem\uff1a  ",
         "da": "Hvis du vil rapportere denne fejl, s\u00e5 medsend venligst dette sporings-ID. Den g\u00f8r det muligt for teknikerne at finde fejlen.",
         "de": "Falls Sie diesen Fehler melden, teilen Sie bitte ebenfalls diese Tracking ID mit, dadurch ist es dem Administrator m\u00f6glich ihre Sitzung in den Logs zu finden:",
+        "el": "\u0391\u03bd \u03b1\u03bd\u03b1\u03c6\u03ad\u03c1\u03b5\u03c4\u03b5 \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf \u03c3\u03c6\u03ac\u03bb\u03bc\u03b1, \u03c0\u03b1\u03c1\u03b1\u03ba\u03b1\u03bb\u03bf\u03cd\u03bc\u03b5 \u03bd\u03b1 \u03c3\u03c5\u03bc\u03c0\u03b5\u03c1\u03b9\u03bb\u03ac\u03b2\u03b5\u03c4\u03b5 \u03c3\u03c4\u03b7\u03bd \u03b1\u03bd\u03b1\u03c6\u03bf\u03c1\u03ac \u03c3\u03b1\u03c2 \u03b1\u03c5\u03c4\u03cc\u03bd \u03c4\u03bf\u03bd \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc \u03c0\u03c1\u03bf\u03ba\u03b5\u03b9\u03bc\u03ad\u03bd\u03bf\u03c5 \u03bd\u03b1 \u03b4\u03b9\u03b5\u03c5\u03ba\u03bf\u03bb\u03cd\u03bd\u03b5\u03c4\u03b5 \u03c4\u03b7 \u03b4\u03b9\u03b1\u03b4\u03b9\u03ba\u03b1\u03c3\u03af\u03b1 \u03b5\u03bd\u03c4\u03bf\u03c0\u03b9\u03c3\u03bc\u03bf\u03cd \u03ba\u03b1\u03b9 \u03b5\u03c0\u03af\u03bb\u03c5\u03c3\u03b7\u03c2 \u03c4\u03bf\u03c5 \u03c0\u03c1\u03bf\u03b2\u03bb\u03ae\u03bc\u03b1\u03c4\u03bf\u03c2:",
         "es": "Si informas este error, por favor reporta tambi\u00e9n este n\u00famero de seguimiento, el cual hace posible ubicar tu sesi\u00f3n en los registros disponibles para el administrador de sistema:",
         "et": "Kui rapoteerid sellest t\u00f5rkest, siis teata kindlasti ka j\u00e4lgimisnumber, mis v\u00f5imaldab s\u00fcsteemiadministraatoril logifailidest sinu sessiooniga seotud infot leida:",
         "eu": "Mesedez, errore honen berri ematen baduzu, mantendu ezazu jarraipen zenbaki hau, honek sistemaren administratzaileak dituen erregistroetan zure saioa aurkitzea ahalbidetzen baitu:",
@@ -67,7 +69,7 @@
         "sv": "Om du rapporterar felet b\u00f6r du ocks\u00e5 skicka med detta sp\u00e5rnings-ID. Det g\u00f6r det enklare f\u00f6r den som sk\u00f6ter systemet att fels\u00f6ka problemet:",
         "tr": "Bu hatay\u0131 bildirirseniz, l\u00fctfen, sistem y\u00f6neticisi taraf\u0131ndan incelebilen kay\u0131tlardan oturumunuzun belirlenebilmesini sa\u011flayan izleme ID'sini de bildirin.",
         "zh": "\u5982\u679c\u4f60\u62a5\u544a\u4e86\u8fd9\u4e2a\u9519\u8bef\uff0c\u90a3\u4e48\u8bf7\u4f60\u4e5f\u62a5\u544a\u8fd9\u4e2a\u8ffd\u8e2a\u53f7\u7801\uff0c\u7cfb\u7edf\u7ba1\u7406\u5458\u6709\u53ef\u80fd\u6839\u636e\u8fd9\u4e2a\u53f7\u7801\u5728\u65e5\u5fd7\u4e2d\u5b9a\u4f4d\u4f60\u7684SESSION",
-        "zh-tw": "\u5982\u679c\u60a8\u56de\u5831\u9019\u500b\u932f\u8aa4\uff0c\u8acb\u540c\u6642\u56de\u5831\u9019\u500b\u8ffd\u8e64\u6578\u5b57\uff0c\u8b93\u7cfb\u7d71\u7ba1\u7406\u54e1\u53ef\u4ee5\u85c9\u7531\u5b83\u5728\u8a18\u9304\u88e1\u627e\u5230\u60a8\u7684\u9023\u7dda\uff1a"
+        "zh-tw": "\u5982\u679c\u60a8\u56de\u5831\u9019\u500b\u932f\u8aa4\uff0c\u8acb\u540c\u6642\u56de\u5831\u9019\u500b\u8ffd\u8e64\u865f\u78bc\uff0c\u8b93\u7cfb\u7d71\u7ba1\u7406\u54e1\u53ef\u4ee5\u85c9\u7531\u5b83\u627e\u5230\u60a8\u7684\u9023\u7dda\u8a18\u9304\uff1a"
     },
     "debuginfo_header": {
         "af": "Ontleed informasie",
@@ -75,6 +77,7 @@
         "cs": "Ladic\u00ed informace",
         "da": "Detaljer til fejls\u00f8gning",
         "de": "Debug Information",
+        "el": "\u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2 \u03b5\u03bd\u03c4\u03bf\u03c0\u03b9\u03c3\u03bc\u03bf\u03cd \u03c3\u03c6\u03b1\u03bb\u03bc\u03ac\u03c4\u03c9\u03bd",
         "es": "Informaci\u00f3n de depuraci\u00f3n",
         "et": "Silumisinfo",
         "eu": "Arazketa informazioa",
@@ -110,6 +113,7 @@
         "cs": "N\u00e1sleduj\u00edc\u00ed ladic\u00ed informace m\u016f\u017ee zaj\u00edmat administr\u00e1tora (helpdesk)",
         "da": "Detaljerne herunder kan v\u00e6re af interesse for teknikerne \/ help-desken",
         "de": "Die unten angegebene Debug-Information kann von Interesse f\u00fcr den Administrator oder das Helpdesk sein:",
+        "el": "\u039f\u03b9 \u03c0\u03b1\u03c1\u03b1\u03ba\u03ac\u03c4\u03c9 \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03b4\u03b9\u03b5\u03c5\u03ba\u03bf\u03bb\u03cd\u03bd\u03bf\u03c5\u03bd \u03c4\u03b7 \u03b4\u03b9\u03b1\u03b4\u03b9\u03ba\u03b1\u03c3\u03af\u03b1 \u03b5\u03bd\u03c4\u03bf\u03c0\u03b9\u03c3\u03bc\u03bf\u03cd \u03ba\u03b1\u03b9 \u03b5\u03c0\u03af\u03bb\u03c5\u03c3\u03b7\u03c2 \u03c3\u03c6\u03b1\u03bb\u03bc\u03ac\u03c4\u03c9\u03bd.",
         "es": "La informaci\u00f3n de depuraci\u00f3n que aparece a continuaci\u00f3n puede ser de inter\u00e9s del administrador y\/o mesa de ayuda:",
         "et": "Allpool olev silumisinfo v\u00f5ib olla administraatorile v\u00f5i kasutajatoele v\u00e4ga kasulik:",
         "eu": "Arazketa informazio hau erabilgarria izan daiteke sistemaren administratzailea edo erabiltzailearen arreta zentroarentzat:",
@@ -137,7 +141,7 @@
         "sv": "Detaljerna nedan kan vara av intresse f\u00f6r helpdesk eller de som sk\u00f6ter systemet:",
         "tr": "A\u015fa\u011f\u0131daki hata ay\u0131klama bilgisi y\u00f6neticinin\/yard\u0131m masas\u0131n\u0131n ilgisini \u00e7ekebilir:",
         "zh": "\u7ba1\u7406\u5458\u6216\u8005\u670d\u52a1\u53f0\u53ef\u80fd\u5bf9\u4e0b\u9762\u7684\u8c03\u8bd5\u4fe1\u606f\u5f88\u611f\u5174\u8da3",
-        "zh-tw": "\u7ba1\u7406\u54e1\/\u670d\u52d9\u53f0\u53ef\u80fd\u5c0d\u4e0b\u5217\u9664\u932f\u8cc7\u8a0a\u6709\u8208\u8da3\uff1a"
+        "zh-tw": "\u7ba1\u7406\u54e1\u6216\u670d\u52d9\u53f0\u53ef\u80fd\u5c0d\u4e0b\u5217\u9664\u932f\u8cc7\u8a0a\u6709\u8208\u8da3\uff1a"
     },
     "report_header": {
         "af": "Rapporteer foute",
@@ -145,6 +149,7 @@
         "cs": "Ozn\u00e1mit chyby",
         "da": "Rapport\u00e9r fejl",
         "de": "Fehler melden",
+        "el": "\u0391\u03bd\u03b1\u03c6\u03bf\u03c1\u03ac \u03c3\u03c6\u03ac\u03bb\u03bc\u03b1\u03c4\u03bf\u03c2",
         "es": "Informar errores",
         "et": "Raporteeri t\u00f5rked",
         "eu": "Erroreen berri eman",
@@ -180,6 +185,7 @@
         "cs": "M\u016f\u017eete uv\u00e9st svou emailovou adresu, aby v\u00e1s mohl administr\u00e1tor kontaktovat:",
         "da": "Hvis du vil kunne kontaktes i forbindelse med fejlmeldingen, bedes du indtaste din emailadresse herunder",
         "de": "Geben Sie optional eine E-Mail-Adresse an, so dass der Administrator Sie bei etwaigen R\u00fcckfragen kontaktieren kann:",
+        "el": "\u03a0\u03c1\u03bf\u03b1\u03b9\u03c1\u03b5\u03c4\u03b9\u03ba\u03ac, \u03b5\u03b9\u03c3\u03ac\u03b3\u03b5\u03c4\u03b5 \u03c4\u03b7 \u03b4\u03b9\u03b5\u03cd\u03b8\u03c5\u03bd\u03c3\u03b7 \u03b7\u03bb\u03b5\u03ba\u03c4\u03c1\u03bf\u03bd\u03b9\u03ba\u03bf\u03cd \u03c4\u03b1\u03c7\u03c5\u03b4\u03c1\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u03c3\u03b1\u03c2 \u03ce\u03c3\u03c4\u03b5 \u03bd\u03b1 \u03b5\u03af\u03bc\u03b1\u03c3\u03c4\u03b5 \u03c3\u03b5 \u03b8\u03ad\u03c3\u03b7 \u03bd\u03b1 \u03ad\u03c1\u03b8\u03bf\u03c5\u03bc\u03b5 \u03c3\u03b5 \u03b5\u03c0\u03b1\u03c6\u03ae \u03bc\u03b1\u03b6\u03af \u03c3\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c0\u03b5\u03c1\u03b1\u03b9\u03c4\u03ad\u03c1\u03c9 \u03b5\u03c1\u03c9\u03c4\u03ae\u03c3\u03b5\u03b9\u03c2 \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03ac \u03bc\u03b5 \u03c4\u03bf \u03b8\u03ad\u03bc\u03b1 \u03c3\u03b1\u03c2:",
         "es": "Ingresa opcionalmente tu direcci\u00f3n de correo electr\u00f3nico, para que los administradores puedan ponerse en contacto contigo con preguntas sobre tu incidencia:",
         "et": "Lisaks sisesta ka oma meiliaadress, et administraatorid saaksid seosest selle t\u00f5rkega vajadusel sinuga hiljem \u00fchendust v\u00f5tta:",
         "eu": "Nahi izanez gero, zure helbide elektronikoa adierazi ezazu, administratzaileak zurekin harremanetan jar daitezen, eta zure arazoaren datu gehigarriak eskura ditzaten:",
@@ -215,6 +221,7 @@
         "cs": "Email",
         "da": "E-mailadresse:",
         "de": "E-Mail-Adresse:",
+        "el": "Email:",
         "es": "Direcci\u00f3n de correo electr\u00f3nico:",
         "et": "E-posti aadress:",
         "eu": "E-posta:",
@@ -243,7 +250,7 @@
         "sv": "E-postadress",
         "tr": "E-posta adresi:",
         "zh": "E-mail\u5730\u5740",
-        "zh-tw": "\u96fb\u5b50\u90f5\u4ef6:"
+        "zh-tw": "Email"
     },
     "report_explain": {
         "af": "Verduidelik wat jy gedoen het toe jy die probleem ervaar...",
@@ -251,6 +258,7 @@
         "cs": "Vysv\u011btlete jak do\u0161lo k t\u00e9to chyb\u011b ...",
         "da": "Forklar hvad du gjorde og hvordan fejlen opstod",
         "de": "Erl\u00e4utern Sie, wodurch der Fehler auftrat...",
+        "el": "\u03a0\u03b5\u03c1\u03b9\u03b3\u03c1\u03ac\u03c8\u03c4\u03b5 \u03c4\u03b9\u03c2 \u03b5\u03bd\u03ad\u03c1\u03b3\u03b5\u03b9\u03ad\u03c2 \u03c3\u03b1\u03c2 \u03cc\u03c4\u03b1\u03bd \u03c3\u03c5\u03bd\u03ad\u03b2\u03b7 \u03c4\u03bf \u03c3\u03c6\u03ac\u03bb\u03bc\u03b1...",
         "es": "Explica lo que hac\u00edas cuando ocurri\u00f3 este error...",
         "et": "Kirjelda, millega tegelesid, kui see t\u00f5rge ilmnes...",
         "eu": "Azal ezazu zer egin duzun errore honetara iristeko...",
@@ -278,7 +286,7 @@
         "sv": "F\u00f6rklara hur felet uppstod...",
         "tr": "Bu hatan\u0131n neden olu\u015ftu\u011funu a\u00e7\u0131klay\u0131n...",
         "zh": "\u8bf4\u660e\u4e00\u4e0b\uff0c\u4f60\u6b63\u5728\u505a\u4ec0\u4e48\u7684\u65f6\u5019\u53d1\u751f\u4e86\u8fd9\u4e2a\u9519\u8bef",
-        "zh-tw": "\u89e3\u91cb\u7576\u4f60\u767c\u751f\u932f\u8aa4\u6642\u6240\u505a\u7684\u4e8b\u60c5..."
+        "zh-tw": "\u8acb\u8aaa\u660e\u4e00\u4e0b\uff0c\u7576\u60a8\u767c\u751f\u932f\u8aa4\u6642\u6240\u505a\u7684\u52d5\u4f5c..."
     },
     "report_submit": {
         "af": "Stuur die fout verslag",
@@ -286,6 +294,7 @@
         "cs": "Zaslat chybov\u00fd report",
         "da": "Send fejlrapport",
         "de": "Fehlerbericht absenden",
+        "el": "\u0391\u03c0\u03bf\u03c3\u03c4\u03bf\u03bb\u03ae \u03b1\u03bd\u03b1\u03c6\u03bf\u03c1\u03ac\u03c2",
         "es": "Enviar informe de errores",
         "et": "Saada t\u00f5rkeraport",
         "eu": "Bidal ezazu errorearen txostena",
@@ -321,6 +330,7 @@
         "cs": "Jak z\u00edskat pomoc",
         "da": "Hvordan kan jeg f\u00e5 hj\u00e6lp",
         "de": "Wie man Hilfe bekommt",
+        "el": "\u03a0\u03ce\u03c2 \u03bd\u03b1 \u03bb\u03ac\u03b2\u03b5\u03c4\u03b5 \u03b2\u03bf\u03ae\u03b8\u03b5\u03b9\u03b1",
         "es": "C\u00f3mo conseguir ayuda",
         "et": "Kuidas saada abi",
         "eu": "Laguntza nola eskuratu",
@@ -356,6 +366,7 @@
         "cs": "Tato chyba pravd\u011bpodobn\u011b vznikla neo\u010dek\u00e1vanou ud\u00e1lost\u00ed, nebo chybou v konfiguraci. Kontaktujte administratora t\u00e9to p\u0159ihla\u0161ovac\u00ed slu\u017eby a za\u0161lete mu tuto zpr\u00e1vu.",
         "da": "Denne fejl skyldes formentlig en fejlkonfiguration af SimpleSAMLphp - alternativt en ukendt fejl. Kontakt administratoren af denne tjeneste og rapport\u00e9r s\u00e5 mange detaljer som muligt om fejlen",
         "de": "Dieser Fehler ist wahrscheinlich auf Grund eines unvorhergesehenen Verhaltens oder einer Fehlkonfiguration von SimpleSAMLphp aufgetreten. Kontaktieren Sie bitte den Administrator dieses Dienstes und teilen die obige Fehlermeldung mit.",
+        "el": "\u0391\u03c5\u03c4\u03cc \u03c4\u03bf \u03c3\u03c6\u03ac\u03bb\u03bc\u03b1 \u03c0\u03b9\u03b8\u03b1\u03bd\u03cc\u03c4\u03b1\u03c4\u03b1 \u03bf\u03c6\u03b5\u03af\u03bb\u03b5\u03c4\u03b1\u03b9 \u03c3\u03b5 \u03ba\u03ac\u03c0\u03bf\u03b9\u03b1 \u03b1\u03c0\u03c1\u03bf\u03c3\u03b4\u03cc\u03ba\u03b7\u03c4\u03b7 \u03c3\u03c5\u03bc\u03c0\u03b5\u03c1\u03b9\u03c6\u03bf\u03c1\u03ac \u03ae \u03b5\u03c3\u03c6\u03b1\u03bb\u03bc\u03ad\u03bd\u03b7 \u03c1\u03cd\u03b8\u03bc\u03b9\u03c3\u03b7 \u03c4\u03bf\u03c5 SimpleSAMLphp. \u0395\u03c0\u03b9\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03ae\u03c3\u03c4\u03b5 \u03bc\u03b5 \u03c4\u03bf\u03bd \u03b4\u03b9\u03b1\u03c7\u03b5\u03b9\u03c1\u03b9\u03c3\u03c4\u03ae \u03b1\u03c5\u03c4\u03ae\u03c2 \u03c4\u03b7\u03c2 \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b1\u03c2 \u03c3\u03c5\u03bc\u03c0\u03b5\u03c1\u03b9\u03bb\u03b1\u03bc\u03b2\u03ac\u03bd\u03bf\u03bd\u03c4\u03b1\u03c2 \u03c4\u03bf \u03c0\u03b1\u03c1\u03b1\u03c0\u03ac\u03bd\u03c9 \u03bc\u03ae\u03bd\u03c5\u03bc\u03b1 \u03c3\u03c6\u03ac\u03bb\u03bc\u03b1\u03c4\u03bf\u03c2.",
         "es": "Este error se debe probablemente a alg\u00fan comportamiento inesperado o mala configuraci\u00f3n de SimpleSAMLphp. Ponte en contacto con el administrador de este servicio de inicio de sesi\u00f3n, y env\u00edale el mensaje de error que aparece arriba.",
         "et": "See t\u00f5rge ilmnes t\u00f5en\u00e4oliselt SimpleSAMLphp ootamatu k\u00e4itumise v\u00f5i valesti seadistamise t\u00f5ttu. V\u00f5ta \u00fchendust selle sisselogimisteenuse administraatoriga ja saada talle \u00fclalolev veateade.",
         "eu": "Errore hau jazo izana SimpleSAMLphp-en ezusteko jokaera edo konfigurazio okerra izan da. Jar zaitez harremanetan identifikazio zerbitzu honen administratzailearekin eta bidal iezaiozu lehenagoko errore mezua. ",
@@ -383,7 +394,7 @@
         "sv": "Detta fel beror troligtvis p\u00e5 att ov\u00e4ntat beteende eller felkonfigurering av SimpleSAMLphp. Kontakta den som sk\u00f6ter inloggningtj\u00e4nsten f\u00f6r att meddela dem ovanst\u00e5ende felmeddelande.",
         "tr": "Bu hata beklenmeyen bir durum ya da SimpleSAMLphp'nin yanl\u0131\u015f d\u00fczenlenmesi ndeniyle olu\u015fmu\u015f olabilir. Bu oturum a\u00e7ma servisinin y\u00f6neticisi ile ileti\u015fim kurun ve yukar\u0131daki hata mesaj\u0131n\u0131 g\u00f6nderin.",
         "zh": "\u8fd9\u4e2a\u9519\u8bef\u53ef\u80fd\u662f\u7531\u4e8e\u4e00\u4e9b\u610f\u60f3\u4e0d\u5230\u7684\u884c\u4e3a\u6216\u8005\u662fSimpleSAMLphp\u7684\u914d\u7f6e\u9519\u8bef\u5bfc\u81f4\u7684\uff0c\u8bf7\u8054\u7cfb\u8fd9\u4e2a\u767b\u5f55\u670d\u52a1\u5668\u7684\u7ba1\u7406\u5458\u5e76\u628a\u4e0a\u9762\u7684\u9519\u8bef\u6d88\u606f\u53d1\u9001\u7ed9\u4ed6\u4eec",
-        "zh-tw": "\u9019\u500b\u554f\u984c\u53ef\u80fd\u662f\u56e0\u70ba SimpleSAMLphp \u7684\u67d0\u4e9b\u4f8b\u5916\u7684\u884c\u70ba\u6216\u7121\u6548\u8a2d\u5b9a\u3002\u9023\u7d61\u9019\u500b\u767b\u5165\u670d\u52d9\u7684\u7ba1\u7406\u54e1\uff0c\u4ee5\u53ca\u50b3\u9001\u9019\u4e9b\u932f\u8aa4\u8a0a\u606f\u3002"
+        "zh-tw": "\u9019\u500b\u554f\u984c\u53ef\u80fd\u662f\u56e0\u70ba SimpleSAMLphp \u7684\u67d0\u4e9b\u4f8b\u5916\u884c\u70ba\u6216\u7121\u6548\u8a2d\u5b9a\u6240\u5c0e\u81f4\u3002\u8acb\u806f\u7e6b\u9019\u500b\u767b\u5165\u670d\u52d9\u7684\u7ba1\u7406\u54e1\uff0c\u4e26\u50b3\u9001\u9019\u4e9b\u932f\u8aa4\u8a0a\u606f\u3002"
     },
     "title_CREATEREQUEST": {
         "af": "Fout met skepping van nuwe versoek",
@@ -391,6 +402,7 @@
         "cs": "Chyba p\u0159i vytv\u00e1\u0159en\u00ed po\u017eadavku",
         "da": "Fejl ved foresp\u00f8rgsel",
         "de": "Fehler beim Erzeugen der Anfrage",
+        "el": "\u03a3\u03c6\u03ac\u03bb\u03bc\u03b1 \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7 \u03b4\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03b1\u03b9\u03c4\u03ae\u03bc\u03b1\u03c4\u03bf\u03c2",
         "es": "Hubo un error al crear la solicitud",
         "et": "T\u00f5rge p\u00e4ringu loomisel",
         "eu": "Errorea eskaera sortzean",
@@ -418,7 +430,7 @@
         "sv": "Fel vid skapandet av f\u00f6rfr\u00e5gan",
         "tr": "\u0130stek olu\u015fturmada hata",
         "zh": "\u521b\u5efa\u8bf7\u6c42\u51fa\u9519",
-        "zh-tw": "\u932f\u8aa4\u7522\u751f\u8acb\u6c42"
+        "zh-tw": "\u5efa\u7acb\u8acb\u6c42\u932f\u8aa4"
     },
     "descr_CREATEREQUEST": {
         "af": "Daar was 'n fout met die skepping van die SAML versoek.",
@@ -426,6 +438,7 @@
         "cs": "Chyba vznikla p\u0159i vytv\u00e1\u0159en\u00ed SAML po\u017eadavku.",
         "da": "Fejl ved generering af SAML-foresp\u00f8rgsel",
         "de": "Ein Fehler beim Erzeugen der SAML-Anfrage ist aufgetreten.",
+        "el": "\u03a0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5 \u03c3\u03c6\u03ac\u03bb\u03bc\u03b1 \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7 \u03b4\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03c4\u03bf\u03c5 \u03b1\u03b9\u03c4\u03ae\u03bc\u03b1\u03c4\u03bf\u03c2 SAML.",
         "es": "Ocurri\u00f3 un error al intentar crear la solicitud SAML",
         "et": "SAML p\u00e4ringu loomisel ilmnes t\u00f5rge.",
         "eu": "Errore bat jazo da SAML eskaera sortzen saiatzean.",
@@ -461,6 +474,7 @@
         "cs": "\u0160patn\u00fd po\u017eadavek pro prohled\u00e1vac\u00ed slu\u017ebu",
         "da": "Fejlagtig foresp\u00f8rgsel til Discovery Service",
         "de": "Ung\u00fcltige Anfrage an den Discovery Service",
+        "el": "\u0395\u03c3\u03c6\u03b1\u03bb\u03bc\u03ad\u03bd\u03bf \u03b1\u03af\u03c4\u03b7\u03bc\u03b1 \u03c0\u03c1\u03bf\u03c2 \u03c4\u03b7\u03bd \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b1 \u03b1\u03bd\u03b5\u03cd\u03c1\u03b5\u03c3\u03b7\u03c2 \u03c0\u03b1\u03c1\u03cc\u03c7\u03bf\u03c5 \u03c4\u03b1\u03c5\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2",
         "es": "Solicitud incorrecta para el servicio de descubrimiento",
         "et": "Halb tuvastusteenuse p\u00e4ring",
         "eu": "Eskaera okerra aurkikuntza zerbitzuari",
@@ -496,6 +510,7 @@
         "cs": "Parametr zaslan\u00fd vyhled\u00e1vac\u00ed slu\u017eb\u011b neodpov\u00edd\u00e1 specifikaci.",
         "da": "De afsendte v\u00e6rdier overholder ikke Discovery Servicens' krav",
         "de": "Die Parameter, die an den Discovery Service geschickt wurden, entsprachen nicht der Spezifikation.",
+        "el": "\u039f\u03b9 \u03c0\u03b1\u03c1\u03ac\u03bc\u03b5\u03c4\u03c1\u03bf\u03b9 \u03c0\u03bf\u03c5 \u03c3\u03c4\u03ac\u03bb\u03b8\u03b7\u03ba\u03b1\u03bd \u03c3\u03c4\u03b7\u03bd \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b1 \u03b1\u03bd\u03b5\u03cd\u03c1\u03b5\u03c3\u03b7\u03c2 \u03c0\u03b1\u03c1\u03cc\u03c7\u03bf\u03c5 \u03c4\u03b1\u03c5\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2 \u03ae\u03c4\u03b1\u03bd \u03b5\u03c3\u03c6\u03b1\u03bb\u03bc\u03ad\u03bd\u03b5\u03c2.",
         "es": "Los par\u00e1metros enviados al servicio de descubrimiento, no se apegan a las especificaciones.",
         "et": "Tuvastusteenusele saadetud parameetrid ei vastanud n\u00f5uetele.",
         "eu": "Aurkikuntza zerbitzuari bidalitako prametroak ez dira zehaztapenera doitzen.",
@@ -523,7 +538,7 @@
         "sv": "Parametrarna som skickades till lokaliseringstj\u00e4nsten f\u00f6ljde inte specifikationen.",
         "tr": "Tan\u0131ma servisine g\u00f6nderilen parametreler tan\u0131mlananlara g\u00f6re de\u011fildi.",
         "zh": "\u53d1\u9001\u7ed9\u641c\u5bfb\u670d\u52a1\u7684\u53c2\u6570\u4e0d\u7b26\u5408\u89c4\u8303",
-        "zh-tw": "\u50b3\u905e\u81f3\u641c\u5c0b\u670d\u52d9\u7684\u53c3\u6578\u4e26\u975e\u6309\u7167\u898f\u683c\u6240\u8a02\u3002"
+        "zh-tw": "\u50b3\u905e\u81f3\u641c\u5c0b\u670d\u52d9\u7684\u53c3\u6578\u4e26\u4e0d\u7b26\u5408\u898f\u7bc4\u8981\u6c42\u3002"
     },
     "title_GENERATEAUTHNRESPONSE": {
         "af": "Kon nie 'n verifikasie versoek skep nie",
@@ -531,6 +546,7 @@
         "cs": "Nelze vytvo\u0159it odpov\u011b\u010f",
         "da": "Kunne ikke generere single sign-on svar",
         "de": "Konnte keine Authentifikationsantwort erstellen",
+        "el": "\u0394\u03b5\u03bd \u03ae\u03c4\u03b1\u03bd \u03b4\u03c5\u03bd\u03b1\u03c4\u03ae \u03b7 \u03b4\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03b1\u03c0\u03cc\u03ba\u03c1\u03b9\u03c3\u03b7\u03c2 \u03c3\u03c4\u03bf \u03b1\u03af\u03c4\u03b7\u03bc\u03b1 \u03c4\u03b1\u03c5\u03c4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7\u03c2",
         "es": "No se pudo crear la respuesta de autenticaci\u00f3n",
         "et": "Autentimisvastuse loomine ei \u00f5nnestunud",
         "eu": "Ezin izan da kautotze erantzuna sortu",
@@ -558,7 +574,7 @@
         "sv": "Kunde inte skapa inloggingssvaret",
         "tr": "Kimlik do\u011frulama cevab\u0131 olu\u015fturulamad\u0131",
         "zh": "\u65e0\u6cd5\u521b\u5efa\u8ba4\u8bc1\u5e94\u7b54",
-        "zh-tw": "\u7121\u6cd5\u5efa\u7acb\u8a8d\u8b49\u56de\u61c9"
+        "zh-tw": "\u7121\u6cd5\u5efa\u7acb\u9a57\u8b49\u56de\u8986"
     },
     "descr_GENERATEAUTHNRESPONSE": {
         "af": "Daar was 'n fout tydens die verifikasie skepping deur die Identiteits Verskaffer.",
@@ -566,6 +582,7 @@
         "cs": "P\u0159i vytv\u00e1\u0159en\u00ed p\u0159ihla\u0161ovac\u00ed odpov\u011bdi t\u00edmto poskytovatelem identity, vznikla chyba.",
         "da": "En fejl opstod da denne identitetsudbyder fors\u00f8gte at sende svar",
         "de": "Beim Versuch des Identity Providers eine Authentifikationsantwort zu erstellen trat ein Fehler auf.",
+        "el": "\u03a0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5 \u03c3\u03c6\u03ac\u03bb\u03bc\u03b1 \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7 \u03b4\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03b1\u03c0\u03cc\u03ba\u03c1\u03b9\u03c3\u03b7\u03c2 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u03c0\u03ac\u03c1\u03bf\u03c7\u03bf \u03c4\u03b1\u03c5\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2.",
         "es": "Cuando este proveedor de identidad intent\u00f3 crear una respuesta de autenticaci\u00f3n, ocurri\u00f3 un error.",
         "et": "T\u00f5rge tekkis, kui see identiteedipakkuja p\u00fc\u00fcdis luua autentimisvastust.",
         "eu": "Identitatearen hornitzaileak errore bat antzeman du kautotze erantzuna sortzean.",
@@ -593,7 +610,7 @@
         "sv": "N\u00e4r identitetshanteraren (Identity Provider) f\u00f6rs\u00f6kte skapa inloggingssvaret uppstod ett fel.",
         "tr": "Bu kimlik sa\u011flay\u0131c\u0131 bir kimlik do\u011frulama cevab\u0131 olu\u015fturuken hata olu\u015ftu.",
         "zh": "\u5728\u8fd9\u4e2a\u8eab\u4efd\u63d0\u4f9b\u8005\u521b\u5efa\u8ba4\u8bc1\u5e94\u7b54\u7684\u65f6\u5019\u53d1\u751f\u4e86\u4e00\u4e2a\u9519\u8bef",
-        "zh-tw": "\u7576\u9019\u500b\u9a57\u8b49\u63d0\u4f9b\u8005\u5617\u8a66\u5efa\u7acb\u4e00\u500b\u9a57\u8b49\u56de\u61c9\u6642\uff0c\u6709\u500b\u932f\u8aa4\u767c\u751f\u3002"
+        "zh-tw": "\u7576\u9019\u500b\u9a57\u8b49\u63d0\u4f9b\u8005\u5617\u8a66\u5efa\u7acb\u4e00\u500b\u9a57\u8b49\u56de\u8986\u6642\uff0c\u6709\u500b\u932f\u8aa4\u767c\u751f\u3002"
     },
     "title_LDAPERROR": {
         "af": "LDAP Fout",
@@ -601,6 +618,7 @@
         "cs": "LDAP chyba",
         "da": "LDAP fejl",
         "de": "LDAP Fehler",
+        "el": "\u03a3\u03c6\u03ac\u03bb\u03bc\u03b1 LDAP",
         "es": "Hubo un error de LDAP",
         "et": "LDAP-t\u00f5rge",
         "eu": "LDAP Errorea",
@@ -636,6 +654,7 @@
         "cs": "LDAP je datab\u00e1ze u\u017eivatel\u016f, a kdy\u017e se chcete p\u0159ihl\u00e1sit, je pot\u0159eba se p\u0159ihl\u00e1sit do LDAP datab\u00e1ze. Chyba nastala b\u011bhem p\u0159ipojov\u00e1n\u00ed.",
         "da": "Der opstod en fejl i kommunikationen med LDAP databasen under login.",
         "de": "LDAP ist die gew\u00e4hlte Nutzerdatenbank. Wenn Sie versuchen sich anzumelden, muss auf diese LDAP-Datenbank zugegriffen werden, dabei ist dieses mal ein Fehler aufgetreten.",
+        "el": "\u03a0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5 \u03c3\u03c6\u03ac\u03bb\u03bc\u03b1 \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03bd \u03b5\u03c0\u03b9\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03af\u03b1 \u03bc\u03b5 \u03c4\u03b7\u03bd \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b1 \u03ba\u03b1\u03c4\u03b1\u03bb\u03cc\u03b3\u03bf\u03c5 \u03c7\u03c1\u03b7\u03c3\u03c4\u03ce\u03bd (LDAP).",
         "es": "LDAP es la base de datos de usuarios, y cuando intentas iniciar sesi\u00f3n, necesitamos contactar la base de datos LDAP. Ocurri\u00f3 un error cuanto intentamos hacerlo esta vez.",
         "et": "LDAP on kasutajate andmebaas ja sisselogimisel p\u00fc\u00fctakse  LDAP-andmebaasi \u00fchendust luua. Seekord tekkis \u00fchenduse loomisel t\u00f5rge.",
         "eu": "LDAP erabiltzaileen datu basea da, eta sartzea erabakitzen duzunean beharrezkoa da harekin harremanetan jartzea. Sartze ekintza horretan errore bat jazo da.",
@@ -663,7 +682,7 @@
         "sv": "LDAP anv\u00e4nds som anv\u00e4ndardatabas och n\u00e4r du f\u00f6rs\u00f6ker logga m\u00e5ste LDAP-servern kontaktas. Vid f\u00f6rs\u00f6ket att kontakta LDAP-servern uppstod ett fel.",
         "tr": "LDAP kullan\u0131c\u0131 veritaban\u0131 ve siz giri\u015f yapmaya \u00e7al\u0131\u015f\u0131rken, LDAP veritaban\u0131na ba\u011flanmam\u0131z gerekiyor. Bu seferlik denerken bir sorun olu\u015ftu.",
         "zh": "LDAP\u662f\u4e00\u4e2a\u7528\u6237\u6570\u636e\u5e93\uff0c\u5f53\u4f60\u8bd5\u56fe\u767b\u5f55\u65f6\uff0c\u6211\u4eec\u9700\u8981\u8fde\u63a5\u5230LDAP\u6570\u636e\u5e93\uff0c\u7136\u800c\u8fd9\u6b21\u6211\u4eec\u8bd5\u56fe\u94fe\u63a5\u65f6\u53d1\u751f\u4e86\u4e00\u4e2a\u9519\u8bef",
-        "zh-tw": "LDAP \u662f\u4f7f\u7528\u9019\u8cc7\u6599\u5eab\uff0c\u7576\u60a8\u5617\u8a66\u767b\u5165\u6642\uff0c\u6211\u5011\u5fc5\u9808\u9023\u7d50\u81f3\u4e00\u500b LDAP \u8cc7\u6599\u5eab\u3002\u800c\u5728\u5617\u8a66\u6642\u6709\u500b\u932f\u8aa4\u767c\u751f\u3002"
+        "zh-tw": "LDAP \u662f\u4f7f\u7528\u8005\u8cc7\u6599\u5eab\uff0c\u7576\u60a8\u5617\u8a66\u767b\u5165\u6642\uff0c\u6211\u5011\u5fc5\u9808\u9023\u7d50\u81f3\u4e00\u500b LDAP \u8cc7\u6599\u5eab\uff0c\u800c\u5728\u5617\u8a66\u767b\u5165\u6642\u6709\u500b\u932f\u8aa4\u767c\u751f\u3002"
     },
     "title_LOGOUTREQUEST": {
         "af": "Fout met die verwerking van die Afmeldings Versoek",
@@ -671,6 +690,7 @@
         "cs": "Chyba zpracov\u00e1n\u00ed odhla\u0161ovac\u00edho po\u017eadavku",
         "da": "Fejl i Logout Request",
         "de": "Fehler beim Bearbeiten der Abmeldeanfrage",
+        "el": "\u03a3\u03c6\u03ac\u03bb\u03bc\u03b1 \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7 \u03b4\u03b9\u03b1\u03b4\u03b9\u03ba\u03b1\u03c3\u03af\u03b1 \u03b1\u03c0\u03bf\u03c3\u03cd\u03bd\u03b4\u03b5\u03c3\u03b7\u03c2",
         "es": "Hubo un error al procesar la solicitud de cerrar sesi\u00f3n",
         "et": "T\u00f5rge v\u00e4ljalogimisp\u00e4ringu t\u00f6\u00f6tlemisel",
         "eu": "Errorea saioa ixteko eskaera prozesatzean ",
@@ -698,7 +718,7 @@
         "sv": "Fel vid utloggningsf\u00f6rfr\u00e5gan",
         "tr": "\u00c7\u0131k\u0131\u015f \u0130ste\u011fini i\u015flerken hata olu\u015ftu",
         "zh": "\u5904\u7406\u9000\u51fa\u8bf7\u6c42\u65f6\u53d1\u751f\u9519\u8bef",
-        "zh-tw": "\u767b\u51fa\u8acb\u6c42\u70ba\u932f\u8aa4\u7a0b\u5e8f"
+        "zh-tw": "\u8655\u7406\u767b\u51fa\u8acb\u6c42\u6642\u767c\u751f\u932f\u8aa4"
     },
     "descr_LOGOUTREQUEST": {
         "af": "Daar was 'n probleem tydens die verwerking van die Afmelding  Versoek",
@@ -706,6 +726,7 @@
         "cs": "P\u0159i procesu odhl\u00e1\u0161en\u00ed vznikla chyba.",
         "da": "Der opstod en fejl under behandlingen af Logout foresp\u00f8rgelsen",
         "de": "Beim Versuch die Abmeldeanfrage zu bearbeiten ist ein Fehler aufgetreten.",
+        "el": "\u03a0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03b1\u03c3\u03c4\u03ae\u03ba\u03b5 \u03c3\u03c6\u03ac\u03bb\u03bc\u03b1 \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03bd \u03b5\u03c0\u03b5\u03be\u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b1 \u03c4\u03bf\u03c5 \u03b1\u03b9\u03c4\u03ae\u03bc\u03b1\u03c4\u03bf\u03c2 \u03b1\u03c0\u03bf\u03c3\u03cd\u03bd\u03b4\u03b5\u03c3\u03b7\u03c2.",
         "es": "Ocurri\u00f3 un error cuando se intentaba procesar la solicitud de cerrar sesi\u00f3n.",
         "et": "V\u00e4ljalogimisp\u00e4ringu t\u00f6\u00f6tlemisel tekkis t\u00f5rge",
         "eu": "Errore bat jazo da saioa ixteko eskaera prozesatzean.",
@@ -733,7 +754,7 @@
         "sv": "Ett fel uppstod n\u00e4r utloggningsf\u00f6rfr\u00e5gan skulle bearbetas.",
         "tr": "\u00c7\u0131k\u0131\u015f \u0130ste\u011fini i\u015flemeye \u00e7al\u0131\u015f\u0131rken bir hata olu\u015ftu",
         "zh": "\u8bd5\u56fe\u5904\u7406\u9000\u51fa\u8bf7\u6c42\u65f6\u53d1\u751f\u4e86\u4e00\u4e2a\u9519\u8bef",
-        "zh-tw": "\u6709\u500b\u932f\u8aa4\u767c\u751f\u65bc\u6e96\u5099\u9032\u884c\u767b\u51fa\u8acb\u6c42\u6642\u3002"
+        "zh-tw": "\u6709\u500b\u932f\u8aa4\u767c\u751f\u65bc\u9032\u884c\u767b\u51fa\u8acb\u6c42\u8655\u7406\u6642\u3002"
     },
     "title_METADATA": {
         "af": "Fout met die laai van die metadata",
@@ -741,6 +762,7 @@
         "cs": "Chyba nahrav\u00e1n\u00ed metadat",
         "da": "Fejl i l\u00e6sning af metadata",
         "de": "Fehler beim Laden der Metadaten",
+        "el": "\u03a3\u03c6\u03ac\u03bb\u03bc\u03b1 \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7 \u03c6\u03cc\u03c1\u03c4\u03c9\u03c3\u03b7 \u03bc\u03b5\u03c4\u03b1\u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd",
         "es": "Hubo un error al cargar los metadatos",
         "et": "Metaandmete laadimise t\u00f5rge",
         "eu": "Errorea metadatuak kargatzean",
@@ -768,7 +790,7 @@
         "sv": "Fel vi laddandet av metadata",
         "tr": "\u00dcstveri (metadata) y\u00fcklenmesinde hata",
         "zh": "\u8f7d\u5165\u5143\u4fe1\u606f\u65f6\u53d1\u751f\u9519\u8bef",
-        "zh-tw": "\u932f\u8aa4\u8f09\u5165\u8a6e\u91cb\u8cc7\u6599"
+        "zh-tw": "\u932f\u8aa4\u8f09\u5165 Metadata \u8cc7\u6599"
     },
     "descr_METADATA": {
         "af": "Daar is fout met jou SimplSAMLphp installasie. Indien jy die administrateur is van di\u00e9 diens moet jy verseker dat jou metadata konfigurasie korrek is.",
@@ -776,6 +798,7 @@
         "cs": "Je zde chyba v konfiguraci SimpleSAMLphp. Pokud jsi administr\u00e1torem slu\u017eby zkontroluj metadata.",
         "da": "Der er en fejl i konfigurationen af din SimpleSAMLphp installation. Hvis du er administrator for denne server, check at din metadata konfiguration er korrekt.",
         "de": "Diese Installation von SimpleSAMLphp ist falsch konfiguriert. Falls Sie der Administrator dieses Dienstes sind, sollten Sie sicherstellen, dass die Metadatenkonfiguration korrekt ist.",
+        "el": "\u03a5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03ba\u03ac\u03c0\u03bf\u03b9\u03bf \u03c0\u03c1\u03cc\u03b2\u03bb\u03b7\u03bc\u03b1 \u03c3\u03c4\u03b9\u03c2 \u03c1\u03c5\u03b8\u03bc\u03af\u03c3\u03b5\u03b9\u03c2 \u03c4\u03bf\u03c5 SimpleSAMLphp. \u0395\u03ac\u03bd \u03b5\u03af\u03c3\u03c4\u03b5 \u03bf \u03b4\u03b9\u03b1\u03c7\u03b5\u03b9\u03c1\u03b9\u03c3\u03c4\u03ae\u03c2 \u03c4\u03b7\u03c2 \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b1\u03c2 \u03b1\u03c5\u03c4\u03ae\u03c2, \u03b2\u03b5\u03b2\u03b1\u03b9\u03c9\u03b8\u03b5\u03af\u03c4\u03b5 \u03cc\u03c4\u03b9 \u03c4\u03b1 \u03bc\u03b5\u03c4\u03b1\u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03b1 \u03ad\u03c7\u03bf\u03c5\u03bd \u03c1\u03c5\u03b8\u03bc\u03b9\u03c3\u03c4\u03b5\u03af \u03c3\u03c9\u03c3\u03c4\u03ac.",
         "es": "Hay algo mal configurado en tu instalaci\u00f3n de SimpleSAMLphp. Si eres el administrador de este servicio, deber\u00edas asegurarte de que la configuraci\u00f3n de tus metadatos haya sido hecha correctamente.",
         "et": "Midagi on su SimpleSAMLphp paigalduses valesti seadistatud. Kui sa oled selle teenuse administraator, siis peaksid kontrollima, et metaandmete seadistused oleks korrektselt seadistatud.",
         "eu": "Konfigurazio erroreak daude zure SimpleSAMLphp-ren instalazioan. Zerbitzuaren administratzailea bazara, ziurta ezazu metadatuen konfigurazioa zuzena dela.",
@@ -803,7 +826,7 @@
         "sv": "Det finns n\u00e5got fel i konfigurationen i installation av SimpleSAMLphp. Om du \u00e4r adminstrat\u00f6r av tj\u00e4nsten ska du kontrollera om konfigurationen av metadata \u00e4r r\u00e4tt konfigurerad.",
         "tr": "SimpleSAMLphp kurulumunuzda baz\u0131 yanl\u0131\u015f ayarlamalar s\u00f6zkonusu. E\u011fer bu servisin y\u00f6neticisi sizseniz, \u00fcstveri (metadata) ayarlar\u0131n\u0131z\u0131n d\u00fczg\u00fcn bir \u015fekilde yap\u0131ld\u0131\u011f\u0131ndan emin olun.",
         "zh": "\u4f60\u7684SimpleSAMLphp\u914d\u7f6e\u9519\u8bef\uff0c\u5982\u679c\u4f60\u662f\u8be5\u670d\u52a1\u7684\u7ba1\u7406\u5458\uff0c\u90a3\u4e48\u8bf7\u786e\u8ba4\u4f60\u7684\u914d\u7f6e\u662f\u6b63\u786e\u7684",
-        "zh-tw": "\u6709\u4e00\u4e9b\u932f\u8aa4\u8a2d\u5b9a\u5728\u60a8\u6240\u5b89\u88dd\u7684 SimpleSAMLphp\u3002\u5982\u679c\u60a8\u662f\u9019\u500b\u670d\u52d9\u7684\u7ba1\u7406\u54e1\uff0c\u60a8\u53ef\u80fd\u9700\u8981\u78ba\u8a8d\u60a8\u7684\u8a6e\u91cb\u8cc7\u6599\u8a2d\u5b9a\u662f\u5426\u6b63\u78ba\u5730\u8a2d\u7f6e\u3002"
+        "zh-tw": "\u6709\u4e00\u4e9b\u932f\u8aa4\u8a2d\u5b9a\u5728\u60a8\u6240\u5b89\u88dd\u7684 SimpleSAMLphp\u3002\u5982\u679c\u60a8\u662f\u9019\u500b\u670d\u52d9\u7684\u7ba1\u7406\u54e1\uff0c\u60a8\u53ef\u80fd\u9700\u8981\u78ba\u8a8d\u60a8\u7684 Metadata \u8a2d\u5b9a\u662f\u5426\u6b63\u78ba\u3002"
     },
     "title_NOACCESS": {
         "af": "Geen toegang",
@@ -811,6 +834,7 @@
         "cs": "Nem\u00e1te p\u0159\u00edstup",
         "da": "Ingen Adgang",
         "de": "Kein Zugriff",
+        "el": "\u03a3\u03c6\u03ac\u03bb\u03bc\u03b1 \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03bd \u03c0\u03c1\u03cc\u03c3\u03b2\u03b1\u03c3\u03b7",
         "es": "Sin acceso",
         "et": "Ligip\u00e4\u00e4s puudub",
         "eu": "Sarrera zehaztu gabe",
@@ -846,6 +870,7 @@
         "cs": "Tento koncov\u00fd bod nen\u00ed povolen. Zkontrolujte konfiguraci (zapn\u011bte volby).",
         "da": "Denne tjeneste er ikke tilsluttet. Check konfigurationen.",
         "de": "Dieser Endpunkt ist nicht aktiviert. \u00dcberpr\u00fcfen Sie die Aktivierungsoptionen in der SimpleSAMLphp Konfiguration.",
+        "el": "\u0391\u03c5\u03c4\u03cc \u03c4\u03bf \u03c4\u03b5\u03bb\u03b9\u03ba\u03cc \u03c3\u03b7\u03bc\u03b5\u03af\u03bf \u03c3\u03cd\u03bd\u03b4\u03b5\u03c3\u03b7\u03c2 (endpoint) \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03bd\u03b5\u03c1\u03b3\u03bf\u03c0\u03bf\u03b9\u03b7\u03bc\u03ad\u03bd\u03bf. \u0395\u03ac\u03bd \u03b5\u03af\u03c3\u03c4\u03b5 \u03bf \u03b4\u03b9\u03b1\u03c7\u03b5\u03b9\u03c1\u03b9\u03c3\u03c4\u03ae\u03c2 \u03c4\u03b7\u03c2 \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b1\u03c2, \u03b5\u03bb\u03ad\u03b3\u03be\u03c4\u03b5 \u03c4\u03b9\u03c2 \u03c1\u03c5\u03b8\u03bc\u03af\u03c3\u03b5\u03b9\u03c2 \u03c4\u03bf\u03c5 SimpleSAMLphp.",
         "es": "Este punto final no est\u00e1 habilitado. Revisa las opciones de habilitaci\u00f3n en la configuraci\u00f3n de SimpleSAMLphp.",
         "et": "See l\u00f5pp-punkt pole lubatud. Kontrolli oma simpleSAMPphp seadistust.",
         "eu": "Sarbide puntu hau ez dago gaituta. Egiazta itzazu SimpleSAMLphp-aren konfigurazioan gaitze aukerak.",
@@ -873,7 +898,7 @@
         "sv": "Denna \u00e4ndpunkt \u00e4r inte aktiverad. Kontrollera aktiveringsinst\u00e4llningarna i konfigurationen av SimpleSAMLphp.",
         "tr": "Bu k\u0131s\u0131m kullan\u0131mda de\u011fil. SimpleSAMLphp ayarlar\u0131n\u0131z\u0131n etkinle\u015ftirme se\u00e7eneklerini kontrol edin.",
         "zh": "\u8fd9\u4e2a\u7aef\u70b9\u6ca1\u6709\u542f\u7528\uff0c\u8bf7\u5728SimpleSAMLphp\u7684\u914d\u7f6e\u9009\u9879\u4e2d\u9009\u4e2d\u542f\u7528",
-        "zh-tw": "\u9019\u500b\u7aef\u9ede\u4e26\u672a\u555f\u7528\u3002\u6838\u53d6\u555f\u7528\u9078\u9805\u65bc\u60a8\u7684 SimpleSAMLphp \u8a2d\u5b9a\u4e2d\u3002"
+        "zh-tw": "\u9019\u500b\u7aef\u9ede\u4e26\u672a\u555f\u7528\uff0c\u8acb\u65bc\u60a8\u7684 SimpleSAMLphp \u8a2d\u5b9a\u4e2d\u6aa2\u67e5\u7aef\u9ede\u662f\u5426\u5df2\u555f\u7528\u3002"
     },
     "title_NORELAYSTATE": {
         "af": "Geen aflos staat('RelayState')",
@@ -881,6 +906,7 @@
         "cs": "Nenalezen RelayState.",
         "da": "RelayState mangler",
         "de": "Kein Weiterleitungsangabge",
+        "el": "\u03a3\u03c6\u03ac\u03bb\u03bc\u03b1 \u03c0\u03b1\u03c1\u03b1\u03bc\u03ad\u03c4\u03c1\u03bf\u03c5 'RelayState'",
         "es": "Sin RelayState",
         "et": "RelayState puudub",
         "eu": "RelayState zehaztu gabe",
@@ -916,6 +942,7 @@
         "cs": "P\u016fvodce t\u00e9to \u017e\u00e1dosti nezadal parametr RelayState, kter\u00fd ur\u010duje kam d\u00e1l.",
         "da": "Afsenderen af denne foresp\u00f8rgelse har ikke angivet en RelayStay parameter, der hvilket hvor der skal forts\u00e6ttes",
         "de": "Der Initiator dieser Anfrage hat keinen Weiterleitungsparameter bereit gestellt, der Auskunft gibt, wohin es als n\u00e4chstes gehen soll.",
+        "el": "\u0397 \u03c0\u03b1\u03c1\u03ac\u03bc\u03b5\u03c4\u03c1\u03bf\u03c2 'RelayState' \u03c4\u03bf\u03c5 \u03c0\u03c1\u03c9\u03c4\u03bf\u03ba\u03cc\u03bb\u03bb\u03bf\u03c5 SAML \u03b4\u03b5\u03bd \u03b2\u03c1\u03ad\u03b8\u03b7\u03ba\u03b5 \u03ae \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03ad\u03b3\u03ba\u03c5\u03c1\u03b7 \u03bc\u03b5 \u03b1\u03c0\u03bf\u03c4\u03ad\u03bb\u03b5\u03c3\u03bc\u03b1 \u03bd\u03b1 \u03bc\u03b7\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03b4\u03c5\u03bd\u03b1\u03c4\u03ae \u03b7 \u03bc\u03b5\u03c4\u03ac\u03b2\u03b1\u03c3\u03b7 \u03c3\u03b5 \u03ba\u03ac\u03c0\u03bf\u03b9\u03bf\u03bd \u03c0\u03cc\u03c1\u03bf \u03c4\u03bf\u03c5 \u03c0\u03b1\u03c1\u03cc\u03c7\u03bf\u03c5 \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03b9\u03ce\u03bd0.",
         "es": "El iniciado de esta solicitud no entreg\u00f3 el par\u00e1metro RelayState indicando hacia d\u00f3nde ir despu\u00e9s.",
         "et": "Selle p\u00e4ringu algataja ei t\u00e4itnud RelayState parameetrit, mis n\u00e4itab, kuhu edasi minna.",
         "eu": "Eskaera honen abiarazleak ez du ematen ondoren nora joan adierazten duen RelayState parametroa",
@@ -951,6 +978,7 @@
         "cs": "Chyba zpracov\u00e1n\u00ed odpov\u011bdi od poskytovatele identity",
         "da": "Fejl i behandlingen af svar fra Identitetsudbyder",
         "de": "Fehler beim Bearbeiten der Antwort des IdP",
+        "el": "\u0395\u03c3\u03c6\u03b1\u03bb\u03bc\u03ad\u03bd\u03b7 \u03b1\u03c0\u03cc\u03ba\u03c1\u03b9\u03c3\u03b7 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u03c0\u03ac\u03c1\u03bf\u03c7\u03bf \u03c4\u03b1\u03c5\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2",
         "es": "Hubo un error al procesar la respuesta del proveedor de identidad",
         "et": "T\u00f5rge identiteedipakkuja vastuse t\u00f6\u00f6tlemisel",
         "eu": "Errorea IdP-tik datorren erantzuna prozesatzean",
@@ -986,6 +1014,7 @@
         "cs": "Neakceptujeme odpov\u011b\u010f zaslanou poskytovatelem identity.",
         "da": "Svaret fra Identitetsudbydere kunne ikke accepteres",
         "de": "Die Antwort des Identitiy Provider konnte nicht akzeptiert werden.",
+        "el": "\u03a0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5 \u03c3\u03c6\u03ac\u03bb\u03bc\u03b1 \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03bd \u03b5\u03c0\u03b5\u03be\u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b1 \u03c4\u03b7\u03c2 \u03b1\u03c0\u03ac\u03bd\u03c4\u03b7\u03c3\u03b7\u03c2 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u03c0\u03ac\u03c1\u03bf\u03c7\u03bf \u03c4\u03b1\u03c5\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2.",
         "es": "No hemos aceptado la respuesta enviada desde el proveedor de identidad.",
         "et": "Identiteedipakkuja poolt saadetud vastust ei aktsepteeritud.",
         "eu": "Ezin izan da identitatearen hornitzaileak bidalitako erantzuna onartu.",
@@ -1021,6 +1050,7 @@
         "cs": "Chyba prov\u00e1d\u011bn\u00ed \u017e\u00e1dosti poskytovatele slu\u017eby",
         "da": "Fejl i behandlingen foresp\u00f8rgsel fra Tjeneste Udbyder",
         "de": "Fehler beim Bearbeiten der Anfrage des Service Providers",
+        "el": "\u0395\u03c3\u03c6\u03b1\u03bb\u03bc\u03ad\u03bd\u03bf \u03b1\u03af\u03c4\u03b7\u03bc\u03b1 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u03c0\u03ac\u03c1\u03bf\u03c7\u03bf \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03b9\u03ce\u03bd",
         "es": "Hubo un error al procesar la petici\u00f3n desde el proveedor de servicio",
         "et": "T\u00f5rge teenusepakkuja p\u00e4ringu t\u00f6\u00f6tlemisel",
         "eu": "Errorea zerbitzu hornitzailearen eskaera prozesatean ",
@@ -1056,6 +1086,7 @@
         "cs": "Tento poskytovatel identity p\u0159ijal po\u017eadavek od poskytovatele slu\u017eby, ale p\u0159i jeho prov\u00e1den\u00ed vznikla chyba.",
         "da": "Denne IdP har modtaget en anmodning om single sign-on fra en tjeneste udbyder, men der opstod en fejl under behandlingen af denne anmodning.",
         "de": "Dieser Identity Provider hat eine Authentifizierungsanfrage von einem Service Provider erhalten, aber es ist ein Fehler beim Bearbeiten dieser Anfrage aufgetreten.",
+        "el": "\u03a0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5 \u03c3\u03c6\u03ac\u03bb\u03bc\u03b1 \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03bd \u03b5\u03c0\u03b5\u03be\u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b1 \u03c4\u03bf\u03c5 \u03b1\u03b9\u03c4\u03ae\u03bc\u03b1\u03c4\u03bf\u03c2 \u03c4\u03b1\u03c5\u03c4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7\u03c2 \u03c0\u03bf\u03c5 \u03ad\u03bb\u03b1\u03b2\u03b5 \u03bf \u03c0\u03ac\u03c1\u03bf\u03c7\u03bf\u03c2 \u03c4\u03b1\u03c5\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u03c0\u03ac\u03c1\u03bf\u03c7\u03bf \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03b9\u03ce\u03bd.",
         "es": "Este proveedor de identidad recibi\u00f3 una solicitud de autenticaci\u00f3n de un proveedor de servicio, pero ocurri\u00f3 un error al intentar procesarla.",
         "et": "Identiteedipakkuja sai teenusepakkujalt autentimisp\u00e4ringu, kui p\u00e4ringu t\u00f6\u00f6tlemisel tekkis t\u00f5rge.",
         "eu": "IdP honek zerbitzu hornitzaile baten kautotze eskaera jaso du baina errore bat jazo da hau prozesatzen saiatzean.",
@@ -1091,6 +1122,7 @@
         "cs": "\u017d\u00e1dn\u00e1 SAML zpr\u00e1va nebyla zasl\u00e1na",
         "da": "Ingen SAML besked",
         "de": "Keine SAML Nachricht bereit gestellt",
+        "el": "\u03a3\u03c6\u03ac\u03bb\u03bc\u03b1 \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03bd \u03c0\u03c1\u03cc\u03c3\u03b2\u03b1\u03c3\u03b7 \u03c3\u03c4\u03b7 \u03b4\u03b9\u03b5\u03c0\u03b1\u03c6\u03ae SingleLogoutService",
         "es": "No se entreg\u00f3 mensaje SAML",
         "et": "SAML-teade puudub",
         "eu": "SAML mezua falta da",
@@ -1126,6 +1158,7 @@
         "cs": "P\u0159istupujete k SingleLogoutService rozhran\u00ed, ale nezad\u00e1v\u00e1te SAML LogoutRequest, nebo LogoutResponse.",
         "da": "Du fors\u00f8ger at tilg\u00e5 Single Logout gr\u00e6nsefladen, uden at sendet et SAML LogoutRequest eller LogoutResponse",
         "de": "Sie haben auf die SingleLogoutService Schnittstelle zugegriffen, aber keine SAML Abmeldeanfrage oder Abmeldeantwort bereit gestellt.",
+        "el": "\u039a\u03b1\u03c4\u03ac \u03c4\u03b7\u03bd \u03c0\u03c1\u03cc\u03c3\u03b2\u03b1\u03c3\u03ae \u03c3\u03b1\u03c2 \u03c3\u03c4\u03b7 \u03b4\u03b9\u03b5\u03c0\u03b1\u03c6\u03ae SingleLogoutService \u03c0\u03b1\u03c1\u03b1\u03bb\u03b5\u03af\u03c8\u03b1\u03c4\u03b5 \u03bd\u03b1 \u03c3\u03c5\u03bc\u03c0\u03b5\u03c1\u03b9\u03bb\u03ac\u03b2\u03b5\u03c4\u03b5 \u03bc\u03ae\u03bd\u03c5\u03bc\u03b1 LogoutRequest \u03ae LogoutResponse \u03c4\u03bf\u03c5 \u03c0\u03c1\u03c9\u03c4\u03bf\u03ba\u03cc\u03bb\u03bb\u03bf\u03c5 SAML. \u03a3\u03b7\u03bc\u03b5\u03b9\u03ce\u03c3\u03c4\u03b5 \u03cc\u03c4\u03b9 \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf \u03c4\u03b5\u03bb\u03b9\u03ba\u03cc \u03c3\u03b7\u03bc\u03b5\u03af\u03bf (endpoint) \u03b4\u03b5\u03bd \u03c0\u03c1\u03bf\u03bf\u03c1\u03af\u03b6\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03ac\u03bc\u03b5\u03c3\u03b1 \u03c0\u03c1\u03bf\u03c3\u03b2\u03ac\u03c3\u03b9\u03bc\u03bf.",
         "es": "Ingresaste a la interfaz de SingleLogoutService, pero no provee una LogoutRequest o una LogoutResponse de SAML. Por favor toma en cuenta que no es la idea acceder directamente a este punto final.",
         "et": "Sa k\u00fclastasid SingleLogoutService liidest, kui ei pakkunud SAML LogoutRequest v\u00f5i LogoutResponse.",
         "eu": "SingleLogoutService interfazera sartu zara baina ez duzu erantsi  SAML LogoutRequest edo LogoutResponse mezurik",
@@ -1153,7 +1186,7 @@
         "sv": "Du har anroppat tj\u00e4nsten f\u00f6r Single Sing-Out utan att skicka med n\u00e5gon SAML LogoutRequest eller LogoutResponse.",
         "tr": "Tekli\u00c7\u0131k\u0131\u015fServis (SingleLogoutService) aray\u00fcz\u00fcne giri\u015f yapt\u0131n\u0131z, ancak bir SAML \u00c7\u0131k\u0131\u015f\u0130ste\u011fi ya da \u00c7\u0131k\u0131\u015fCevab\u0131 sa\u011flamad\u0131n\u0131z.",
         "zh": "\u4f60\u8bbf\u95ee\u4e86SingleLogoutService\u63a5\u53e3\uff0c\u4f46\u662f\u5e76\u6ca1\u6709\u63d0\u4f9b\u4e00\u4e2aSAML\u7684LogoutRequest\u6216\u8005LogoutResponse",
-        "zh-tw": "\u60a8\u9023\u7d50\u55ae\u4e00\u7c3d\u51fa\u670d\u52d9\u754c\u9762\uff0c\u4f46\u662f\u6c92\u6709\u63d0\u4f9b\u4e00\u500b SAML \u767b\u51fa\u8acb\u6c42\u6216\u767b\u51fa\u56de\u61c9\u3002"
+        "zh-tw": "\u60a8\u9023\u7d50\u55ae\u4e00\u767b\u51fa\u670d\u52d9\u754c\u9762\uff0c\u4f46\u662f\u6c92\u6709\u63d0\u4f9b\u4e00\u500b SAML \u767b\u51fa\u8acb\u6c42\u6216\u767b\u51fa\u56de\u61c9\u3002\u8acb\u6ce8\u610f\uff0c\u8a72\u7aef\u9ede\u4e26\u975e\u76f4\u63a5\u9023\u7dda\u3002"
     },
     "title_ACSPARAMS": {
         "af": "Geen SAML versoek gevind nie",
@@ -1161,6 +1194,7 @@
         "cs": "\u017d\u00e1dn\u00e1 SAML odpov\u011b\u010f nebyla zasl\u00e1na",
         "da": "SAML response mangler",
         "de": "Keine SAML Antwort bereit gestellt",
+        "el": "\u03a3\u03c6\u03ac\u03bb\u03bc\u03b1 \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03bd \u03c0\u03c1\u03cc\u03c3\u03b2\u03b1\u03c3\u03b7 \u03c3\u03c4\u03b7 \u03b4\u03b9\u03b5\u03c0\u03b1\u03c6\u03ae AssertionConsumerService",
         "es": "No se entreg\u00f3 respuesta SAML",
         "et": "SAML-vastust ei pakutud",
         "eu": "SAML erantzuna falta da",
@@ -1196,6 +1230,7 @@
         "cs": "P\u0159istupujete k Assertion Consumer Service rozhran\u00ed, ale nepos\u00edl\u00e1late SAML Authentication Response.",
         "da": "Du fors\u00f8ger at tilg\u00e5 Assertion Consumer Service gr\u00e6nsefladen uden at sende et SAML Authentication Response",
         "de": "Sie haben auf die Assertion Consumer Service Schnittstelle zugegriffen, aber keine SAML Authentifizierungsantwort bereit gestellt.",
+        "el": "\u039a\u03b1\u03c4\u03ac \u03c4\u03b7\u03bd \u03c0\u03c1\u03cc\u03c3\u03b2\u03b1\u03c3\u03ae \u03c3\u03b1\u03c2 \u03c3\u03c4\u03b7 \u03b4\u03b9\u03b5\u03c0\u03b1\u03c6\u03ae AssertionConsumerService  \u03c0\u03b1\u03c1\u03b1\u03bb\u03b5\u03af\u03c8\u03b1\u03c4\u03b5 \u03bd\u03b1 \u03c3\u03c5\u03bc\u03c0\u03b5\u03c1\u03b9\u03bb\u03ac\u03b2\u03b5\u03c4\u03b5 \u03b1\u03c0\u03ac\u03bd\u03c4\u03b7\u03c3\u03b7 \u03c3\u03b5 \u03b1\u03af\u03c4\u03b7\u03bc\u03b1 \u03c4\u03b1\u03c5\u03c4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7\u03c2 \u03c4\u03bf\u03c5 \u03c0\u03c1\u03c9\u03c4\u03bf\u03ba\u03cc\u03bb\u03bb\u03bf\u03c5 SAML. \u03a3\u03b7\u03bc\u03b5\u03b9\u03ce\u03c3\u03c4\u03b5 \u03cc\u03c4\u03b9 \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf \u03c4\u03b5\u03bb\u03b9\u03ba\u03cc \u03c3\u03b7\u03bc\u03b5\u03af\u03bf (endpoint) \u03b4\u03b5\u03bd \u03c0\u03c1\u03bf\u03bf\u03c1\u03af\u03b6\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03ac\u03bc\u03b5\u03c3\u03b1 \u03c0\u03c1\u03bf\u03c3\u03b2\u03ac\u03c3\u03b9\u03bc\u03bf.",
         "es": "Ingresaste a la interfaz del servicio de aserci\u00f3n del consumidor, pero no provee una respuesta de autenticaci\u00f3n de SAML. Por favor toma en cuenta que no es la idea acceder directamente a este punto final.",
         "et": "Sa k\u00fclastasid Assertion Consumer Service liidest, kuid ei pakkunud SAML autentimisvastust.",
         "eu": "Baieztapen kontsumitzailearen interfazera sartu zara baina ez duzu SAML kautotze erantzun bat erantsi.",
@@ -1223,19 +1258,23 @@
         "sv": "Du har anropat gr\u00e4nssnittet f\u00f6r Assertion Consumer Service utan att skicka med n\u00e5gon SAML Authentication Responce.",
         "tr": "Onay Al\u0131c\u0131 Servis (Assertion Consumer Service) aray\u00fcz\u00fcne giri\u015f yapt\u0131n\u0131z, ancak SAML Kimlik Do\u011frulama Cevab\u0131 sa\u011flamad\u0131n\u0131z.",
         "zh": "\u4f60\u8bbf\u95ee\u4e86Assertion Consumer Service\u63a5\u53e3\uff0c\u4f46\u662f\u5e76\u6ca1\u6709\u63d0\u4f9b\u4e00\u4e2aSAML\u8ba4\u8bc1\u5e94\u7b54",
-        "zh-tw": "\u60a8\u9023\u7d50\u6d88\u8cbb\u8005\u8072\u660e\u670d\u52d9\u754c\u9762\uff0c\u4f46\u662f\u6c92\u6709\u63d0\u4f9b\u4e00\u500b SAML \u8a8d\u8b49\u56de\u61c9\u3002"
+        "zh-tw": "\u60a8\u9023\u7d50\u6d88\u8cbb\u8005\u8072\u660e\u670d\u52d9\u754c\u9762\uff0c\u4f46\u8a72\u4ecb\u9762\u672a\u63d0\u4f9b SAML \u6d88\u8cbb\u8005\u8072\u660e\u8a0a\u606f\u3002\u8acb\u6ce8\u610f\uff0c\u8a72\u7aef\u9ede\u4e26\u975e\u76f4\u63a5\u9023\u7dda\u3002"
     },
     "title_SSOPARAMS": {
-        "es": "No se entreg\u00f3 solicitud SAML"
+        "es": "No se entreg\u00f3 solicitud SAML",
+        "zh-tw": "\u672a\u63d0\u4f9b SAML \u8acb\u6c42"
     },
     "descr_SSOPARAMS": {
-        "es": "Ingresaste a la interfaz SSO, pero no entreg\u00f3 una solicitud de autenticaci\u00f3n de SAML. Por favor toma en cuenta que no es la idea acceder directamente a este punto final."
+        "es": "Ingresaste a la interfaz SSO, pero no entreg\u00f3 una solicitud de autenticaci\u00f3n de SAML. Por favor toma en cuenta que no es la idea acceder directamente a este punto final.",
+        "zh-tw": "\u60a8\u9023\u7d50\u55ae\u4e00\u7c3d\u5165\u670d\u52d9\u4ecb\u9762\uff0c\u4f46\u672a\u63d0\u4f9b\u4e00\u500b SAML \u9a57\u8b49\u8acb\u6c42\u3002\u8acb\u6ce8\u610f\uff0c\u8a72\u7aef\u9ede\u4e26\u975e\u76f4\u63a5\u9023\u7dda\u3002"
     },
     "title_ARSPARAMS": {
-        "es": "No se entreg\u00f3 mensaje SAML"
+        "es": "No se entreg\u00f3 mensaje SAML",
+        "zh-tw": "\u672a\u63d0\u4f9b SAML \u8a0a\u606f"
     },
     "descr_ARSPARAMS": {
-        "es": "Ingresaste a la interfaz del servicio de resoluci\u00f3n de artefacto, pero no entreg\u00f3 un mensaje ArtifactResolve de SAML. Por favor toma en cuenta que no es la idea acceder directamente a este punto final."
+        "es": "Ingresaste a la interfaz del servicio de resoluci\u00f3n de artefacto, pero no entreg\u00f3 un mensaje ArtifactResolve de SAML. Por favor toma en cuenta que no es la idea acceder directamente a este punto final.",
+        "zh-tw": "\u60a8\u9023\u7d50\u4eba\u5de5\u8655\u7406\u670d\u52d9\u4ecb\u9762\uff0c\u4f46\u672a\u63d0\u4f9b SAML \u4eba\u5de5\u8655\u7406\u670d\u52d9\u8a0a\u606f\u3002\u8acb\u6ce8\u610f\uff0c\u8a72\u7aef\u9ede\u4e26\u975e\u76f4\u63a5\u9023\u7dda\u3002"
     },
     "title_CASERROR": {
         "af": "CAS Fout",
@@ -1243,6 +1282,7 @@
         "cs": "CAS chyba",
         "da": "CAS fejl",
         "de": "CAS Fehler",
+        "el": "\u03a3\u03c6\u03ac\u03bb\u03bc\u03b1 CAS",
         "es": "Hubo un error de CAS",
         "et": "CAS t\u00f5rge",
         "eu": "CAS Errorea",
@@ -1278,6 +1318,7 @@
         "cs": "Chyba p\u0159i komunikaci s CAS serverem.",
         "da": "Der opstod en fejl ved kommunikationen med CAS serveren",
         "de": "Fehler bei der Kommunikation mit dem CAS Server.",
+        "el": "\u03a0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5 \u03c3\u03c6\u03ac\u03bb\u03bc\u03b1 \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03bd \u03b5\u03c0\u03b9\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03af\u03b1 \u03bc\u03b5 \u03c4\u03bf\u03bd \u03b5\u03be\u03c5\u03c0\u03b7\u03c1\u03b5\u03c4\u03b7\u03c4\u03ae CAS.",
         "es": "Hubo un error al comunicarse con el servidor CAS.",
         "et": "CAS-serveriga suhtlemisel tekkis t\u00f5rge.",
         "eu": "Errorea CAS zerbitzariarekin komunikatzen saiatzean",
@@ -1305,7 +1346,7 @@
         "sv": "Ett fel uppstod vid kommunikation med CAS-servern.",
         "tr": "CAS sunucusu ile ileti\u015fim kurarken hata",
         "zh": "\u5728\u548cCAS\u670d\u52a1\u5668\u7684\u901a\u8baf\u4e2d\u53d1\u751f\u4e86\u9519\u8bef",
-        "zh-tw": "\u7576\u9023\u7dda\u81f3 CAS \u4e3b\u6a5f\u6642\u932f\u8aa4\u3002"
+        "zh-tw": "\u8207 CAS \u4e3b\u6a5f\u901a\u8a0a\u6642\u767c\u751f\u932f\u8aa4\u3002"
     },
     "title_CONFIG": {
         "af": "Instellings fout",
@@ -1313,6 +1354,7 @@
         "cs": "Chyba konfigurace",
         "da": "Konfigurationsfejl",
         "de": "Konfigurations Fehler",
+        "el": "\u03a3\u03c6\u03ac\u03bb\u03bc\u03b1 \u03c1\u03c5\u03b8\u03bc\u03af\u03c3\u03b5\u03c9\u03bd",
         "es": "Hubo un error de configuraci\u00f3n",
         "et": "Konfiguratsioonit\u00f5rge",
         "eu": "Konfigurazio errorea",
@@ -1348,6 +1390,7 @@
         "cs": "SimpleSAMLphp je \u0161patn\u011b nakonfigurovan\u00fd",
         "da": "SimpleSAMLphp er tilsyneladende ikke Konfigureret korrekt",
         "de": "SimpleSAMLphp scheint falsch konfiguriert zu sein.",
+        "el": "\u03a0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5 \u03c3\u03c6\u03ac\u03bb\u03bc\u03b1 \u03c1\u03c5\u03b8\u03bc\u03af\u03c3\u03b5\u03c9\u03bd \u03c4\u03bf\u03c5 SimpleSAMLphp. \u0395\u03c0\u03b9\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03ae\u03c3\u03c4\u03b5 \u03bc\u03b5 \u03c4\u03bf\u03bd \u03b4\u03b9\u03b1\u03c7\u03b5\u03b9\u03c1\u03b9\u03c3\u03c4\u03ae \u03c4\u03b7\u03c2 \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b1\u03c2.",
         "es": "Parece que SimpleSAMLphp est\u00e1 mal configurado.",
         "et": "Paistab, et SimpleSAMLphp on vigaselt seadistatud.",
         "eu": "Badirudi errore bat jazo dela SimpleSAMLphp-en konfigurazioan",
@@ -1383,6 +1426,7 @@
         "cs": "\u0160patn\u00fd certifik\u00e1t",
         "da": "Ugyldigt Certifikat",
         "de": "Ung\u00fcltiges Zertifikat",
+        "el": "\u039c\u03b7 \u03ad\u03b3\u03ba\u03c5\u03c1\u03bf \u03c0\u03b9\u03c3\u03c4\u03bf\u03c0\u03bf\u03b9\u03b7\u03c4\u03b9\u03ba\u03cc",
         "es": "El certificado no es v\u00e1lido",
         "et": "Vigane sertifikaat",
         "eu": "Ziurtagiri balio gabea",
@@ -1418,6 +1462,7 @@
         "cs": "Nep\u0159edlo\u017eil jste validn\u00ed certifik\u00e1t.",
         "da": "Du har ikke valgt et gyldigt certifikat",
         "de": "Sie haben kein g\u00fcltiges Zertifikat benutzt.",
+        "el": "\u03a0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5 \u03c3\u03c6\u03ac\u03bb\u03bc\u03b1 \u03bb\u03cc\u03b3\u03c9 \u03bc\u03b7 \u03ad\u03b3\u03ba\u03c5\u03c1\u03bf\u03c5 \u03c0\u03b9\u03c3\u03c4\u03bf\u03c0\u03bf\u03b9\u03b7\u03c4\u03b9\u03ba\u03bf\u03cd.",
         "es": "No presentaste un certificado v\u00e1lido.",
         "et": "Sa ei esitanud kehtivat sertifikaati.",
         "eu": "Ez duzu baliozko ziurtagiririk aurkeztu ",
@@ -1453,6 +1498,7 @@
         "cs": "Heslo nebylo zad\u00e1no.",
         "da": "Password er ikke sat",
         "de": "Password ist nicht gesetzt",
+        "el": "\u03a3\u03c6\u03ac\u03bb\u03bc\u03b1 \u03ba\u03c9\u03b4\u03b9\u03ba\u03bf\u03cd \u03c0\u03c1\u03cc\u03c3\u03b2\u03b1\u03c3\u03b7\u03c2",
         "es": "No se ha establecido la contrase\u00f1a",
         "et": "Parool m\u00e4\u00e4ramata",
         "eu": "Pasahitzik ez da ezarrii",
@@ -1488,6 +1534,7 @@
         "cs": "Heslo v konfiguraci (auth.adminpassword) nen\u00ed nastaveno. Pros\u00edm nastavte ho.",
         "da": "Der er ikke konfigureret et password til administrationsgr\u00e6nsefladen (auth.adminpassword). Opdater konfigurationen med et nyt password, der er forskelligt fra stadardpasswordet.",
         "de": "Sie benutzen noch immer das Standardpasswort, bitte \u00e4ndern Sie die Konfiguration (auth.adminpassword).",
+        "el": "\u03a7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03b5\u03af\u03c4\u03b1\u03b9 \u03b7 \u03c0\u03c1\u03bf\u03ba\u03b1\u03b8\u03bf\u03c1\u03b9\u03c3\u03bc\u03ad\u03bd\u03b7 \u03c4\u03b9\u03bc\u03ae \u03c4\u03bf\u03c5 \u03ba\u03c9\u03b4\u03b9\u03ba\u03bf\u03cd \u03c0\u03c1\u03cc\u03c3\u03b2\u03b1\u03c3\u03b7\u03c2. \u03a0\u03b1\u03c1\u03b1\u03ba\u03b1\u03bb\u03bf\u03cd\u03bc\u03b5 \u03b5\u03c0\u03b5\u03be\u03b5\u03c1\u03b3\u03b1\u03c3\u03c4\u03b5\u03af\u03c4\u03b5 \u03c4\u03bf \u03b1\u03c1\u03c7\u03b5\u03af\u03bf \u03c1\u03c5\u03b8\u03bc\u03af\u03c3\u03b5\u03c9\u03bd.",
         "es": "No se cambi\u00f3 la contrase\u00f1a en la configuraci\u00f3n (auth.adminpassword), desde el valor predeterminado. Por favor ed\u00edtalo.",
         "et": "Seadistustes on vaikimisi parool (auth.adminpassword) muutmata. Palun muuda seadistustefaili.",
         "eu": "Ez da aldatu konfigurazio fitxategiaren pasahitzaren (auth.adminpassword) balio lehenetsia. Mesedez, edita ezazu fitxategia",
@@ -1515,7 +1562,7 @@
         "sv": "Konfigurationsl\u00f6senordet (auth.adminpassword) \u00e4r inte \u00e4ndrat fr\u00e5n standardv\u00e4rdet. Uppdatera kongiruationen med ett nytt l\u00f6senord!",
         "tr": "Yap\u0131land\u0131rmadaki (auth.adminpassword) \u015fifrenin \u00f6ntan\u0131ml\u0131 de\u011feri de\u011fi\u015fmedi. L\u00fctfen yap\u0131land\u0131rma dosyas\u0131n\u0131 d\u00fczeltin.",
         "zh": "\u4f60\u6ca1\u6709\u4fee\u6539\u914d\u7f6e\u6587\u4ef6\u4e2d\u7684\u9ed8\u8ba4\u5bc6\u7801\uff0c\u8bf7\u4fee\u6539\u8be5\u5bc6\u7801",
-        "zh-tw": "\u8a2d\u5b9a\u6a94\u88e1\u7684\u5bc6\u78bc(auth.adminpassword)\u9084\u662f\u9810\u8a2d\u503c\uff0c\u8acb\u7de8\u8f2f\u8a2d\u5b9a\u6a94\u3002"
+        "zh-tw": "\u8a2d\u5b9a\u6a94\u88e1\u7684\u5bc6\u78bc (auth.adminpassword) \u9084\u662f\u9810\u8a2d\u503c\uff0c\u8acb\u5148\u7de8\u8f2f\u8a2d\u5b9a\u6a94\u3002"
     },
     "errorreport_header": {
         "af": "Foutmeldingsverslag gestuur",
@@ -1523,6 +1570,7 @@
         "cs": "Chybov\u00fd report zasl\u00e1n",
         "da": "Fejlrapportering sendt",
         "de": "Fehlerbericht gesandt",
+        "el": "\u0397 \u03b1\u03bd\u03b1\u03c6\u03bf\u03c1\u03ac \u03c3\u03c6\u03ac\u03bb\u03bc\u03b1\u03c4\u03bf\u03c2 \u03c3\u03c4\u03ac\u03bb\u03b8\u03b7\u03ba\u03b5",
         "es": "Informe de errores enviado",
         "et": "T\u00f5rkeraport saadetud",
         "eu": "Errore txostena bidalita",
@@ -1549,7 +1597,7 @@
         "sv": "Felrapport skickad",
         "tr": "Hata raporu g\u00f6nderildi",
         "zh": "\u53d1\u9001\u9519\u8bef\u62a5\u544a",
-        "zh-tw": "\u932f\u8aa4\u5831\u544a\u9001\u51fa"
+        "zh-tw": "\u932f\u8aa4\u5831\u544a\u5df2\u9001\u51fa"
     },
     "errorreport_text": {
         "af": "Die foutmeldings verslag is gestuur na die administrateurs.",
@@ -1557,6 +1605,7 @@
         "cs": "Chybov\u00fd report byl zasl\u00e1n administr\u00e1tor\u016fm.",
         "da": "Fejlrapporten er nu sendt til system-administrator",
         "de": "Der Fehlerbericht wurde an den Administrator gesandt.",
+        "el": "\u0397 \u03b1\u03c0\u03bf\u03c3\u03c4\u03bf\u03bb\u03ae \u03c4\u03b7\u03c2 \u03b1\u03bd\u03b1\u03c6\u03bf\u03c1\u03ac\u03c2 \u03c3\u03c6\u03ac\u03bb\u03bc\u03b1\u03c4\u03bf\u03c2 \u03c3\u03c4\u03bf\u03c5\u03c2 \u03b4\u03b9\u03b1\u03c7\u03b5\u03b9\u03c1\u03b9\u03c3\u03c4\u03ad\u03c2 \u03bf\u03bb\u03bf\u03ba\u03bb\u03b7\u03c1\u03ce\u03b8\u03b7\u03ba\u03b5.",
         "es": "Este informe de errores se envi\u00f3 a los administradores.",
         "et": "T\u00f5rkeraport saadeti administraatoritele.",
         "eu": "Errore txostena administratzaileei bidali zaie.",
@@ -1591,6 +1640,7 @@
         "cs": "Odhla\u0161ovac\u00ed informace ztracena",
         "da": "Manglende logout-oplysninger",
         "de": "Abmeldeinformation verloren gegangen",
+        "el": "\u03a3\u03c6\u03ac\u03bb\u03bc\u03b1 \u03b1\u03c0\u03bf\u03c3\u03cd\u03bd\u03b4\u03b5\u03c3\u03b7\u03c2",
         "es": "Se perdi\u00f3 la informaci\u00f3n de cierre de sesi\u00f3n",
         "et": "V\u00e4ljalogimisinfo l\u00e4ks kaotsi",
         "eu": "Saioa ixteko informazioa galdu da",
@@ -1617,7 +1667,7 @@
         "sv": "Utloggningsinformation \u00e4r borta",
         "tr": "\u00c7\u0131k\u0131\u015f bilgisi kaybedildi",
         "zh": "\u4e22\u5931\u4e86\u9000\u51fa\u6d88\u606f",
-        "zh-tw": "\u767b\u51fa\u8a0a\u606f\u907a\u5931"
+        "zh-tw": "\u767b\u51fa\u8cc7\u8a0a\u907a\u5931"
     },
     "descr_LOGOUTINFOLOST": {
         "af": "Die inligting vir die huidige uiteken sessie is verlore. Jy moet terugkeer na die diens waarvan jy probeer afmeld het en probeer om weer af te meld. Di\u00e9 fout kan voorkom weens verstreke afmelding inligting. Die afmelding inligting word gestoor vir 'n beperkte tydperk - gewoonlik 'n paar ure. Dit is langer as wat 'n normale afmelding sessie moet vat, so die fout mag 'n indikasie wees van 'n probleem met die stellings. Kontak jou diens verskaffer sou die probleem voortduur.",
@@ -1625,6 +1675,7 @@
         "cs": "Informace o odhla\u0161ovac\u00ed operaci byla ztracena. M\u016f\u017eete se vr\u00e1tit do aplikace, ze kter\u00e9 jste se odhla\u0161ovali a zkusit to znova. Tato chyba byla zp\u016fsobena vypr\u0161en\u00edm odhla\u0161ovac\u00edh informac\u00ed. Ty jsou ulo\u017eeny omezen\u00fd \u010das (jednotky hodin). To by m\u011blo sta\u010di na norm\u00e1ln\u00ed odhla\u0161en\u00ed a tato chyba m\u016f\u017ee ukazovat na chyby v konfiguraci. Pokud probl\u00e9m p\u0159etrv\u00e1v\u00e1, kontaktujte administr\u00e1tora.",
         "da": "Oplysningerne om logout er tabt. Du b\u00f8r g\u00e5 tilbage til tjenesten du \u00f8nskede at logge ud af og pr\u00f8ve igen. Fejlen kan skyldes at oplysningerne blev for\u00e6ldet, da de kun gemmes i kort tid, typisk et par timer. Dette er dog l\u00e6ngere end hvad det burde tage at logge ud, s\u00e5 denne fejl kan indikere en konfigurationsfejl. Hvis fejlen genopst\u00e5r, bedes du kontakte tjenesteudbyderen.",
         "de": "Die Information des aktuellen Abmeldevorgangs ist verloren gegangen. Bitte rufen Sie den Dienst auf, vom dem Sie sich abmelden wollten, und versuchen Sie dort das Abmelden nochmal. Dieser Fehler tritt auf, wenn die Abmeldeanfrage abl\u00e4uft, da diese nur eine gewisse Zeit (\u00fcblicherweise ein paar Stunden) zwischengespeichert wird. Das sollte im normalen Betrieb ausreichend sein, da ein Abmeldevorgang nicht so lange dauert. Dieser Fehler kann also auch ein Anzeichen sein, dass ein Konfigurationsfehler vorliegt. Tritt dieser Fehler wiederholt auf, wenden sie sich bitte an den benutzen Dienst (Service Provider), vom dem sie sich abmelden wollen.",
+        "el": "\u039f\u03b9 \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2 \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03ac \u03bc\u03b5 \u03c4\u03b7\u03bd \u03b1\u03c0\u03bf\u03c3\u03cd\u03bd\u03b4\u03b5\u03c3\u03b7 \u03ad\u03c7\u03bf\u03c5\u03bd \u03c7\u03b1\u03b8\u03b5\u03af. \u0398\u03b1 \u03c0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b5\u03c0\u03b9\u03c3\u03c4\u03c1\u03ad\u03c8\u03b5\u03c4\u03b5 \u03c3\u03c4\u03b7\u03bd \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b1 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03c0\u03bf\u03af\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c0\u03b1\u03b8\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03b1\u03c0\u03bf\u03c3\u03c5\u03bd\u03b4\u03b5\u03b8\u03b5\u03af\u03c4\u03b5 \u03ba\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c0\u03b1\u03b8\u03ae\u03c3\u03b5\u03c4\u03b5 \u03b5\u03ba \u03bd\u03ad\u03bf\u03c5. \u0391\u03c5\u03c4\u03cc \u03c4\u03bf \u03c3\u03c6\u03ac\u03bb\u03bc\u03b1 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03b1\u03c3\u03c4\u03b5\u03af \u03b1\u03bd \u03b7 \u03b9\u03c3\u03c7\u03cd\u03c2 \u03c4\u03c9\u03bd \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ce\u03bd \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03ac \u03bc\u03b5 \u03c4\u03b7\u03bd \u03b1\u03c0\u03bf\u03c3\u03cd\u03bd\u03b4\u03b5\u03c3\u03b7 \u03ad\u03c7\u03b5\u03b9 \u03bb\u03ae\u03be\u03b5\u03b9. \u039f\u03b9 \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2 \u03b1\u03c5\u03c4\u03ad\u03c2 \u03b1\u03c0\u03bf\u03b8\u03b7\u03ba\u03b5\u03cd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03b9\u03c3\u03bc\u03ad\u03bd\u03bf \u03c7\u03c1\u03bf\u03bd\u03b9\u03ba\u03cc \u03b4\u03b9\u03ac\u03c3\u03c4\u03b7\u03bc\u03b1 - \u03c3\u03c5\u03bd\u03ae\u03b8\u03c9\u03c2 \u03bc\u03b5\u03c1\u03b9\u03ba\u03ce\u03bd \u03c9\u03c1\u03ce\u03bd. \u0391\u03c5\u03c4\u03cc \u03c3\u03c5\u03bd\u03ae\u03b8\u03c9\u03c2 \u03b5\u03c0\u03b1\u03c1\u03ba\u03b5\u03af \u03b3\u03b9\u03b1 \u03bc\u03b9\u03b1 \u03ba\u03b1\u03bd\u03bf\u03bd\u03b9\u03ba\u03ae \u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03b1\u03c0\u03bf\u03c3\u03cd\u03bd\u03b4\u03b5\u03c3\u03b7\u03c2, \u03c3\u03c5\u03bd\u03b5\u03c0\u03ce\u03c2 \u03c3\u03c4\u03b7\u03bd \u03c0\u03c1\u03bf\u03ba\u03b5\u03b9\u03bc\u03ad\u03bd\u03b7 \u03c0\u03b5\u03c1\u03af\u03c0\u03c4\u03c9\u03c3\u03b7 \u03c4\u03bf \u03c3\u03c6\u03ac\u03bb\u03bc\u03b1 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03c5\u03c0\u03bf\u03b4\u03b5\u03b9\u03ba\u03bd\u03cd\u03b5\u03b9 \u03ba\u03ac\u03c0\u03bf\u03b9\u03bf \u03ac\u03bb\u03bb\u03bf \u03b8\u03ad\u03bc\u03b1 \u03bc\u03b5 \u03c4\u03b9\u03c2 \u03c1\u03c5\u03b8\u03bc\u03af\u03c3\u03b5\u03b9\u03c2. \u0395\u03ac\u03bd \u03c4\u03bf \u03c0\u03c1\u03cc\u03b2\u03bb\u03b7\u03bc\u03b1 \u03c0\u03b1\u03c1\u03b1\u03bc\u03ad\u03bd\u03b5\u03b9, \u03b5\u03c0\u03b9\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03ae\u03c3\u03c4\u03b5 \u03bc\u03b5 \u03c4\u03bf\u03bd \u03c0\u03ac\u03c1\u03bf\u03c7\u03bf \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03b9\u03ce\u03bd.",
         "es": "La informaci\u00f3n acerca de la actual operaci\u00f3n de cerrar sesi\u00f3n se perdi\u00f3. Deber\u00edas volver al servicio al que intentabas cerrar sesi\u00f3n e intentarlo de nuevo. Este error puede causarse por haberse expirado la informaci\u00f3n de cerrar sesi\u00f3n. La informaci\u00f3n de cerrar sesi\u00f3n se guarda por una cantidad de tiempo limitada (usualmente un n\u00famero de horas). Esto es mayor que lo que deber\u00eda tomar cualquier operaci\u00f3n normal de cerrar sesi\u00f3n, as\u00ed que este error podr\u00eda indicar alg\u00fan otro error con la configuraci\u00f3n. Si el problema persiste, ponte en contacto con tu proveedor de servicio.",
         "et": "Teave aktiivse v\u00e4ljalogimisoperatsiooni kohta l\u00e4ks kaduma. P\u00f6\u00f6rdu tagasi teenuse juurde, millest soovisid v\u00e4lja logida ja proovi uuesti. See t\u00f5rge v\u00f5ib olla p\u00f5hjustatud v\u00e4ljalogimisinfo aegumisest. V\u00e4ljalogimisinfo salvestatakse piiratud ajaks, tavaliselt m\u00f5neks tunniks. See on kauem kui tavaline v\u00e4ljalogimine peaks aega v\u00f5tma, seega v\u00f5ib see t\u00f5rge anda m\u00e4rku ka m\u00f5nest teisest t\u00f5rkest seadistustes. Kui probleem ei kao, siis v\u00f5ta \u00fchendust oma teenusepakkujaga.",
         "eu": "Saioa ixteko eragiketari buruzko informazioa galdu da. Irten nahi duzun zerbitzura itzuli eta saioa berriz ixten saitu behar duzu. Saioa ixteko informazioa denbora mugatu batean gordetzen da, orokorrean saio ixteko eragiketak iraun beharko lukeen denbora baino gehiago, beraz errore hau konfigurazioan erroreren bat jazo delako gerta liteke. Errorea etengabea bada, jar zaitez harremanetan zerbitzuaren hornitzailearekin.",
@@ -1651,7 +1702,7 @@
         "sv": "Informationen om aktuell utloggning har f\u00f6rsvunnit. Du b\u00f6r \u00e5terv\u00e4nda till tj\u00e4nsten som du f\u00f6rs\u00f6kte logga ut fr\u00e5n och f\u00f6rs\u00f6ka logga ut p\u00e5 nytt. Detta fel kan intr\u00e4ffa om informationen om utloggningen \u00e4r f\u00f6r gammal. Utloggningsinformationen sparas en begr\u00e4nsad tid, oftas n\u00e5gra timmar. Det \u00e4r l\u00e4ngre \u00e4n vad utloggning b\u00f6r ta s\u00e5 felet kan indikera n\u00e5got fel med konfigurationen. Om problemet kvarst\u00e5r kontakta leverant\u00f6ren f\u00f6r den tj\u00e4nst du f\u00f6rs\u00f6kte logga ut fr\u00e5n.",
         "tr": "Y\u00fcr\u00fcrl\u00fckteki \u00e7\u0131k\u0131\u015f i\u015flemi ile ilgili bilgi kayboldu. \u00c7\u0131kmak istedi\u011finiz servise geri d\u00f6n\u00fcn ve yeniden \u00e7\u0131kmay\u0131 denyin. Bu hata, \u00e7\u0131k\u0131\u015f bilgisinin s\u00fcresi doldu\u011fu i\u00e7in olu\u015fmu\u015f olabilir. \u00c7\u0131k\u0131\u015f bilgisi belirli bir s\u00fcre i\u00e7in tutulur - genellikle birka\u00e7 saat. Bu s\u00fcre normal bir \u00e7\u0131k\u0131\u015f i\u015fleminin tutaca\u011f\u0131ndan daha fazla bir s\u00fcredir; bu hata yap\u0131land\u0131rma ile ilgili ba\u015fka bir hatay\u0131 i\u015faret ediyor olabilir. E\u011fer sorun devam ederse, servis sa\u011flay\u0131c\u0131n\u0131zla ileti\u015fime ge\u00e7iniz.",
         "zh": "\u5173\u4e8e\u5f53\u524d\u9000\u51fa\u64cd\u4f5c\u7684\u76f8\u5173\u4fe1\u606f\u4e22\u5931\u4e86\uff0c\u4f60\u5e94\u8be5\u8fd4\u56de\u670d\u52a1\u4e2d\uff0c\u91cd\u65b0\u5c1d\u8bd5\u9000\u51fa\uff0c\u8fd9\u4e2a\u9519\u8bef\u53ef\u80fd\u662f\u9000\u51fa\u4fe1\u606f\u8d85\u65f6\u5f15\u8d77\u7684\u3002\u9000\u51fa\u6d88\u606f\u5728\u6709\u9650\u7684\u65f6\u95f4\u5185\u5b58\u50a8\uff0c\u901a\u5e38\u662f\u51e0\u4e2a\u5c0f\u65f6\uff0c\u8fd9\u6bd4\u4efb\u4f55\u5e38\u89c4\u7684\u9000\u51fa\u65f6\u95f4\u6240\u9700\u7684\u65f6\u95f4\u8981\u957f\u591a\u4e86\uff0c\u6240\u4ee5\u8fd9\u79cd\u9519\u8bef\u53ef\u80fd\u662f\u914d\u7f6e\u9519\u8bef\uff0c\u5982\u679c\u95ee\u9898\u4f9d\u65e7\u5b58\u5728\uff0c\u8054\u7cfb\u4f60\u7684\u670d\u52a1\u63d0\u4f9b\u5546",
-        "zh-tw": "\u907a\u5931\u6b63\u5728\u767b\u51fa\u7684\u76f8\u95dc\u64cd\u4f5c\u8cc7\u8a0a\uff0c\u60a8\u53ef\u80fd\u8981\u56de\u5230\u60a8\u6e96\u5099\u767b\u51fa\u7684\u670d\u52d9\u518d\u767b\u51fa\u4e00\u6b21\u3002\u9019\u500b\u932f\u8aa4\u53ef\u80fd\u662f\u56e0\u70ba\u767b\u51fa\u8cc7\u8a0a\u903e\u6642\u3002\u767b\u51fa\u8cc7\u8a0a\u50c5\u80fd\u5728\u6709\u9650\u7684\u6642\u9593\u88e1\u6709\u6548 - \u901a\u5e38\u662f\u5e7e\u5c0f\u6642\u3002\u9019\u5df2\u7d93\u5927\u65bc\u6b63\u5e38\u7684\u767b\u51fa\u64cd\u4f5c\u6240\u9700\u7684\u6642\u9593\uff0c\u6240\u4ee5\u9019\u500b\u932f\u8aa4\u4e5f\u8a31\u8aaa\u660e\u6709\u4e9b\u5176\u4ed6\u7684\u932f\u8aa4\u88ab\u8a2d\u5b9a\u3002\u5982\u679c\u9019\u500b\u932f\u8aa4\u6301\u7e8c\u5b58\u5728\uff0c\u8acb\u9023\u7d61\u60a8\u7684\u670d\u52d9\u63d0\u4f9b\u8005\u3002"
+        "zh-tw": "\u907a\u5931\u6b63\u5728\u767b\u51fa\u7684\u76f8\u95dc\u64cd\u4f5c\u8cc7\u8a0a\uff0c\u60a8\u53ef\u80fd\u8981\u56de\u5230\u60a8\u6e96\u5099\u767b\u51fa\u7684\u670d\u52d9\u518d\u767b\u51fa\u4e00\u6b21\u3002\u9019\u500b\u932f\u8aa4\u53ef\u80fd\u662f\u56e0\u70ba\u767b\u51fa\u8cc7\u8a0a\u903e\u6642\uff0c\u767b\u51fa\u8cc7\u8a0a\u50c5\u80fd\u5728\u6709\u9650\u7684\u6642\u9593\u88e1\u6709\u6548 - \u901a\u5e38\u662f\u5e7e\u5c0f\u6642\u3002\u9019\u5df2\u7d93\u5927\u65bc\u6b63\u5e38\u7684\u767b\u51fa\u64cd\u4f5c\u6240\u9700\u7684\u6642\u9593\uff0c\u6240\u4ee5\u9019\u500b\u932f\u8aa4\u4e5f\u8a31\u8aaa\u660e\u6709\u4e9b\u5176\u4ed6\u7684\u932f\u8aa4\u88ab\u8a2d\u5b9a\u3002\u5982\u679c\u9019\u500b\u932f\u8aa4\u6301\u7e8c\u5b58\u5728\uff0c\u8acb\u9023\u7d61\u60a8\u7684\u670d\u52d9\u63d0\u4f9b\u8005\u3002"
     },
     "title_UNHANDLEDEXCEPTION": {
         "af": "Onverwagte foutmelding",
@@ -1659,6 +1710,7 @@
         "cs": "Neo\u010dek\u00e1van\u00e1 vyj\u00edmka",
         "da": "Unhandled exception",
         "de": "Nicht abgefangene Code-Exception",
+        "el": "\u0391\u03bd\u03b5\u03c0\u03af\u03bb\u03c5\u03c4\u03b7 \u03b5\u03be\u03b1\u03af\u03c1\u03b5\u03c3\u03b7",
         "es": "Excepci\u00f3n sin manejar",
         "et": "K\u00e4sitlemata t\u00f5rge",
         "eu": "Kudeatu gabeko salbuespena",
@@ -1693,6 +1745,7 @@
         "cs": "Neo\u010dek\u00e1van\u00e1 vyj\u00edmka vznikla.",
         "da": "An unhandled exception was thrown",
         "de": "Eine nicht abgefangene Code-Exception ist aufgetreten.",
+        "el": "\u03a0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5 \u03b1\u03bd\u03b5\u03c0\u03af\u03bb\u03c5\u03c4\u03b7 \u03b5\u03be\u03b1\u03af\u03c1\u03b5\u03c3\u03b7",
         "es": "Se lanz\u00f3 una excepci\u00f3n no manejada.",
         "et": "Ilmnes k\u00e4sitlemata t\u00f5rge.",
         "eu": "Kudeatu gabeko salbuespen bat abiarazi da",
@@ -1719,7 +1772,7 @@
         "sv": "Ett ohanterat undatag har intr\u00e4ffat. ",
         "tr": "Bir beklenmeyen durum g\u00f6nderildi.",
         "zh": "\u629b\u51fa\u4e00\u4e2a\u672a\u5904\u7406\u7684\u5f02\u5e38",
-        "zh-tw": "\u767c\u751f\u4e86\u4e00\u500b\u7121\u6cd5\u9810\u671f\u7684\u4f8b\u5916"
+        "zh-tw": "\u767c\u751f\u4e86\u4e00\u500b\u7121\u6cd5\u9810\u671f\u7684\u4f8b\u5916\u72c0\u6cc1"
     },
     "title_NOTFOUND": {
         "af": "Bladsy nie gevind nie",
@@ -1727,6 +1780,7 @@
         "cs": "Str\u00e1nka nenalezena.",
         "da": "Siden kunne ikke findes",
         "de": "Seite nicht gefunden",
+        "el": "\u0397 \u03c3\u03b5\u03bb\u03af\u03b4\u03b1 \u03b4\u03b5\u03bd \u03b2\u03c1\u03ad\u03b8\u03b7\u03ba\u03b5",
         "es": "P\u00e1gina no encontrada",
         "et": "Lehek\u00fclge ei leitud",
         "eu": "Ez da orria aurkitu",
@@ -1761,6 +1815,7 @@
         "cs": "Str\u00e1nka nenalezena. URL je: %URL%",
         "da": "Siden kunne ikke findes. Sidens URL var: %URL%",
         "de": "Die gew\u00fcnschte Seite konnte nicht gefunden werden, der aufgerufene URL war %URL%",
+        "el": "\u0397 \u03c3\u03b5\u03bb\u03af\u03b4\u03b1 \u03c0\u03bf\u03c5 \u03b6\u03b7\u03c4\u03ae\u03c3\u03b1\u03c4\u03b5 \u03c3\u03c4\u03b7 \u03b4\u03b9\u03b5\u03cd\u03b8\u03c5\u03bd\u03c3\u03b7 %URL% \u03b4\u03b5\u03bd \u03b2\u03c1\u03ad\u03b8\u03b7\u03ba\u03b5.",
         "es": "No se encontr\u00f3 la p\u00e1gina dada. La URL fue: %URL%",
         "et": "Seda lehek\u00fclge ei leitud. Aadress oli: %URL%",
         "eu": "Ez da aurkitu adierazi duzun orria. URLa hau da: %URL%",
@@ -1795,6 +1850,7 @@
         "cs": "Str\u00e1nka nenalezena",
         "da": "Siden kunne ikke findes",
         "de": "Seite nicht gefunden",
+        "el": "\u0397 \u03c3\u03b5\u03bb\u03af\u03b4\u03b1 \u03b4\u03b5\u03bd \u03b2\u03c1\u03ad\u03b8\u03b7\u03ba\u03b5",
         "es": "P\u00e1gina no encontrada",
         "et": "Lehek\u00fclge ei leitud",
         "eu": "Ez da orria aurkitu",
@@ -1829,6 +1885,7 @@
         "cs": "Str\u00e1nka nenalezena. D\u016fvod je: %REASON%  URL je: %URL%",
         "da": "Siden kunne ikke findes p\u00e5 grund af %REASON%. Url'en var %URL%",
         "de": "Die gew\u00fcnschte Seite konnte nicht gefunden werden. Der Grund ist: %REASON% Der aufgerufene URL war %URL%",
+        "el": "\u0397 \u03c3\u03b5\u03bb\u03af\u03b4\u03b1 \u03c0\u03bf\u03c5 \u03b6\u03b7\u03c4\u03ae\u03c3\u03b1\u03c4\u03b5 \u03c3\u03c4\u03b7 \u03b4\u03b9\u03b5\u03cd\u03b8\u03c5\u03bd\u03c3\u03b7 %URL% \u03b4\u03b5\u03bd \u03b2\u03c1\u03ad\u03b8\u03b7\u03ba\u03b5: %REASON%",
         "es": "No se encontr\u00f3 la p\u00e1gina dada. La raz\u00f3n fue: %REASON% La URL fue: %URL%",
         "et": "Seda lehek\u00fclge ei leitud. P\u00f5hjus oli %REASON%. Aadress oli: %URL%",
         "eu": "Ez da aurkitu adierazi duzun orria. Arrazoia hau da: %REASON% URL hau da: %URL%",
@@ -1855,7 +1912,7 @@
         "sv": "Den angivna sidan finns inte. Orsak: %REASON% URL: %URL%",
         "tr": "Verilen sayfa bulunamad\u0131. Nedeni %REASON% idi. URL %URL% idi.",
         "zh": "\u7ed9\u5b9a\u7684\u9875\u9762\u6ca1\u6709\u627e\u5230\uff0c\u539f\u56e0: %REASON%; URL: %URL%",
-        "zh-tw": "\u627e\u4e0d\u5230\u60a8\u6240\u8981\u5b58\u53d6\u7684\u9801\u9762\uff0c\u539f\u56e0\uff1a%REASON%\uff1b\u7db2\u5740\uff1a%URL%"
+        "zh-tw": "\u627e\u4e0d\u5230\u60a8\u6240\u8981\u5b58\u53d6\u7684\u9801\u9762\uff0c\u539f\u56e0\uff1a%REASON% \uff1b\u7db2\u5740\uff1a%URL%"
     },
     "title_BADREQUEST": {
         "af": "Foutiewe versoek ontvang",
@@ -1863,6 +1920,7 @@
         "cs": "Zasl\u00e1n \u0161patn\u00fd po\u017eadavek",
         "da": "Fejlagtig foresp\u00f8rgsel",
         "de": "Ung\u00fcltige Anfrage",
+        "el": "\u0395\u03c3\u03c6\u03b1\u03bb\u03bc\u03ad\u03bd\u03bf \u03b1\u03af\u03c4\u03b7\u03bc\u03b1",
         "es": "Se recibi\u00f3 una solicitud incorrecta",
         "et": "Saabus halb p\u00e4ring",
         "eu": "Eskaera oker bat jaso da.",
@@ -1897,6 +1955,7 @@
         "cs": "Toho je chyba po\u017eadavku pro tuto str\u00e1nku. D\u016fvod je: %REASON%",
         "da": "Der er en fejl i foresp\u00f8rgslen til siden. Grunden er: %REASON%",
         "de": "In der Anfrage dieser Seite trat ein Fehler auf, der Grund ist: %REASON%",
+        "el": "\u03a0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5 \u03c3\u03c6\u03ac\u03bb\u03bc\u03b1 \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03bd \u03b5\u03c0\u03b5\u03be\u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b1 \u03c4\u03bf\u03c5 \u03b1\u03b9\u03c4\u03ae\u03bc\u03b1\u03c4\u03bf\u03c2: %REASON%",
         "es": "Hubo un error en la solicitud para esta p\u00e1gina. La raz\u00f3n fue: %REASON%",
         "et": "Lehek\u00fcljele esitati vigane p\u00e4ring. P\u00f5hjus: %REASON%",
         "eu": "Errore bat dago orri honen eskaeran. Arrazoia hau da: %REASON%",
@@ -1930,6 +1989,7 @@
         "cs": "\u0160patn\u00e9 jm\u00e9no a heslo.",
         "da": "Forkert brugernavn eller kodeord",
         "de": "Nutzername oder Passwort falsch.",
+        "el": "\u03a4\u03bf \u03cc\u03bd\u03bf\u03bc\u03b1 \u03c7\u03c1\u03ae\u03c3\u03c4\u03b7 \u03ae \u03bf \u03ba\u03c9\u03b4\u03b9\u03ba\u03cc\u03c2 \u03c0\u03c1\u03cc\u03c3\u03b2\u03b1\u03c3\u03b7\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bb\u03ac\u03b8\u03bf\u03c2",
         "es": "Nombre de usuario o contrase\u00f1a incorrecta",
         "et": "Kasutajatunnus v\u00f5i parool pole \u00f5ige",
         "eu": "Erabiltzaile-izena edo pasahitz okerra",
@@ -1964,6 +2024,7 @@
         "cs": "U\u017eivatel bu\u010f nebyl nalezen, nebo jste zadal \u0161patn\u00e9 heslo. Pros\u00edm zkontrolujte login a zkuste se p\u0159ihl\u00e1sit znovu.",
         "da": "Enten kunne brugeren ikke findes eller ogs\u00e5 var kodeordet forkert. Pr\u00f8v igen.",
         "de": "Entweder es konnte kein Nutzer mit dem angegebenen Nutzernamen gefunden werden oder das Passwort ist falsch. \u00dcberpr\u00fcfen Sie die Zugangsdaten und probieren Sie es nochmal.",
+        "el": "\u039f \u03c3\u03c5\u03bd\u03b4\u03c5\u03b1\u03c3\u03bc\u03cc\u03c2 \u03bf\u03bd\u03cc\u03bc\u03b1\u03c4\u03bf\u03c2 \u03c7\u03c1\u03ae\u03c3\u03c4\u03b7 \u03ba\u03b1\u03b9 \u03ba\u03c9\u03b4\u03b9\u03ba\u03bf\u03cd \u03c0\u03c1\u03cc\u03c3\u03b2\u03b1\u03c3\u03b7\u03c2 \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03c3\u03c9\u03c3\u03c4\u03cc\u03c2. \u03a0\u03b1\u03c1\u03b1\u03ba\u03b1\u03bb\u03ce \u03b5\u03bb\u03ad\u03b3\u03be\u03c4\u03b5 \u03c4\u03b7\u03bd \u03bf\u03c1\u03b8\u03cc\u03c4\u03b7\u03c4\u03b1 \u03c4\u03c9\u03bd \u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03af\u03c9\u03bd \u03c3\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03c0\u03c1\u03bf\u03c3\u03c0\u03b1\u03b8\u03ae\u03c3\u03c4\u03b5 \u03be\u03b1\u03bd\u03ac.",
         "es": "Ya que no se encontr\u00f3 usuarios con el nombre de usuario entregado, o la contrase\u00f1a que nos diste est\u00e1 mala, por favor revisa el nombre de usuario e int\u00e9ntalo de nuevo.",
         "et": "Kas sellise kasutajatunnusega kasutajat ei leitud v\u00f5i pole sinu poolt sisestatud parool \u00f5ige. Palun kontrolli kasutajatunnust ja parooli uuesti.",
         "eu": "Ez dago erabiltzailerik adierazitako identifikadorearekin, edo adierazitako pasahitza okerra da.  Mesedez, berrikusi ezazu erabiltzaile-identifikadorea eta saia zaiztez berriro.",
@@ -1989,7 +2050,7 @@
         "sv": "Antingen finns det ingen anv\u00e4ndare med angiven anv\u00e4ndaridentitet eller s\u00e5 har du angivit fel l\u00f6senord. F\u00f6rs\u00f6k igen.",
         "tr": "Ya bu kullan\u0131c\u0131 ad\u0131nda bir kullan\u0131c\u0131 bulunamad\u0131, yada \u015fifreniz yanl\u0131\u015f. L\u00fctfen kullan\u0131c\u0131 ad\u0131n\u0131 kontrol edin ve yeniden deneyin.",
         "zh": "\u5982\u679c\u4e0d\u662f\u7ed9\u5b9a\u7684\u7528\u6237\u540d\u6ca1\u6709\u627e\u5230\u5c31\u662f\u7ed9\u5b9a\u7684\u5bc6\u7801\u9519\u8bef\uff0c\u8bf7\u518d\u6b21\u68c0\u67e5\u7528\u6237\u540d\u548c\u5bc6\u7801",
-        "zh-tw": "\u627e\u4e0d\u5230\u60a8\u6240\u63d0\u4f9b\u7684\u4f7f\u7528\u8005\u540d\u7a31\u4e4b\u4f7f\u7528\u8005\uff0c\u6216\u60a8\u7d66\u4e86\u932f\u8aa4\u5bc6\u78bc\u3002\u8acb\u6aa2\u67e5\u4f7f\u7528\u8005\u4e26\u518d\u8a66\u4e00\u6b21\u3002"
+        "zh-tw": "\u627e\u4e0d\u5230\u60a8\u6240\u63d0\u4f9b\u7684\u4f7f\u7528\u8005\u540d\u7a31\u4e4b\u4f7f\u7528\u8005\uff0c\u6216\u60a8\u7d66\u4e86\u932f\u8aa4\u5bc6\u78bc\uff0c\u8acb\u6aa2\u67e5\u4f7f\u7528\u8005\u5e33\u5bc6\u4e26\u518d\u8a66\u4e00\u6b21\u3002"
     },
     "title_RESPONSESTATUSNOSUCCESS": {
         "af": "Foutmelding ontvang vanaf die Identiteits Verskaffer",
@@ -1997,6 +2058,7 @@
         "cs": "Chyba p\u0159ijat\u00e1 od poskytovatele identity",
         "da": "Fejl modtaget fra institution",
         "de": "Fehlermeldung vom Identity Provider erhalten",
+        "el": "\u039b\u03ae\u03c8\u03b7 \u03ba\u03c9\u03b4\u03b9\u03ba\u03bf\u03cd \u03c3\u03c6\u03ac\u03bb\u03bc\u03b1\u03c4\u03bf\u03c2 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u03c0\u03ac\u03c1\u03bf\u03c7\u03bf \u03c4\u03b1\u03c5\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2",
         "es": "Hubo un error recibido del proveedor de identidad",
         "et": "Identiteedipakkujalt saadi t\u00f5rge",
         "eu": "Errore bat jazo da IdP-aren aldetik",
@@ -2031,6 +2093,7 @@
         "cs": "Poskytovatel identity odpov\u011bd\u011bl chybou. (Stavov\u00fd k\u00f3d v SAML nebyl \u00fasp\u011b\u0161n\u00fd)",
         "da": "Institutionen har sendt en fejl. (Status koden i SAML responset var ikke succes)",
         "de": "Der Identity Provider gab einen Fehler zur\u00fcck (Der Statuscode in der SAML-Antwort war nicht \"Erfolg\")",
+        "el": "\u039f \u03ba\u03c9\u03b4\u03b9\u03ba\u03cc\u03c2 \u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7\u03c2 \u03c0\u03bf\u03c5 \u03c0\u03b5\u03c1\u03b9\u03ad\u03c7\u03b5\u03b9 \u03b7 \u03b1\u03c0\u03ac\u03bd\u03c4\u03b7\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03c0\u03b1\u03c1\u03cc\u03c7\u03bf\u03c5 \u03c4\u03b1\u03c5\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2 \u03c5\u03c0\u03bf\u03b4\u03b5\u03b9\u03ba\u03bd\u03cd\u03b5\u03b9 \u03c3\u03c6\u03ac\u03bb\u03bc\u03b1.",
         "es": "El proveedor de identidad respondi\u00f3 con un error (el c\u00f3digo de estado en la respuesta SAML no fue exitoso).",
         "et": "Identiteedipakkuja vastas t\u00f5rkega (SAML-vastuse olekukood polnud positiivne).",
         "eu": "Idp-ak errore batekin erantzun dio eskaerari. (SAML erantzunean egoera kodea ez da arrakastatsua izan)",
@@ -2057,7 +2120,7 @@
         "sv": "Identitetshanteraren (Identity Provider) svarade med ett felmeddelande. (Statusmeddelandet i SAML-svaret var ett felmeddelande)",
         "tr": "Kimlik Sa\u011flay\u0131c\u0131 hatal\u0131 cevap verdi. (SAML Cevab\u0131'ndaki durum kodu ba\u015far\u0131lamad\u0131)",
         "zh": "\u8eab\u4efd\u63d0\u4f9b\u8005\u7684\u5e94\u7b54\u5b58\u5728\u9519\u8bef\uff08SAML\u5e94\u7b54\u72b6\u6001\u7801\u5e76\u6ca1\u6709\u6210\u529f\uff09",
-        "zh-tw": "\u9a57\u8b49\u63d0\u4f9b\u8005\u56de\u61c9\u4e00\u500b\u932f\u8aa4\u3002(\u5728 SAML \u56de\u61c9\u88e1\u7684\u72c0\u614b\u78bc\u70ba\u4e0d\u6210\u529f)"
+        "zh-tw": "\u9a57\u8b49\u63d0\u4f9b\u8005\u56de\u61c9\u4e00\u500b\u932f\u8aa4\u3002(\u5728 SAML \u56de\u61c9\u88e1\u7684\u72c0\u614b\u78bc\u986f\u793a\u70ba\u4e0d\u6210\u529f)"
     },
     "title_NOCERT": {
         "af": "Geen sertifikaat",
@@ -2065,6 +2128,7 @@
         "cs": "Chyb\u00ed certiifik\u00e1t",
         "da": "Intet certifikat",
         "de": "Kein Zertifikat",
+        "el": "\u0394\u03b5\u03bd \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03c0\u03b9\u03c3\u03c4\u03bf\u03c0\u03bf\u03b9\u03b7\u03c4\u03b9\u03ba\u03cc",
         "es": "Sin certificado",
         "et": "Sertifikaat puudub",
         "eu": "Ziurtagiri gabe",
@@ -2097,6 +2161,7 @@
         "cs": "P\u0159ihl\u00e1\u0161en\u00ed neprob\u011bhlo: V\u00e1\u0161 prohl\u00ed\u017ee\u010d neodeslal \u017e\u00e1dn\u00fd certifik\u00e1t",
         "da": "Login fejlede - din browser sendte ikke noget certifikat",
         "de": "Authentifizierung fehlgeschlagen: ihr Browser hat kein Zertifikat gesandt",
+        "el": "\u0397 \u03c4\u03b1\u03c5\u03c4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 \u03b1\u03c0\u03ad\u03c4\u03c5\u03c7\u03b5: \u03a4\u03bf \u03c0\u03c1\u03cc\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1 \u03c0\u03b5\u03c1\u03b9\u03ae\u03b3\u03b7\u03c3\u03b7\u03c2 \u03b9\u03c3\u03c4\u03bf\u03cd \u03c0\u03bf\u03c5 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03b5\u03af\u03c4\u03b5 \u03b4\u03b5\u03bd \u03ad\u03c3\u03c4\u03b5\u03b9\u03bb\u03b5 \u03c0\u03b9\u03c3\u03c4\u03bf\u03c0\u03bf\u03b9\u03b7\u03c4\u03b9\u03ba\u03cc.",
         "es": "Fall\u00f3 la autenticaci\u00f3n: tu navegador no envi\u00f3 el certificado",
         "et": "Autentimine ei \u00f5nnestunud: brauser ei saatnud \u00fchtegi sertifikaati",
         "eu": "Kautotze okerra: zure nabigatzaileak ez du bidali ziurtagiririk ",
@@ -2128,6 +2193,7 @@
         "cs": "\u0160patn\u00fd certifik\u00e1t",
         "da": "Ugyldigt certifikat",
         "de": "Ung\u00fcltiges Zertifikat",
+        "el": "\u039c\u03b7 \u03ad\u03b3\u03ba\u03c5\u03c1\u03bf \u03c0\u03b9\u03c3\u03c4\u03bf\u03c0\u03bf\u03b9\u03b7\u03c4\u03b9\u03ba\u03cc",
         "es": "El certificado no es v\u00e1lido",
         "et": "Vigane sertifikaat",
         "eu": "Ziurtagiri baliogabea",
@@ -2160,6 +2226,7 @@
         "cs": "P\u0159ihl\u00e1\u0161en\u00ed neprob\u011bhlo: certifik\u00e1t kter\u00fd odeslal V\u00e1\u0161 rohl\u00ed\u017ee\u010d nemohl b\u00fdt p\u0159e\u010dten",
         "da": "Authentifikation fejlede: Certifikatet som din browser har sendt er ugyldigt og kan ikke l\u00e6ses",
         "de": "Authentifizierung fehlgeschlagen: das von ihrem Browser gesandte Zertifikat ist ung\u00fcltig oder kann nicht gelesen werden",
+        "el": "\u0397 \u03c4\u03b1\u03c5\u03c4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 \u03b1\u03c0\u03ad\u03c4\u03c5\u03c7\u03b5: \u03a4\u03bf \u03c0\u03b9\u03c3\u03c4\u03bf\u03c0\u03bf\u03b9\u03b7\u03c4\u03b9\u03ba\u03cc \u03c0\u03bf\u03c5 \u03ad\u03c3\u03c4\u03b5\u03b9\u03bb\u03b5 \u03c4\u03bf \u03c0\u03c1\u03cc\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1 \u03c0\u03b5\u03c1\u03b9\u03ae\u03b3\u03b7\u03c3\u03b7\u03c2 \u03b9\u03c3\u03c4\u03bf\u03cd \u03c0\u03bf\u03c5 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03b5\u03af\u03c4\u03b5 \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03ad\u03b3\u03ba\u03c5\u03c1\u03bf \u03ae \u03b4\u03b5\u03bd \u03ae\u03c4\u03b1\u03bd \u03b4\u03c5\u03bd\u03b1\u03c4\u03ae \u03b7 \u03b1\u03bd\u03ac\u03b3\u03bd\u03c9\u03c3\u03ae \u03c4\u03bf\u03c5.",
         "es": "Fall\u00f3 la autenticaci\u00f3n: el certificado que envi\u00f3 tu navegador no es v\u00e1lido o no se puede leer",
         "et": "Autentimine ei \u00f5nnestunud: brauseri poolt saadetud sertifikaat on vigane v\u00f5i pole loetav",
         "eu": "Kautotze okerra: Zure nabigatzaileak bidalitako ziurtagiria baliogabea da edo ezin da irakurri",
@@ -2183,7 +2250,7 @@
         "sr": "Neuspe\u0161na autentifikacija: digitalni sertifikat koji je poslao va\u0161 web pretra\u017eiva\u010d nije ispravan ili se ne mo\u017ee pro\u010ditati",
         "sv": "Inloggning mislyckades: Certfikatet som din webbl\u00e4sare skickade var felaktigt eller kunde inte l\u00e4sas",
         "zh": "\u8ba4\u8bc1\u5931\u8d25\uff1a\u4f60\u7684\u6d4f\u89c8\u5668\u53d1\u9001\u7684\u8bc1\u4e66\u65e0\u6548\u6216\u8005\u4e0d\u80fd\u8bfb\u53d6",
-        "zh-tw": "\u9a57\u8b49\u5931\u6557\uff1a\u60a8\u7684\u700f\u89bd\u5668\u50b3\u9001\u7684\u6191\u8b49\u70ba\u7121\u6548\u6216\u7121\u6cd5\u8b80\u53d6"
+        "zh-tw": "\u9a57\u8b49\u5931\u6557\uff1a\u60a8\u7684\u700f\u89bd\u5668\u50b3\u9001\u4e4b\u6191\u8b49\u70ba\u7121\u6548\u6216\u7121\u6cd5\u8b80\u53d6"
     },
     "title_UNKNOWNCERT": {
         "af": "Onbekende sertifikaat",
@@ -2191,6 +2258,7 @@
         "cs": "Nezn\u00e1m\u00fd certifik\u00e1t",
         "da": "Ukendt certifikat",
         "de": "Unbekanntes Zertifikat",
+        "el": "\u0386\u03b3\u03bd\u03c9\u03c3\u03c4\u03bf \u03c0\u03b9\u03c3\u03c4\u03bf\u03c0\u03bf\u03b9\u03b7\u03c4\u03b9\u03ba\u03cc",
         "es": "Certificado desconocido",
         "et": "Tundmatu sertifikaat",
         "eu": "Ziurtagiri ezezaguna",
@@ -2223,6 +2291,7 @@
         "cs": "P\u0159ihl\u00e1\u0161en\u00ed neprob\u011bhlo: certifik\u00e1t kter\u00fd odeslal V\u00e1\u0161 prohl\u00ed\u017ee\u010d je nezn\u00e1m\u00fd",
         "da": "Authentifikation fejlede: Certifikatet som din browser har send er ukendt",
         "de": "Authentifizierung fehlgeschlagen: das von ihrem Browser gesandte Zertifikat ist unbekannt",
+        "el": "\u0397 \u03c4\u03b1\u03c5\u03c4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 \u03b1\u03c0\u03ad\u03c4\u03c5\u03c7\u03b5: \u03a4\u03bf \u03c0\u03b9\u03c3\u03c4\u03bf\u03c0\u03bf\u03b9\u03b7\u03c4\u03b9\u03ba\u03cc \u03c0\u03bf\u03c5 \u03ad\u03c3\u03c4\u03b5\u03b9\u03bb\u03b5 \u03c4\u03bf \u03c0\u03c1\u03cc\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1 \u03c0\u03b5\u03c1\u03b9\u03ae\u03b3\u03b7\u03c3\u03b7\u03c2 \u03b9\u03c3\u03c4\u03bf\u03cd \u03c0\u03bf\u03c5 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03b5\u03af\u03c4\u03b5 \u03b4\u03b5\u03bd \u03ae\u03c4\u03b1\u03bd \u03b4\u03c5\u03bd\u03b1\u03c4\u03cc \u03bd\u03b1 \u03b1\u03bd\u03b1\u03b3\u03bd\u03c9\u03c1\u03b9\u03c3\u03c4\u03b5\u03af.",
         "es": "Fall\u00f3 la autenticaci\u00f3n: no se conoce el certificado que envi\u00f3 tu navegador",
         "et": "Autentimine ei \u00f5nnestunud: brauser saatis tundmatu sertifikaadi",
         "eu": "Kautotze okerra: zure nabigatzaileak bidalitako ziurtagiria ezezaguna da",
@@ -2254,6 +2323,7 @@
         "cs": "P\u0159ihl\u00e1\u0161en\u00ed odm\u00edtnuto",
         "da": "Autentificering aubrudt",
         "de": "Authentifizierung abgebrochen",
+        "el": "\u0397 \u03c4\u03b1\u03c5\u03c4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 \u03bc\u03b1\u03c4\u03b1\u03b9\u03ce\u03b8\u03b7\u03ba\u03b5",
         "es": "Autenticaci\u00f3n abortada",
         "et": "Autentimine katkestatud",
         "eu": "Kautotzea bertan behera utzia",
@@ -2285,6 +2355,7 @@
         "cs": "P\u0159ihl\u00e1\u0161en\u00ed bylo p\u0159eru\u0161eno u\u017eivatelem",
         "da": "Autentificering blev afbrudt af brugeren",
         "de": "Die Authentifizierung wurde durch den Benutzer abgebrochen",
+        "el": "\u0397 \u03c4\u03b1\u03c5\u03c4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 \u03bc\u03b1\u03c4\u03b1\u03b9\u03ce\u03b8\u03b7\u03ba\u03b5 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u03c7\u03c1\u03ae\u03c3\u03c4\u03b7.",
         "es": "El usuario abort\u00f3 la autenticaci\u00f3n",
         "et": "Autentimine katkestati kasutaja poolt",
         "eu": "Kautotzea bertan behera utzi du erabiltzaileak",
@@ -2316,6 +2387,7 @@
         "cs": "Stavov\u00e1 informace ztracena",
         "da": "State information tabt",
         "de": "Statusinformationen verloren",
+        "el": "\u0394\u03b5\u03bd \u03b2\u03c1\u03ad\u03b8\u03b7\u03ba\u03b1\u03bd \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2 \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03ac \u03bc\u03b5 \u03c4\u03b7\u03bd \u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03b1\u03b9\u03c4\u03ae\u03bc\u03b1\u03c4\u03bf\u03c2",
         "es": "Informaci\u00f3n de estado perdida",
         "et": "Olekuinfo kadunud",
         "eu": "Egoera informazioa galdua",
@@ -2339,7 +2411,7 @@
         "sr": "Podaci o stanju su izgubljeni",
         "sv": "Sessionsinformationen \u00e4r borttappad",
         "zh": "\u72b6\u6001\u4fe1\u606f\u4e22\u5931",
-        "zh-tw": "\u907a\u5931\u72c0\u614b\u8cc7\u8a0a"
+        "zh-tw": "\u72c0\u614b\u8cc7\u8a0a\u907a\u5931"
     },
     "descr_NOSTATE": {
         "af": "Toestandsinformasie verlore en daar is geen manier om die versoek weer te stuur nie",
@@ -2347,6 +2419,7 @@
         "cs": "Stavov\u00e1 informace ",
         "da": "State information er tabt og der er ikke muligt at gentage forsp\u00f8rgelsen",
         "de": "Die Statusinformationen gingen verloren und die Anfrage kann nicht neu gestartet werden",
+        "el": "\u0394\u03b5\u03bd \u03ae\u03c4\u03b1\u03bd \u03b4\u03c5\u03bd\u03b1\u03c4\u03cc \u03bd\u03b1 \u03b5\u03be\u03c5\u03c0\u03b7\u03c1\u03b5\u03c4\u03b7\u03b8\u03b5\u03af \u03c4\u03bf \u03b1\u03af\u03c4\u03b7\u03bc\u03ac \u03c3\u03b1\u03c2 \u03ba\u03b1\u03b8\u03ce\u03c2 \u03b4\u03b5\u03bd \u03b2\u03c1\u03ad\u03b8\u03b7\u03ba\u03b1\u03bd \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2 \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03ac \u03bc\u03b5 \u03c4\u03b7\u03bd \u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03ae \u03c4\u03bf\u03c5",
         "es": "Se perdi\u00f3 la informaci\u00f3n de estad, y no hay forma de reanudar la solicitud",
         "et": "Olekuinfo l\u00e4ks kaduma ja p\u00e4ringut pole v\u00f5imalik uuesti k\u00e4ivitada",
         "eu": "Egoera informazioa galdua eta ez dago modurik eskaera berrabiarazteko",
@@ -2370,7 +2443,7 @@
         "sr": "Podaci o stanju su izgubljeni i zahtev se ne mo\u017ee reprodukovati",
         "sv": "Sessionsinformationen \u00e4r borttappad och det \u00e4r inte m\u00f6jligt att \u00e5terstarta f\u00f6rfr\u00e5gan",
         "zh": "\u72b6\u6001\u4fe1\u606f\u4e22\u5931\uff0c\u5e76\u4e14\u65e0\u6cd5\u91cd\u65b0\u8bf7\u6c42",
-        "zh-tw": "\u907a\u5931\u72c0\u614b\u8cc7\u8a0a\uff0c\u4e14\u7121\u6cd5\u91cd\u65b0\u8acb\u6c42"
+        "zh-tw": "\u72c0\u614b\u8cc7\u8a0a\u907a\u5931\uff0c\u4e14\u7121\u6cd5\u91cd\u65b0\u555f\u52d5\u8acb\u6c42"
     },
     "title_METADATANOTFOUND": {
         "af": "Metadata nie gevind nie",
@@ -2378,6 +2451,7 @@
         "cs": "Metadata nenalezena",
         "da": "Metadata ikke fundet",
         "de": "Keine Metadaten gefunden",
+        "el": "\u0394\u03b5\u03bd \u03b2\u03c1\u03ad\u03b8\u03b7\u03ba\u03b1\u03bd \u03bc\u03b5\u03c4\u03b1\u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03b1",
         "es": "Metadatos no encontrados",
         "et": "Metaandmeid ei leitud",
         "eu": "Ez dira metadatuak aurkitu",
@@ -2401,7 +2475,7 @@
         "sr": "Metapodaci nisu prona\u0111eni",
         "sv": "Metadata saknas",
         "zh": "\u6ca1\u6709\u627e\u5230\u5143\u4fe1\u606f",
-        "zh-tw": "\u627e\u4e0d\u5230\u8a6e\u91cb\u8cc7\u6599"
+        "zh-tw": "\u627e\u4e0d\u5230 Metadata"
     },
     "descr_METADATANOTFOUND": {
         "af": "Kan geen metadata vind vir %ENTITYID%",
@@ -2409,6 +2483,7 @@
         "cs": "Nebyly nalezeny metadata pro %ENTITYID%",
         "da": "Kan ikke finde metadata for %ENTITYID%",
         "de": "Keine Metadaten f\u00fcr %ENTITYID% gefunden",
+        "el": "\u0394\u03b5\u03bd \u03ae\u03c4\u03b1\u03bd \u03b4\u03c5\u03bd\u03b1\u03c4\u03cc \u03bd\u03b1 \u03b2\u03c1\u03b5\u03b8\u03bf\u03cd\u03bd \u03bc\u03b5\u03c4\u03b1\u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03bf\u03bd\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1 %ENTITYID%",
         "es": "No se pudo ubicar los metadatos para %ENTITYID%",
         "et": "Olemi metaandmeid ei leitud: %ENTITYID%",
         "eu": "Ezin da aurkitu metadaturik %ENTITYID%-(a)rentzat",
@@ -2432,7 +2507,7 @@
         "sr": "Metapodaci za %ENTITYID% nisu prona\u0111eni",
         "sv": "Kan inte hitta metadata f\u00f6r %ENTITYID%",
         "zh": "\u65e0\u6cd5\u4e3a%ENTITYID%\u5b9a\u4f4d\u5143\u4fe1\u606f",
-        "zh-tw": "\u7121\u6cd5\u627e\u5230\u8a6e\u91cb\u8cc7\u6599\u65bc %ENTITYID%"
+        "zh-tw": "\u7121\u6cd5\u627e\u5230 Metadata \u65bc %ENTITYID%"
     },
     "title_AUTHSOURCEERROR": {
         "af": "Fout in verifikasie bron",
@@ -2440,6 +2515,7 @@
         "cs": "Chyba autentiza\u010dn\u00edho zdroje",
         "da": "Authentication source fejl",
         "de": "Authentifizierungsquellenfehler",
+        "el": "\u03a3\u03c6\u03ac\u03bb\u03bc\u03b1 \u03bc\u03b5 \u03c4\u03b7\u03bd \u03c0\u03b7\u03b3\u03ae \u03c4\u03b1\u03c5\u03c4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7\u03c2",
         "es": "Hubo un error en la fuente de autenticaci\u00f3n",
         "et": "Autentimisallika t\u00f5rge",
         "eu": "Errorea kautotze jatorrian",
@@ -2471,6 +2547,7 @@
         "cs": "Autentiza\u010dn\u00ed chyba ve zdroji %AUTHSOURCE%. D\u016fvodem bylo: %REASON%",
         "da": "Autentificeringsfejl i %AUTHSOURCE%. \u00c5rsagen var: %REASON%",
         "de": "Authentifizierungsfehler in der Quelle %AUTHSOURCE%. Der Grund hier f\u00fcr ist: %REASON%",
+        "el": "\u03a0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5 \u03c3\u03c6\u03ac\u03bb\u03bc\u03b1 \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03bd \u03b5\u03c0\u03b9\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03af\u03b1 \u03bc\u03b5 \u03c4\u03b7\u03bd \u03c0\u03b7\u03b3\u03ae \u03c4\u03b1\u03c5\u03c4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7\u03c2 %AUTHSOURCE%: %REASON%",
         "es": "Hubo un error en la fuente de autenticaci\u00f3n %AUTHSOURCE%. La raz\u00f3n fue: %REASON%",
         "et": "T\u00f5rge autentimisallikas %AUTHSOURCE%. P\u00f5hjus: %REASON%",
         "eu": "Errorea kautotze jatorrian %AUTHSOURCE%. Arrazoia hau da: %REASON%",
@@ -2497,9 +2574,13 @@
         "zh-tw": "\u8a8d\u8b49\u932f\u8aa4\u4f86\u81ea %AUTHSOURCE% \u3002\u539f\u56e0\u70ba\uff1a %REASON%"
     },
     "title_MEMCACHEDOWN": {
-        "es": "No se pudo obtener los datos de la sesi\u00f3n"
+        "el": "\u0394\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03b4\u03c5\u03bd\u03b1\u03c4\u03ae \u03b7 \u03b1\u03bd\u03ac\u03ba\u03c4\u03b7\u03c3\u03b7 \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u03c3\u03c5\u03bd\u03b5\u03b4\u03c1\u03af\u03b1\u03c2",
+        "es": "No se pudo obtener los datos de la sesi\u00f3n",
+        "zh-tw": "\u7121\u6cd5\u53d6\u5f97\u9023\u7dda Session \u8cc7\u8a0a"
     },
     "descr_MEMCACHEDOWN": {
-        "es": "No se pueden recuperar los datos de tu sesi\u00f3n justo ahora, debido a dificultades t\u00e9cnicas. Por favor int\u00e9ntalo de nuevo, en unos pocos minutos."
+        "el": "\u0394\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03b4\u03c5\u03bd\u03b1\u03c4\u03ae \u03b7 \u03b1\u03bd\u03ac\u03ba\u03c4\u03b7\u03c3\u03b7 \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u03c3\u03c5\u03bd\u03b5\u03b4\u03c1\u03af\u03b1\u03c2 \u03bb\u03cc\u03b3\u03c9 \u03c4\u03b5\u03c7\u03bd\u03b9\u03ba\u03ce\u03bd \u03b4\u03c5\u03c3\u03ba\u03bf\u03bb\u03b9\u03ce\u03bd. \u03a0\u03b1\u03c1\u03b1\u03ba\u03b1\u03bb\u03bf\u03cd\u03bc\u03b5 \u03b4\u03bf\u03ba\u03b9\u03bc\u03ac\u03c3\u03c4\u03b5 \u03be\u03b1\u03bd\u03ac \u03b1\u03c1\u03b3\u03cc\u03c4\u03b5\u03c1\u03b1",
+        "es": "No se pueden recuperar los datos de tu sesi\u00f3n justo ahora, debido a dificultades t\u00e9cnicas. Por favor int\u00e9ntalo de nuevo, en unos pocos minutos.",
+        "zh-tw": "\u60a8\u7684\u9023\u7dda Session \u8cc7\u8a0a\u56e0\u70ba\u6280\u8853\u56f0\u96e3\u73fe\u5728\u7121\u6cd5\u53d6\u5f97\uff0c\u8acb\u7a0d\u5f85\u5e7e\u5206\u9418\u5f8c\u518d\u91cd\u8a66"
     }
 }

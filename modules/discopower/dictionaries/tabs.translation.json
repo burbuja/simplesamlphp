@@ -2,6 +2,7 @@
     "norway": {
         "af": "Noorwe\u00eb",
         "da": "Norge",
+        "el": "\u039d\u03bf\u03c1\u03b2\u03b7\u03b3\u03af\u03b1",
         "es": "Noruega",
         "gl": "Noruega",
         "nl": "Noorwegen",
@@ -11,6 +12,7 @@
     "kalmar": {
         "af": "Kalmar",
         "da": "Kalmar",
+        "el": "Kalmar",
         "es": "Kalmar",
         "nl": "Kalmar",
         "ru": "\u041a\u0430\u043b\u044c\u043c\u0430\u0440",
@@ -19,6 +21,7 @@
     "finland": {
         "af": "Finland",
         "da": "Finland",
+        "el": "\u03a6\u03b9\u03bd\u03bb\u03b1\u03bd\u03b4\u03af\u03b1",
         "es": "Finlandia",
         "gl": "Finlandia",
         "nl": "Finland",
@@ -28,6 +31,7 @@
     "sweden": {
         "af": "Swede",
         "da": "Sverige",
+        "el": "\u03a3\u03bf\u03c5\u03b7\u03b4\u03af\u03b1",
         "es": "Suecia",
         "gl": "Suecia",
         "nl": "Zweden",
@@ -37,6 +41,7 @@
     "iceland": {
         "af": "Ysland",
         "da": "Island",
+        "el": "\u0399\u03c3\u03bb\u03b1\u03bd\u03b4\u03af\u03b1",
         "es": "Islandia",
         "gl": "Islandia",
         "nl": "IJsland",
@@ -46,6 +51,7 @@
     "denmark": {
         "af": "Denmark",
         "da": "Danmark",
+        "el": "\u0394\u03b1\u03bd\u03af\u03b1",
         "es": "Dinamarca",
         "gl": "Dinamarca",
         "nl": "Denemarken",
@@ -55,15 +61,38 @@
     "switzerland": {
         "af": "Switserland",
         "da": "Schweiz",
+        "el": "\u0395\u03bb\u03b2\u03b5\u03c4\u03af\u03b1",
         "es": "Suiza",
         "gl": "Suiza",
         "nl": "Zwitserland",
         "ru": "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u044f",
         "zh-tw": "\u745e\u58eb"
     },
+    "greece": {
+        "af": "Griekeland",
+        "da": "Gr\u00e6kenland",
+        "el": "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+        "es": "Grecia",
+        "gl": "Grecia",
+        "nl": "Griekenland",
+        "ru": "\u0413\u0440\u0435\u0446\u0438\u044f"
+    },
+    "southafrica": {
+        "af": "Suid-Afrika",
+        "da": "Sydafrika",
+        "el": "\u039d\u03cc\u03c4\u03b9\u03b1 \u0391\u03c6\u03c1\u03b9\u03ba\u03ae",
+        "es": "Sud\u00e1frica",
+        "gl": "Sur\u00e1frica",
+        "nl": "Zuid-Afrika",
+        "ru": "\u042e\u0436\u043d\u0430\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
+        "xh": "uMzantsi Afrika",
+        "zh-tw": "\u5357\u975e",
+        "zu": "iNingizimu Afrika"
+    },
     "edugain": {
         "af": "Europa (eduGAIN)",
         "da": "Europa (eduGAIN)",
+        "el": "\u0395\u03c5\u03c1\u03ce\u03c0\u03b7 (eduGAIN)",
         "es": "Europa (eduGAIN)",
         "gl": "Europa (eduGAIN)",
         "nl": "Europa (eduGAIN)",
@@ -73,6 +102,7 @@
     "misc": {
         "af": "Verskeie",
         "da": "Forskellige",
+        "el": "\u0386\u03bb\u03bb\u03bf\u03b9 \u03c6\u03bf\u03c1\u03b5\u03af\u03c2",
         "es": "Miscel\u00e1neo",
         "gl": "Miscelanea",
         "nl": "Overige",
@@ -80,8 +110,9 @@
         "zh-tw": "\u96dc\u9805"
     },
     "incommon": {
-        "af": "In gemeen",
+        "af": "InCommon",
         "da": "InCommon",
+        "el": "InCommon",
         "es": "InCommon",
         "nl": "InCommon",
         "zh-tw": "InCommon"
@@ -89,6 +120,7 @@
     "ukacessfederation": {
         "af": "UK Toegangs Federasie",
         "da": "Storbritanniens adgangsf\u00f8deration",
+        "el": "\u039f\u03bc\u03bf\u03c3\u03c0\u03bf\u03bd\u03b4\u03af\u03b1 UK Access",
         "es": "UK Access Federation",
         "nl": "UK Access Federation",
         "zh-tw": "\u82f1\u570b Access Management Federation for Education and Research."

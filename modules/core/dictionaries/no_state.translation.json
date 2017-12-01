@@ -4,6 +4,7 @@
         "cs": "Stavov\u00e1 informace ztracena",
         "da": "Tilstandsinformation forsvundet",
         "de": "Statusinformationen verloren",
+        "el": "\u0394\u03b5\u03bd \u03b2\u03c1\u03ad\u03b8\u03b7\u03ba\u03b1\u03bd \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2 \u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7\u03c2",
         "es": "Informaci\u00f3n de estado perdida",
         "et": "Olekuinfo on kadunud",
         "eu": "Egoeraren informazioa galdu da",
@@ -25,13 +26,14 @@
         "sr": "Informacije o stanju su izgubljene",
         "sv": "Tillst\u00e5ndsinformation \u00e4r f\u00f6rlorad",
         "zh": "\u72b6\u6001\u4fe1\u606f\u4e22\u5931",
-        "zh-tw": "\u907a\u5931\u72c0\u614b\u8cc7\u8a0a"
+        "zh-tw": "\u72c0\u614b\u8cc7\u8a0a\u907a\u5931"
     },
     "description": {
         "ar": "\u0644\u0645 \u0646\u0633\u062a\u0637\u0639 \u062a\u062d\u062f\u064a\u062f \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0627\u0644\u0645\u0641\u0642\u0648\u062f\u0629 \u0644\u0644\u0637\u0644\u0628 \u0627\u0644\u062d\u0627\u0644\u064a",
         "cs": "Nebylo mo\u017en\u00e9 naj\u00edt stavovou informaci pro sou\u010dasn\u00fd po\u017eadavek.",
         "da": "Tilstandsinformation for igangv\u00e6rende request kan ikke findes",
         "de": "Wir konnten die Statusinformationen f\u00fcr die aktuelle Anfrage nicht lokalisieren.",
+        "el": "\u0394\u03b5\u03bd \u03ae\u03c4\u03b1\u03bd \u03b4\u03c5\u03bd\u03b1\u03c4\u03cc \u03bd\u03b1 \u03b5\u03bd\u03c4\u03bf\u03c0\u03b9\u03c3\u03c4\u03bf\u03cd\u03bd \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2 \u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03c4\u03c1\u03ad\u03c7\u03bf\u03bd \u03b1\u03af\u03c4\u03b7\u03bc\u03b1.",
         "es": "No pudimos ubicar la informaci\u00f3n de estado para la actual petici\u00f3n.",
         "et": "Aktiivse p\u00e4ringu olekuinfo leidmine ei \u00f5nnestunud.",
         "eu": "Ez dugu aurkitu egoeraren informaziorik eskaera honentzat.",
@@ -60,6 +62,7 @@
         "cs": "N\u00e1vrhy pro vy\u0159e\u0161en\u00ed tohoto probl\u00e9mu:",
         "da": "L\u00f8sningsforslag til problemet:",
         "de": "Empfehlungen um dieses Problem zu l\u00f6sen:",
+        "el": "\u03a0\u03c1\u03bf\u03c4\u03ac\u03c3\u03b5\u03b9\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03c0\u03af\u03bb\u03c5\u03c3\u03b7 \u03b1\u03c5\u03c4\u03bf\u03cd \u03c4\u03bf\u03c5 \u03c0\u03c1\u03bf\u03b2\u03bb\u03ae\u03bc\u03b1\u03c4\u03bf\u03c2:",
         "es": "Sugerencias para resolver este problema:",
         "et": "N\u00f5uanded selle probleemi lahendamiseks:",
         "eu": "Arazo hau konpontzeko iradokizunak:",
@@ -81,13 +84,14 @@
         "sr": "Preporuke za re\u0161avanje ovog problema:",
         "sv": "F\u00f6rslag f\u00f6r att \u00e5tg\u00e4rda detta problem:",
         "zh": "\u5173\u4e8e\u89e3\u51b3\u8be5\u95ee\u9898\u7684\u5efa\u8bae",
-        "zh-tw": "\u5efa\u8b70\u89e3\u6c7a\u9019\u500b\u554f\u984c\uff1a"
+        "zh-tw": "\u95dc\u65bc\u89e3\u6c7a\u9019\u500b\u554f\u984c\u7684\u5efa\u8b70\uff1a"
     },
     "suggestion_goback": {
         "ar": "\u0627\u0631\u062c\u0639 \u0644\u0644\u0635\u0641\u062d\u0629 \u0627\u0644\u0633\u0627\u0628\u0642\u0629 \u0648 \u062d\u0627\u0648\u0644 \u0645\u0631\u0629 \u0627\u062e\u0631\u064a",
         "cs": "J\u00edt zp\u011bt na p\u0159edchoz\u00ed str\u00e1nku a zkusit znovu.",
         "da": "G\u00e5 tilbage til forrige side og pr\u00f8v igen.",
         "de": "Kehre zur letzen Seite zur\u00fcck und versuche es erneut.",
+        "el": "\u0395\u03c0\u03b9\u03c3\u03c4\u03c1\u03ad\u03c8\u03c4\u03b5 \u03c3\u03c4\u03b7\u03bd \u03c0\u03c1\u03bf\u03b7\u03b3\u03bf\u03cd\u03bc\u03b5\u03bd\u03b7 \u03c3\u03b5\u03bb\u03af\u03b4\u03b1 \u03ba\u03b1\u03b9 \u03c0\u03c1\u03bf\u03c3\u03c0\u03b1\u03b8\u03ae\u03c3\u03c4\u03b5 \u03be\u03b1\u03bd\u03ac.",
         "es": "Volver a la p\u00e1gina anterior e intentar de nuevo.",
         "et": "Mine tagasi eelmisele lehek\u00fcljele ja proovi uuesti.",
         "eu": "Itzul zaitez aurreko orrira eta saiatu berriro",
@@ -116,6 +120,7 @@
         "cs": "Zav\u0159\u00edt webov\u00fd prohl\u00ed\u017ee\u010d a zkusit znovu.",
         "da": "Luk din browser og pr\u00f8v igen.",
         "de": "Schlie\u00dfe den Web-Browser und versuche es erneut.",
+        "el": "\u039a\u03bb\u03b5\u03af\u03c3\u03c4\u03b5 \u03c4\u03bf \u03c0\u03c1\u03cc\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1 \u03c0\u03b5\u03c1\u03b9\u03ae\u03b3\u03b7\u03c3\u03b7\u03c2 \u03b9\u03c3\u03c4\u03bf\u03cd (web browser) \u03ba\u03b1\u03b9 \u03c0\u03c1\u03bf\u03c3\u03c0\u03b1\u03b8\u03ae\u03c3\u03c4\u03b5 \u03be\u03b1\u03bd\u03ac",
         "es": "Cierra el navegador e int\u00e9ntalo de nuevo.",
         "et": "Sulge brauser ja proovi uuesti.",
         "eu": "Nabigatzailea itxi eta saiatu berriro",
@@ -144,6 +149,7 @@
         "cs": "Tato chyba m\u016f\u017ee b\u00fdt zp\u016fsoben\u00e1:",
         "da": "Fejlen kan v\u00e6re for\u00e5rsaget af:",
         "de": "Dieser Fehler k\u00f6nnte durch folgendes verursacht werden:",
+        "el": "\u0391\u03c5\u03c4\u03cc \u03c4\u03bf \u03c3\u03c6\u03ac\u03bb\u03bc\u03b1 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03c0\u03c1\u03bf\u03ba\u03cd\u03c8\u03b5\u03b9, \u03b5\u03ac\u03bd:",
         "es": "Este error podr\u00eda causarse por:",
         "et": "See t\u00f5rge v\u00f5ib olla p\u00f5hjustatud:",
         "eu": "Errore hau honek eragin dezake:",
@@ -172,6 +178,7 @@
         "cs": "Pou\u017eit\u00edm tla\u010d\u00edtek zp\u011bt a vp\u0159ed ve webv\u00e9m prohl\u00ed\u017ee\u010di.",
         "da": "Brug frem- og tilbage-knappen i browseren.",
         "de": "Das Benutzen der Zur\u00fcck- und Vorw\u00e4rts-Schaltfl\u00e4chen im Web-Browser.",
+        "el": "\u039c\u03b5\u03c4\u03b1\u03b2\u03ae\u03ba\u03b1\u03c4\u03b5 \u03c0\u03af\u03c3\u03c9 \u03ba\u03b1\u03b9 \u03b5\u03bc\u03c0\u03c1\u03cc\u03c2 \u03c3\u03c4\u03bf \u03b9\u03c3\u03c4\u03bf\u03c1\u03b9\u03ba\u03cc \u03c4\u03bf\u03c5 \u03c0\u03c1\u03bf\u03b3\u03c1\u03ac\u03bc\u03bc\u03b1\u03c4\u03bf\u03c2 \u03c0\u03b5\u03c1\u03b9\u03ae\u03b3\u03b7\u03c3\u03b7\u03c2 \u03b9\u03c3\u03c4\u03bf\u03cd.",
         "es": "Usando los botones retroceder y avanzar en el navegador.",
         "et": "brauseri edasi-tagasi nuppude kasutamisest",
         "eu": "Zure web nabigatzaileko atzera eta aurrera botoiak erabiltzen.",
@@ -193,13 +200,14 @@
         "sr": "Kori\u0161\u0107enjem tastera za prethodnu (back) i slede\u0107u (forward) stranicu u web pretra\u017eiva\u010du.",
         "sv": "Anv\u00e4ndning av fram\u00e5t- och bak\u00e5tknappar i webbl\u00e4saren.",
         "zh": "\u4f7f\u7528\u6d4f\u89c8\u5668\u4e2d\u7684\u524d\u8fdb\u540e\u9000\u6309\u94ae",
-        "zh-tw": "\u65bc\u7db2\u9801\u700f\u89bd\u5668\u4f7f\u7528\u4e0a\u4e00\u9801\u53ca\u4e0b\u4e00\u9801\u3002"
+        "zh-tw": "\u8acb\u4f7f\u7528\u7db2\u9801\u700f\u89bd\u5668\u4e2d\u7684\u4e0a\u4e00\u9801\u53ca\u4e0b\u4e00\u9801\u3002"
     },
     "cause_openbrowser": {
         "ar": "\u0641\u062a\u062d \u0645\u062a\u0635\u0641\u062d\u0643 \u0645\u0633\u062a\u062e\u062f\u0645\u0627 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0645\u062d\u0641\u0648\u0638\u0629 \u0645\u0646 \u0627\u0644\u0645\u0631\u0629 \u0627\u0644\u0633\u0627\u0628\u0642\u0629",
         "cs": "Otev\u0159en\u00edm webov\u00e9ho prohl\u00ed\u017ee\u010de se z\u00e1lo\u017ekami z p\u0159edchoz\u00edho sezen\u00ed.",
         "da": "\u00c5ben browseren med faner fra sidste session.",
         "de": "Das \u00d6ffnen des Web-Browser mit gespeicherten Tabs aus der letzten Sitzung.",
+        "el": "\u0391\u03bd\u03bf\u03af\u03be\u03b1\u03c4\u03b5 \u03c4\u03bf \u03c0\u03c1\u03cc\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1 \u03c0\u03b5\u03c1\u03b9\u03ae\u03b3\u03b7\u03c3\u03b7\u03c2 \u03b9\u03c3\u03c4\u03bf\u03cd \u03ba\u03b1\u03b9 \u03b5\u03c0\u03b1\u03bd\u03b1\u03c6\u03ad\u03c1\u03b1\u03c4\u03b5 \u03ba\u03b1\u03c1\u03c4\u03ad\u03bb\u03b5\u03c2 \u03c0\u03c1\u03bf\u03b7\u03b3\u03bf\u03cd\u03bc\u03b5\u03bd\u03b7\u03c2 \u03c3\u03c5\u03bd\u03b5\u03b4\u03c1\u03af\u03b1\u03c2.",
         "es": "Se abri\u00f3 el navegador con pesta\u00f1as guardadas de la sesi\u00f3n anterior.",
         "et": "brauseri avamisest eelmisel kasutuskorral salvestatud kaartidega",
         "eu": "Zure web nabigatzailea aurreko saiotik gordeta zeuden fitxekin ireki duzu.",
@@ -228,6 +236,7 @@
         "cs": "Ve webov\u00e9m prohl\u00ed\u017ee\u010di mohou b\u00fdt zak\u00e1z\u00e1ny cookies.",
         "da": "Cookies kan v\u00e6re deaktiveret i browseren.",
         "de": "Cookies k\u00f6nnten im Web-Browser deaktiviert sein.",
+        "el": "\u0397 \u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 cookie \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03c0\u03b5\u03bd\u03b5\u03c1\u03b3\u03bf\u03c0\u03bf\u03b9\u03b7\u03bc\u03ad\u03bd\u03b7 \u03c3\u03c4\u03bf \u03c0\u03c1\u03cc\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1 \u03c0\u03b5\u03c1\u03b9\u03ae\u03b3\u03b7\u03c3\u03b7\u03c2 \u03b9\u03c3\u03c4\u03bf\u03cd.",
         "es": "Las cookies podr\u00edan estar desactivadas en el navegador.",
         "et": "k\u00fcpsiste keelamisest brauseris",
         "eu": "Cookie-ak desgaituta egon litezke nabigatzailean.",
@@ -249,13 +258,14 @@
         "sr": "Mogu\u0107e da je podr\u0161ka za kola\u010di\u0107e (\"cookies\") isklju\u010dena u web pretra\u017eiva\u010du.",
         "sv": "Webbkakor (Cookies) \u00e4r avst\u00e4ngt i webbl\u00e4saren.",
         "zh": "\u8be5\u6d4f\u89c8\u5668\u4e0a\u7684cookie\u53ef\u80fd\u906d\u7981\u6b62",
-        "zh-tw": "\u7db2\u9801\u700f\u89bd\u5668\u7684 Cookies \u53ef\u80fd\u88ab\u95dc\u9589\u3002"
+        "zh-tw": "\u7db2\u9801\u700f\u89bd\u5668\u7684 Cookies \u529f\u80fd\u53ef\u80fd\u88ab\u505c\u7528\u3002"
     },
     "report_header": {
         "ar": "\u0628\u0644\u063a \u0639\u0646 \u0647\u0630\u0627 \u0627\u0644\u062e\u0637\u0623 ",
         "cs": "Nahl\u00e1sit tuto chybu",
         "da": "Rapporter denne fejl",
         "de": "Diesen Fehler melden",
+        "el": "\u0391\u03bd\u03b1\u03c6\u03bf\u03c1\u03ac \u03c3\u03c6\u03ac\u03bb\u03bc\u03b1\u03c4\u03bf\u03c2",
         "es": "Informar sobre este error",
         "et": "Teavita sellest t\u00f5rkest",
         "eu": "Errore honen berri eman",
@@ -284,6 +294,7 @@
         "cs": "Pokud probl\u00e9m p\u0159etrv\u00e1v\u00e1, m\u016f\u017eete ho nahl\u00e1sit spr\u00e1vci.",
         "da": "Hvis dette problem forts\u00e6tter, kan du rapportere det til systemadministratoren.",
         "de": "Wenn das Problem weiter besteht, kannst du diesen Fehler den Systemadministratoren melden.",
+        "el": "\u0391\u03bd \u03c4\u03bf \u03c0\u03c1\u03cc\u03b2\u03bb\u03b7\u03bc\u03b1 \u03b5\u03be\u03b1\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03b5\u03af \u03bd\u03b1 \u03c5\u03c6\u03af\u03c3\u03c4\u03b1\u03c4\u03b1\u03b9, \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03c4\u03bf \u03b1\u03bd\u03b1\u03c6\u03ad\u03c1\u03b5\u03c4\u03b5 \u03c3\u03c4\u03bf\u03c5\u03c2 \u03b4\u03b9\u03b1\u03c7\u03b5\u03b9\u03c1\u03b9\u03c3\u03c4\u03ad\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03c5\u03c3\u03c4\u03ae\u03bc\u03b1\u03c4\u03bf\u03c2.",
         "es": "Si el problema persiste, puedes reportarlo a los administradores del sistema.",
         "et": "Kui probleem ei kao, siis teavita sellest s\u00fcsteemi administraatoreid.",
         "eu": "Arazoak bere horretan badirau, sistemaren administratzaileei berri eman diezaiekezu.",
@@ -305,6 +316,6 @@
         "sr": "Ako se ova gre\u0161ka bude i dalje pojavljivala, mo\u017eete je prijaviti administratorima.",
         "sv": "Om problemet kvarst\u00e5r kan du rapportera det till systemadministrat\u00f6rerna.",
         "zh": "\u5982\u679c\u8fd9\u4e2a\u9519\u8bef\u518d\u6b21\u51fa\u73b0\uff0c\u4f60\u53ef\u4ee5\u5411\u4f60\u7684\u7cfb\u7edf\u7ba1\u7406\u5458\u62a5\u544a",
-        "zh-tw": "\u5982\u679c\u9019\u500b\u932f\u8aa4\u6301\u7e8c\u5b58\u5728\uff0c\u60a8\u53ef\u4ee5\u5c07\u5b83\u56de\u5831\u7cfb\u7d71\u7ba1\u7406\u8005\u3002"
+        "zh-tw": "\u5982\u679c\u9019\u500b\u932f\u8aa4\u6301\u7e8c\u5b58\u5728\uff0c\u8acb\u56de\u5831\u7d66\u7cfb\u7d71\u7ba1\u7406\u8005\u3002"
     }
 }

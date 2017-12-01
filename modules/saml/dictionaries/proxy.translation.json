@@ -1,0 +1,10 @@
+{
+    "invalid_idp": {
+        "es": "Identificador de proveedor no v\u00e1lido",
+        "zh-tw": "\u7121\u6548\u7684\u9a57\u8b49\u63d0\u4f9b\u8005"
+    },
+    "invalid_idp_description": {
+        "es": "Ya tienes una sesi\u00f3n v\u00e1lida con un proveedor de identificaci\u00f3n (<em>%IDP%<\/em>) que no acepta <em>%SP%<\/em>. \u00bfTe gustar\u00eda cerrar tu sesi\u00f3n existente e iniciar sesi\u00f3n de nuevo con otro proveedor de identificaci\u00f3n?",
+        "zh-tw": "\u60a8\u5df2\u7d93\u64c1\u6709\u4e00\u500b\u9a57\u8b49\u63d0\u4f9b\u8005 (<em>%IDP%<\/em>) \u7684\u6709\u6548\u7684\u9023\u7dda\uff0c\u4f46\u8a72\u9023\u7dda\u7121\u6cd5\u88ab <em>%SP%<\/em> \u6240\u63a5\u53d7\u3002\u60a8\u662f\u5426\u60f3\u8981\u767b\u51fa\u65e2\u6709\u7684\u9023\u7dda\u4e26\u91cd\u65b0\u7531\u5176\u4ed6\u9a57\u8b49\u63d0\u4f9b\u8005\u9032\u884c\u767b\u5165\uff1f"
+    }
+}

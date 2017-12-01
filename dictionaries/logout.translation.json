@@ -5,6 +5,7 @@
         "cs": "Odhl\u00e1\u0161en",
         "da": "Du er logget ud",
         "de": "Abgemeldet",
+        "el": "\u0391\u03c0\u03bf\u03c3\u03c5\u03bd\u03b4\u03b5\u03b4\u03b5\u03bc\u03ad\u03bd\u03bf\u03c2\/\u03b7",
         "es": "Sesi\u00f3n cerrada",
         "et": "Logis v\u00e4lja",
         "eu": "Saioa itxita.",
@@ -31,7 +32,7 @@
         "sv": "Utloggad",
         "tr": "\u00c7\u0131kt\u0131n\u0131z",
         "zh": "\u9000\u51fa",
-        "zh-tw": "\u6a19\u984c"
+        "zh-tw": "\u767b\u51fa"
     },
     "logged_out_text": {
         "af": "Jy is afgemeld.",
@@ -39,6 +40,7 @@
         "cs": "Jste odhl\u00e1\u0161en. D\u011bkujeme za pou\u017eit\u00ed t\u00e9to slu\u017eby.",
         "da": "Du er blevet logget ud. Tak for fordi du brugte denne tjeneste.",
         "de": "Sie wurden abgemeldet. Danke, dass Sie diesen Dienst verwendet haben.",
+        "el": "\u0388\u03c7\u03b5\u03c4\u03b5 \u03b1\u03c0\u03bf\u03c3\u03c5\u03bd\u03b4\u03b5\u03b8\u03b5\u03af.",
         "es": "Has cerrado la sesi\u00f3n.",
         "et": "Sa oled v\u00e4lja logitud.",
         "eu": "Saioa itxi da.",
@@ -65,7 +67,7 @@
         "sv": "Du har blivit uloggad. Tack f\u00f6r att du anv\u00e4nde denna tj\u00e4nst.",
         "tr": "\u00c7\u0131kt\u0131n\u0131z",
         "zh": "\u4f60\u5df2\u7ecf\u9000\u51fa\u4e86",
-        "zh-tw": "\u60a8\u5df2\u767b\u51fa"
+        "zh-tw": "\u60a8\u5df2\u767b\u51fa\u3002"
     },
     "default_link_text": {
         "af": "Gaan terug na die SimpleSAMLphp installasie bladsy",
@@ -73,6 +75,7 @@
         "cs": "Zp\u00e1tky na SimpleSAMLphp instala\u010dn\u00ed str\u00e1nku",
         "da": "Tilbage til SimpleSAMLphp installationssiden",
         "de": "Zur\u00fcck zur SimpleSAMLphp Installationsseite",
+        "el": "\u0395\u03c0\u03b9\u03c3\u03c4\u03c1\u03bf\u03c6\u03ae \u03c3\u03c4\u03b7\u03bd \u03b1\u03c1\u03c7\u03b9\u03ba\u03ae \u03c3\u03b5\u03bb\u03af\u03b4\u03b1",
         "es": "Volver a la p\u00e1gina de instalaci\u00f3n de SimpleSAMLphp",
         "et": "Mine tagasi SimpleSAMLphp paigalduslehek\u00fcljele",
         "eu": "Itzuli SimpleSAMLphp instalazio orrira ",
@@ -107,6 +110,7 @@
         "cs": "\u010cek\u00e1m",
         "da": "I k\u00f8",
         "de": "In der Wartschleife",
+        "el": "\u03a3\u03b5 \u03b1\u03bd\u03b1\u03bc\u03bf\u03bd\u03ae",
         "es": "En espera",
         "et": "Ootel",
         "eu": "Itxaroten",
@@ -133,7 +137,7 @@
         "sv": "Vilande",
         "tr": "Beklemede",
         "zh": "\u4fdd\u6301",
-        "zh-tw": "\u66ab\u505c"
+        "zh-tw": "\u4fdd\u7559"
     },
     "completed": {
         "af": "Voltooid",
@@ -141,6 +145,7 @@
         "cs": "Dokon\u010deno",
         "da": "F\u00e6rdig",
         "de": "abgeschlossen",
+        "el": "\u039f\u03bb\u03bf\u03ba\u03bb\u03b7\u03c1\u03ce\u03b8\u03b7\u03ba\u03b5",
         "es": "Completo",
         "et": "L\u00f5petatud",
         "eu": "Amaitua",
@@ -167,7 +172,7 @@
         "sv": "Klar",
         "tr": "Tamamland\u0131",
         "zh": "\u5b8c\u6210",
-        "zh-tw": "\u5df2\u5b8c\u6210"
+        "zh-tw": "\u5b8c\u6210"
     },
     "progress": {
         "af": "Besig om af te meld?",
@@ -175,6 +180,7 @@
         "cs": "Odhla\u0161uji...",
         "da": "Logger ud...",
         "de": "Abmeldung l\u00e4uft...",
+        "el": "\u0393\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b1\u03c0\u03bf\u03c3\u03cd\u03bd\u03b4\u03b5\u03c3\u03b7...",
         "es": "Cerrando sesi\u00f3n...",
         "et": "V\u00e4lja logimine...",
         "eu": "Saioa ixten...",
@@ -209,6 +215,7 @@
         "cs": "Odhla\u0161en\u00ed selhalo",
         "da": "Logout fejlede",
         "de": "Abmeldung fehlgeschlagen",
+        "el": "\u0397 \u03b1\u03c0\u03bf\u03c3\u03cd\u03bd\u03b4\u03b5\u03c3\u03b7 \u03b1\u03c0\u03ad\u03c4\u03c5\u03c7\u03b5",
         "es": "Fall\u00f3 el cierre de sesi\u00f3n",
         "et": "V\u00e4lja logimine eba\u00f5nnestus",
         "eu": "Saioa ixteko prozesuak huts egin du",
@@ -243,6 +250,7 @@
         "cs": "Zp\u00e1tky na slu\u017ebu",
         "da": "Tilbage til service",
         "de": "Zum Dienst zur\u00fcckkehren",
+        "el": "\u0395\u03c0\u03b9\u03c3\u03c4\u03c1\u03bf\u03c6\u03ae \u03c3\u03c4\u03b7\u03bd \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b1",
         "es": "Volver al servicio",
         "et": "Tagasi teenuse juurde",
         "eu": "Itzuli zerbitzura",
@@ -277,6 +285,7 @@
         "cs": "\u00dasp\u011b\u0161n\u011b jste se odhl\u00e1sili z n\u00e1sleduj\u00edc\u00edch slu\u017eeb.",
         "da": "Du har logget ud fra alle overn\u00e6vnte services. ",
         "de": "Sie haben sich erfolgreich von allen obenstehenden Diensten abgemeldet.",
+        "el": "\u0388\u03c7\u03b5\u03c4\u03b5 \u03b1\u03c0\u03bf\u03c3\u03c5\u03bd\u03b4\u03b5\u03b8\u03b5\u03af \u03bc\u03b5 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b1 \u03b1\u03c0\u03cc \u03cc\u03bb\u03b5\u03c2 \u03c4\u03b9\u03c2 \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b5\u03c2 \u03c0\u03bf\u03c5 \u03b1\u03bd\u03b1\u03c6\u03ad\u03c1\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c0\u03b1\u03c1\u03b1\u03c0\u03ac\u03bd\u03c9.",
         "es": "Cerraste sesi\u00f3n exitosamente de todos los servicios que aparecen listados m\u00e1s arriba.",
         "et": "Sa oled k\u00f5igist \u00fclal loetletud teenustest edukalt v\u00e4lja logitud.",
         "eu": "Hemen adierazten den zerrendako zerbitzu guztietako saioak zuzen itxi dira",
@@ -311,6 +320,7 @@
         "cs": "Zah\u00e1jil jste <strong>glob\u00e1ln\u00ed odhl\u00e1\u0161en\u00ed<\/strong> z slu\u017eby <strong>%REQUESTERNAME%<\/strong>. Glob\u00e1ln\u00ed odhl\u00e1\u0161en\u00ed znamen\u00e1, \u017ee budete odhl\u00e1\u0161en z v\u0161ech n\u00e1sleduj\u00edc\u00ed slu\u017eeb.",
         "da": "Du er nu logget ud fra %SP%.",
         "de": "Sie wurden nun erfolgreich von %SP% abgemeldet",
+        "el": "\u0388\u03c7\u03b5\u03c4\u03b5 \u03b1\u03c0\u03bf\u03c3\u03c5\u03bd\u03b4\u03b5\u03b8\u03b5\u03af \u03bc\u03b5 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b1 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b1 %SP%.",
         "es": "Has cerrado la sesi\u00f3n exitosamente en %SP%.",
         "et": "Sa oled n\u00fc\u00fcd edukalt v\u00e4lja logitud teenusest %SP%.",
         "eu": "%SP% saioa zuzen itxi da.",
@@ -345,6 +355,7 @@
         "cs": "Jste je\u0161te p\u0159ihl\u00e1\u0161en na tyto slu\u017eby:",
         "da": "Du er ogs\u00e5 logget ud fra disse services:",
         "de": "Sie sind auch auf diesen Diensten angemeldet:",
+        "el": "\u0395\u03af\u03c3\u03c4\u03b5 \u03b5\u03c0\u03af\u03c3\u03b7\u03c2 \u03c3\u03c5\u03bd\u03b4\u03b5\u03b4\u03b5\u03bc\u03ad\u03bd\u03bf\u03c2 \u03c3\u03b5 \u03b1\u03c5\u03c4\u03ad\u03c2 \u03c4\u03b9\u03c2 \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b5\u03c2:",
         "es": "Tambi\u00e9n iniciaste sesi\u00f3n en estos servicios:",
         "et": "Sa oled sisse logitud ja nendesse teenustesse:",
         "eu": "Zerbitzu hauetan ere kautotuta zaude:",
@@ -371,7 +382,7 @@
         "sv": "Du \u00e4r \u00e4ven inloggad i f\u00f6ljande tj\u00e4nster:",
         "tr": "Ayr\u0131ca \u015fu servislere giri\u015f yapt\u0131n\u0131z:",
         "zh": "\u4f60\u540c\u65f6\u767b\u5f55\u8fd9\u4ee5\u4e0b\u8fd9\u4e9b\u670d\u52a1",
-        "zh-tw": "\u60a8\u9084\u6301\u7e8c\u767b\u5165\u4e0b\u5217\u670d\u52d9\uff1a"
+        "zh-tw": "\u60a8\u540c\u6642\u4e5f\u767b\u5165\u4e86\u9019\u4e9b\u670d\u52d9\uff1a"
     },
     "logout_all_question": {
         "af": "Wil jy van alle bogenoemde dienste afmeld?",
@@ -379,6 +390,7 @@
         "cs": "Chcete se odhl\u00e1sit ze v\u0161ech t\u011bchto slu\u017eeb?",
         "da": "Vil du logge ud fra alle ovenst\u00e5ende services?",
         "de": "Wollen Sie sich von allen obenstehenden Diensten abmelden?",
+        "el": "\u0395\u03c0\u03b9\u03b8\u03c5\u03bc\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03b1\u03c0\u03bf\u03c3\u03c5\u03bd\u03b4\u03b5\u03b8\u03b5\u03af\u03c4\u03b5 \u03b1\u03c0\u03cc \u03cc\u03bb\u03b5\u03c2 \u03c4\u03b9\u03c2 \u03c0\u03b1\u03c1\u03b1\u03c0\u03ac\u03bd\u03c9 \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b5\u03c2;",
         "es": "\u00bfQuieres cerrar la sesi\u00f3n en todos los servicios indicados arriba?",
         "et": "Kas sa soovid k\u00f5igist \u00fclal loetletud teenustest v\u00e4lja logida?",
         "eu": "Goian agertzen diren zerbitzu guztietako saioak itxi nahi al dituzu?",
@@ -405,7 +417,7 @@
         "sv": "Vill du logga ut fr\u00e5n alla ovanst\u00e5ende tj\u00e4nster?",
         "tr": "Yukar\u0131daki t\u00fcm servislerden \u00e7\u0131kmak istiyor musunuz?",
         "zh": "\u4f60\u60f3\u540c\u65f6\u4ece\u4e0a\u9762\u7684\u8fd9\u4e9b\u670d\u52a1\u4e2d\u9000\u51fa\u5417\uff1f",
-        "zh-tw": "\u662f\u5426\u767b\u51fa\u6240\u6709\u670d\u52d9\uff1f"
+        "zh-tw": "\u662f\u5426\u767b\u51fa\u4e0a\u8ff0\u6240\u6709\u670d\u52d9\uff1f"
     },
     "logout_all": {
         "af": "Ja, alle dienste",
@@ -413,6 +425,7 @@
         "cs": "Ano, v\u0161echny slu\u017eby",
         "da": "Ja, alle services",
         "de": "Ja, alle Dienste",
+        "el": "\u039d\u03b1\u03b9, \u03cc\u03bb\u03b5\u03c2 \u03c4\u03b9\u03c2 \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b5\u03c2",
         "es": "S\u00ed, todos los servicios",
         "et": "Jah, k\u00f5igist teenustest",
         "eu": "Bai, zerbitzu guztiak",
@@ -439,7 +452,7 @@
         "sv": "Ja, alla tj\u00e4nster",
         "tr": "Evet, t\u00fcm servisler.",
         "zh": "\u662f\u7684\uff0c\u6240\u6709\u7684\u670d\u52a1",
-        "zh-tw": "Yea\uff0c\u767b\u51fa\u6240\u6709\u670d\u52d9"
+        "zh-tw": "\u662f\uff0c\u767b\u51fa\u6240\u6709\u670d\u52d9"
     },
     "logout_only": {
         "af": "Nee, net %SP%",
@@ -447,6 +460,7 @@
         "cs": "Ne, jen %SP%",
         "da": "Nej, kun %SP%",
         "de": "Nein, nur %SP%",
+        "el": "\u038c\u03c7\u03b9, \u03bc\u03cc\u03bd\u03bf \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b1 %SP%",
         "es": "No, solo %SP%",
         "et": "Ei, ainult %SP%",
         "eu": "Ez, %SPS bakarrik",
@@ -473,7 +487,7 @@
         "sv": "Nej, endast %SP%",
         "tr": "Hay\u0131r, sadece %SP%",
         "zh": "\u4e0d\uff0c\u4ec5%SP%",
-        "zh-tw": "\u4e0d\uff0c\u53ea\u6709 %SP%"
+        "zh-tw": "\u5426\uff0c\u53ea\u767b\u51fa %SP%"
     },
     "incapablesps": {
         "af": "Een of meerdere dienste waarby jy aangemeld het, <i>ondersteun nie afmelding nie<\/i>. Om seker te wees datal jou sessies afgesluit word, is dit beter om jou <i>webblaaier toe te maak<\/i>.",
@@ -481,6 +495,7 @@
         "cs": "Jedna, nebo v\u00edce slu\u017eeb, do kter\u00fdch jste p\u0159ihla\u0161en, nepodporuje odhla\u0161en\u00ed. Pokud se chcete odhl\u00e1sit, mus\u00edte ukon\u010dit v\u00e1\u0161 webov\u00fd prohl\u00ed\u017ee\u010d.",
         "da": "En eller flere services som du er logget ind hos <i>underst\u00f8tter ikke log ou<\/i>. For at sikre at alle dine forbindelser er lukket, bedes du <i>lukke din browser<\/i>.",
         "de": "Einer oder mehrere Dienste an denen Sie angemeldet sind, <i>unterst\u00fctzen keine Abmeldung<\/i>. Um sicherzustellen, dass Sie abgemeldet sind, <i>schlie\u00dfen Sie bitte Ihren Webbrowser<\/i>.",
+        "el": "\u039c\u03af\u03b1 \u03ae \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b5\u03c2 \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b5\u03c2 \u03bc\u03b5 \u03c4\u03b9\u03c2 \u03bf\u03c0\u03bf\u03af\u03b5\u03c2 \u03b5\u03af\u03c3\u03c4\u03b5 \u03c3\u03c5\u03bd\u03b4\u03b5\u03b4\u03b5\u03bc\u03ad\u03bd\u03bf\u03c2\/\u03b7 \u03b4\u03b5\u03bd \u03c5\u03c0\u03bf\u03c3\u03c4\u03b7\u03c1\u03af\u03b6\u03bf\u03c5\u03bd \u03b1\u03c0\u03bf\u03c3\u03cd\u03bd\u03b4\u03b5\u03c3\u03b7. \u0393\u03b9\u03b1 \u03c4\u03bf \u03ba\u03bb\u03b5\u03af\u03c3\u03b9\u03bc\u03bf \u03cc\u03bb\u03c9\u03bd \u03c4\u03c9\u03bd \u03c3\u03c5\u03bd\u03b5\u03b4\u03c1\u03b9\u03ce\u03bd \u03c3\u03b1\u03c2 (sessions), \u03c3\u03b1\u03c2 \u03c3\u03c5\u03bd\u03b9\u03c3\u03c4\u03bf\u03cd\u03bc\u03b5 \u03bd\u03b1 <i>\u03ba\u03bb\u03b5\u03af\u03c3\u03b5\u03c4\u03b5<\/i> \u03c4\u03bf \u03c0\u03c1\u03cc\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1 \u03c0\u03bb\u03bf\u03ae\u03b3\u03b7\u03c3\u03b7\u03c2 (web browser).",
         "es": "Uno o m\u00e1s servicios en los que iniciaste sesi\u00f3n, <i>no tienen soporte de cierre de sesi\u00f3n<\/i>. Para asegurarte de que todas tus sesiones est\u00e9n cerradas, te pedimos encarecidamente <i>cerrar el navegador<\/i>.",
         "et": "\u00dcks v\u00f5i mitu teenust, millesse oled sisselogitud <i>ei toeta v\u00e4lja logimise<\/i>. Selleks, et olla kindel k\u00f5igi sessioonide l\u00f5petamises soovitame <i>sulgeda k\u00f5ik brauseri aknad<\/i>.",
         "eu": "Kautotuta zauden zerbitzu bat edo batzuk <i>ez dute uzten saioa ixten<\/i>. Zure saio guztiak ixten direla ziurtatzeko, <i>zure nabigatzaileko leiho guztiak ixtea<\/i> gomendatzen da.",
@@ -507,7 +522,7 @@
         "sv": "En eller flera av tj\u00e4nsterna du \u00e4r inloggad i <i>kan inte hantera utloggning<\/i>. F\u00f6r att s\u00e4kerst\u00e4lla att du inte l\u00e4ngre \u00e4r inloggad i n\u00e5gon tj\u00e4nst ska du <i>st\u00e4nga din webbl\u00e4sare<\/i>.",
         "tr": "Giri\u015f yapt\u0131\u011f\u0131n\u0131z bir yada daha fazla servis <i>\u00e7\u0131k\u0131\u015f\u0131 desteklemiyor<\/i>. T\u00fcm oturumlar\u0131n\u0131z\u0131n kapat\u0131ld\u0131\u011f\u0131ndan emin olmak i\u00e7in, <i>taray\u0131c\u0131n\u0131z\u0131 kapatman\u0131z<\/i> \u00f6nerilir.",
         "zh": "\u4e00\u4e2a\u6216\u591a\u4e2a\u4f60\u5df2\u767b\u5f55\u7684\u670d\u52a1<i>\u4e0d\u652f\u6301\u9000\u51fa<\/i>\uff0c\u8bf7\u786e\u8ba4\u4f60\u6240\u6709sessions\u5df2\u5173\u95ed\uff0c\u6211\u4eec\u9f13\u52b1\u4f60 <i>\u5173\u95ed\u6d4f\u89c8\u5668<\/i>",
-        "zh-tw": "\u60a8\u767b\u5165\u7684\u670d\u52d9\u4e2d\u6709\u4e00\u500b\u6216\u4ee5\u4e0a <i>\u4e0d\u652f\u63f4\u767b\u51fa<\\\/i>\u3002\u8acb\u78ba\u8a8d\u60a8\u5df2\u95dc\u9589\u6240\u6709\u9023\u7dda\uff0c\u4e26<i>\u95dc\u9589\u700f\u89bd\u5668<\\\/i>\u3002"
+        "zh-tw": "\u60a8\u767b\u5165\u7684\u670d\u52d9\u4e2d\u6709\u4e00\u500b\u6216\u4ee5\u4e0a<i>\u4e0d\u652f\u63f4\u767b\u51fa<\/i>\u3002\u70ba\u78ba\u4fdd\u60a8\u7684\u6240\u6709\u9023\u7dda\u7686\u5df2\u95dc\u9589\uff0c\u5efa\u8b70\u60a8<i>\u95dc\u9589\u700f\u89bd\u5668<\/i>\u3002"
     },
     "no": {
         "af": "Nee",
@@ -515,6 +530,7 @@
         "cs": "Ne",
         "da": "Nej",
         "de": "Nein",
+        "el": "\u038c\u03c7\u03b9",
         "es": "No",
         "et": "Ei",
         "eu": "Ez",
@@ -541,7 +557,7 @@
         "sv": "Nej",
         "tr": "Hay\u0131r",
         "zh": "\u4e0d",
-        "zh-tw": "\u53d6\u6d88"
+        "zh-tw": "\u5426"
     },
     "logging_out_from": {
         "af": "Afmelding van die volgende dienste:",
@@ -549,6 +565,7 @@
         "cs": "Odhl\u00e1\u0161en\u00ed z n\u00e1sleduj\u00edc\u00edch slu\u017eeb:",
         "da": "Du logger ud af f\u00f8lgende services:",
         "de": "Melde Sie von den folgenden Diensten ab:",
+        "el": "\u0393\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b1\u03c0\u03bf\u03c3\u03cd\u03bd\u03b4\u03b5\u03c3\u03b7 \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03b1\u03ba\u03cc\u03bb\u03bf\u03c5\u03b8\u03b5\u03c2 \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b5\u03c2:",
         "es": "Cerrando la sesi\u00f3n de los siguientes servicios:",
         "et": "V\u00e4lja logimine j\u00e4rgmistest teenustest:",
         "eu": "Honako zerbitzu hauen saioak itxi:",
@@ -582,6 +599,7 @@
         "cs": "Odhl\u00e1\u0161en\u00ed z jedn\u00e9 nebo z v\u00edce slu\u017eeb se nezda\u0159ilo. Aby bylo zaji\u0161t\u011bno, \u017ee v\u0161echny va\u0161e relace budou uzav\u0159eny, doporu\u010dujeme <i>ukon\u010dit v\u00e1\u0161 webov\u00fd prohl\u00ed\u017ee\u010d<\/i>.",
         "da": "Kan ikke logge ud af en eller flere services. For at sikre at alle dine sessioner er lukket <i>skal du lukke din browser<\/i>.",
         "de": "Abmelden von einem oder mehreren Diensten schlug fehl. Um sicherzustellen, dass alle Ihre Sitzungen geschlossen sind, wird Ihnen empfohlen, <i>Ihren Webbrowser zu schlie\u00dfen<\/i>.",
+        "el": "\u0394\u03b5\u03bd \u03ae\u03c4\u03b1\u03bd \u03b4\u03c5\u03bd\u03b1\u03c4\u03ae \u03b7 \u03b1\u03c0\u03bf\u03c3\u03cd\u03bd\u03b4\u03b5\u03c3\u03b7 \u03b1\u03c0\u03cc \u03bc\u03af\u03b1 \u03ae \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b5\u03c2 \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b5\u03c2. \u0393\u03b9\u03b1 \u03c4\u03bf \u03ba\u03bb\u03b5\u03af\u03c3\u03b9\u03bc\u03bf \u03cc\u03bb\u03c9\u03bd \u03c4\u03c9\u03bd \u03c3\u03c5\u03bd\u03b5\u03b4\u03c1\u03b9\u03ce\u03bd \u03c3\u03b1\u03c2 (sessions), \u03c3\u03b1\u03c2 \u03c3\u03c5\u03bd\u03b9\u03c3\u03c4\u03bf\u03cd\u03bc\u03b5 \u03bd\u03b1 <i>\u03ba\u03bb\u03b5\u03af\u03c3\u03b5\u03c4\u03b5<\/i> \u03c4\u03bf \u03c0\u03c1\u03cc\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1 \u03c0\u03bb\u03bf\u03ae\u03b3\u03b7\u03c3\u03b7\u03c2 (web browser).",
         "es": "No se pudo cerrar sesi\u00f3n en uno o m\u00e1s servicios. Para asegurarse de que todas tus sesiones est\u00e9n cerradas, te pedimos encarecidamente <i>cerrar el navegador<\/i>. ",
         "et": "\u00dchest v\u00f5i mitmest teenusest v\u00e4lja logimine ei \u00f5nnestunud. Selleks, et olla kindel k\u00f5igi sessioonide l\u00f5petamises soovitame <i>sulgeda k\u00f5ik brauseri aknad<\/i>.",
         "eu": "Ezinezkoa da zerbitzu bat edo batzuen saioak ixtea. Zure saio guztiak itxi direla ziurtatzeko, <i>zure web nabigatzailea ixtea<\/i> gomendatzen da.  ",
@@ -606,6 +624,6 @@
         "sr": "Odjavljivanje iz jednog ili vi\u0161e servisa nije uspelo. Da biste bili sigurni da su sve va\u0161e sesija zavr\u0161ene, preporu\u010dujemo da <i>zatvorite web pretra\u017eiva\u010d<\/i>.",
         "sv": "Kan inte logga ut fr\u00e5n eller flera tj\u00e4nster. F\u00f6r att vara s\u00e4ker p\u00e5 att du fortfarande inte \u00e4r inloggad ska du <i>st\u00e4nga igen alla dina webbl\u00e4sarf\u00f6nster<\/i>.",
         "zh": "\u65e0\u6cd5\u4ece\u4e00\u4e2a\u6216\u8005\u591a\u4e2a\u670d\u52a1\u4e2d\u9000\u51fa\uff0c\u8bf7\u786e\u8ba4\u4f60\u6240\u6709sessions\u5df2\u5173\u95ed\uff0c\u6211\u4eec\u9f13\u52b1\u4f60 <i>\u5173\u95ed\u6d4f\u89c8\u5668<\/i>",
-        "zh-tw": "\u7121\u6cd5\u6b63\u5e38\u767b\u51fa\uff0c\u8acb\u78ba\u8a8d\u60a8\u5df2\u95dc\u9589\u6240\u6709\u9023\u7dda\uff0c<i>\u540c\u6642\u95dc\u9589\u6240\u6709\u700f\u89bd\u5668<\\\/i>\u3002"
+        "zh-tw": "\u7121\u6cd5\u6b63\u5e38\u767b\u51fa\uff0c\u70ba\u78ba\u4fdd\u60a8\u7684\u6240\u6709\u9023\u7dda\u7686\u5df2\u95dc\u9589\uff0c\u5efa\u8b70\u60a8<i>\u95dc\u9589\u700f\u89bd\u5668<\/i>\u3002"
     }
 }

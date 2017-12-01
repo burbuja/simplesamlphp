@@ -5,6 +5,7 @@
         "cs": "Zvol sv\u00e9ho poskytovatele identity (IdP)",
         "da": "V\u00e6lg institution (identitetsudbyder)",
         "de": "W\u00e4hlen Sie Ihren Identity Provider",
+        "el": "\u0395\u03c0\u03b9\u03bb\u03bf\u03b3\u03ae \u03bf\u03b9\u03ba\u03b5\u03af\u03bf\u03c5 \u03c6\u03bf\u03c1\u03ad\u03b1",
         "es": "Selecciona tu proveedor de identidad",
         "et": "Vali oma identiteedipakkuja",
         "eu": "Hauta ezazu zure identitate hornitzailea",
@@ -31,7 +32,7 @@
         "sv": "V\u00e4lj din identitetsleverant\u00f6r",
         "tr": "Kimlik sa\u011flay\u0131c\u0131n\u0131z\u0131 se\u00e7iniz.",
         "zh": "\u9009\u62e9\u4f60\u7684\u8eab\u4efd\u63d0\u4f9b\u8005",
-        "zh-tw": "\u9078\u64c7\u4f60\u7684\u8b58\u5225\u63d0\u4f9b\u8005(idp)"
+        "zh-tw": "\u9078\u64c7\u4f60\u7684\u8b58\u5225\u63d0\u4f9b\u8005 (IdP)"
     },
     "selectidp_full": {
         "af": "Kies asb. jou identiteits verskaffer waar jy wil verifieer:",
@@ -39,6 +40,7 @@
         "cs": "Pros\u00edm zvolte sve\u00e9ho poskytovatele identity, kter\u00fd v\u00e1m dovol\u00ed se p\u0159ihl\u00e1sit",
         "da": "V\u00e6lg institutionen (identitetsudbyderen) hvor du vil logge ind",
         "de": "Bitte w\u00e4hlen Sie den Identity Provider, bei dem Sie sich authentifizieren m\u00f6chten:",
+        "el": "\u0395\u03c0\u03b9\u03bb\u03ad\u03be\u03c4\u03b5 \u03bf\u03b9\u03ba\u03b5\u03af\u03bf \u03c6\u03bf\u03c1\u03ad\u03b1 \u03c0\u03bf\u03c5 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03c0\u03b9\u03c3\u03c4\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03b5\u03b9 \u03c4\u03b7\u03bd \u03c4\u03b1\u03c5\u03c4\u03cc\u03c4\u03b7\u03c4\u03ac \u03c3\u03b1\u03c2",
         "es": "Por favor selecciona el proveedor de identificaci\u00f3n donde quieres autenticar:",
         "et": "Palun vali identiteedipakkuja, mille juures soovid autentida:",
         "eu": "Mesedez, non kautotu nahi duzun identifikazio hornitzailea hauta ezazu ",
@@ -73,6 +75,7 @@
         "cs": "Zvol",
         "da": "V\u00e6lg",
         "de": "Auswahl",
+        "el": "\u0395\u03c0\u03b9\u03bb\u03bf\u03b3\u03ae",
         "es": "Selecciona",
         "et": "Vali",
         "eu": "Hautatu",
@@ -107,6 +110,7 @@
         "cs": "Zapamatuj moji volbu",
         "da": "Husk valget",
         "de": "Meine Auswahl merken",
+        "el": "\u039d\u03b1 \u03b8\u03c5\u03bc\u03ac\u03c3\u03b1\u03b9 \u03c4\u03b7\u03bd \u03b5\u03c0\u03b9\u03bb\u03bf\u03b3\u03ae \u03bc\u03bf\u03cd",
         "es": "Recordar mi opci\u00f3n",
         "et": "J\u00e4ta valik meelde",
         "eu": "Nire hautaketa gogoratu",
@@ -141,6 +145,7 @@
         "cs": "[Preferovan\u00e1 volba]",
         "da": "Foretrukket valg",
         "de": "[Bevorzugte Auswahl]",
+        "el": "[\u0391\u03c0\u03bf\u03b8\u03b7\u03ba\u03b5\u03c5\u03bc\u03ad\u03bd\u03b7 \u03c0\u03c1\u03bf\u03b5\u03c0\u03b9\u03bb\u03bf\u03b3\u03ae]",
         "es": "[Elecci\u00f3n preferida]",
         "et": "[Eelistatud valik]",
         "eu": "[Aukera gogokoena]",
@@ -167,7 +172,7 @@
         "sv": "Prioriterat val",
         "tr": "[Tercih edilen se\u00e7enek]",
         "zh": "\u9996\u9009\u9009\u9879",
-        "zh-tw": "\u559c\u597d\u9078\u64c7"
+        "zh-tw": "[\u559c\u597d\u9078\u9805]"
     },
     "previous_auth": {
         "af": "Jy het voorheen gekies om te verifieer deur:",
@@ -175,6 +180,7 @@
         "cs": "D\u0159\u00edve jste zvolil(a) ov\u011b\u0159en\u00ed u",
         "da": "Du har tidligere valgt at logge ind hos",
         "de": "Sie haben sich zu einem fr\u00fcheren Zeitpunkt entschieden, sich zu authentifizieren bei ",
+        "el": "\u0391\u03c0\u03bf\u03b8\u03b7\u03ba\u03b5\u03c5\u03bc\u03ad\u03bd\u03b7 \u03c0\u03c1\u03bf\u03b5\u03c0\u03b9\u03bb\u03bf\u03b3\u03ae \u03bf\u03b9\u03ba\u03b5\u03af\u03bf\u03c5 \u03c6\u03bf\u03c1\u03ad\u03b1:",
         "es": "Has elegido previamente autenticar en",
         "et": "Varem oled valinud autentida, kasutades",
         "eu": "Lehenago, hemen kautotzea hautatu duzu",
@@ -208,6 +214,7 @@
         "cs": "P\u0159ihl\u00e1\u0161en\u00ed k",
         "da": "Login hos",
         "de": "Login bei",
+        "el": "\u0395\u03af\u03c3\u03bf\u03b4\u03bf\u03c2 @",
         "es": "Iniciar sesi\u00f3n en",
         "et": "Logi sisse",
         "eu": "Non identifikatu",

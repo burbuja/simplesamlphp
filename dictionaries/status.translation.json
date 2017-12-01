@@ -4,6 +4,7 @@
         "cs": "SAML 2.0 SP Demo",
         "da": "SAML 2.0 tjenesteudbyder-demo",
         "de": "SAML 2.0 SP Demo Beispiel",
+        "el": "\u0394\u03bf\u03ba\u03b9\u03bc\u03b1\u03c3\u03c4\u03b9\u03ba\u03cc\u03c2 \u03a0\u03b1\u03c1\u03bf\u03c7\u03ad\u03b1\u03c2 \u03a5\u03c0\u03b7\u03c1\u03b5\u03c3\u03b9\u03ce\u03bd SAML 2.0",
         "es": "Ejemplo de demostraci\u00f3n de SAML 2.0 SP",
         "et": "SAML 2.0 SP demon\u00e4ide",
         "eu": "SAML 2.0 SP Adibidea",
@@ -30,13 +31,14 @@
         "sv": "SAML 2.0 SP demoexempel",
         "tr": "SAML 2.0 SP Demo \u00d6rne\u011fi",
         "zh": "SAML 2.0 SP\u6f14\u793a\u6848\u4f8b",
-        "zh-tw": "SAML 2.0 SP \u5c55\u793a\u7bc4\u4f8b"
+        "zh-tw": "SAML 2.0 SP Demo \u7bc4\u4f8b"
     },
     "header_shib": {
         "ar": "\u0627\u0633\u062a\u0639\u0631\u0627\u0636 Shibboleth",
         "cs": "Shibboleth demo",
         "da": "Shibboleth-demo",
         "de": "Shibboleth Demo",
+        "el": "\u0394\u03bf\u03ba\u03b9\u03bc\u03b1\u03c3\u03c4\u03b9\u03ba\u03cc\u03c2 \u03a0\u03b1\u03c1\u03bf\u03c7\u03ad\u03b1\u03c2 \u03a5\u03c0\u03b7\u03c1\u03b5\u03c3\u03b9\u03ce\u03bd Shibboleth",
         "es": "Demostraci\u00f3n de Shibboleth",
         "et": "Shibbolethi demo",
         "eu": "Shibboleth Adibidea",
@@ -63,13 +65,14 @@
         "sv": "Shibboleth demoexempel",
         "tr": "Shibboleth demo",
         "zh": "Shibboleth\u6f14\u793a",
-        "zh-tw": "\u8001\u8abf\u7684\u5c55\u793a"
+        "zh-tw": "Shibboleth Demo"
     },
     "header_wsfed": {
         "ar": "\u0627\u0633\u062a\u0639\u0631\u0627\u0636 \u0645\u062b\u0627\u0644 \u0644 WS-Fed",
         "cs": "WS-Fed SP Demo",
         "da": "WS-Federation tjenesteudbyder-demo",
         "de": "WS-Fed SP Demo Beispiel",
+        "el": "\u0394\u03bf\u03ba\u03b9\u03bc\u03b1\u03c3\u03c4\u03b9\u03ba\u03cc\u03c2 \u03a0\u03b1\u03c1\u03bf\u03c7\u03ad\u03b1\u03c2 \u03a5\u03c0\u03b7\u03c1\u03b5\u03c3\u03b9\u03ce\u03bd WS-Fed",
         "es": "Ejemplo de demostraci\u00f3n de WS-Fed SP",
         "et": "WS-Fed SP demon\u00e4ide",
         "eu": "WS-Fed SP Adibidea",
@@ -96,13 +99,14 @@
         "sv": "WS-Fed SP demoexempel",
         "tr": "WS-Fed SP Demo \u00d6rne\u011fi",
         "zh": "WS-Fed SP \u6f14\u793a\u6848\u4f8b",
-        "zh-tw": "WS-Fed SP \u5c55\u793a\u7bc4\u4f8b"
+        "zh-tw": "WS-Fed SP Demo \u7bc4\u4f8b"
     },
     "header_diagnostics": {
         "ar": "\u062a\u0634\u062e\u064a\u0635 SimpleSAMLphp",
         "cs": "SimpleSAMLphp diagnostika",
         "da": "SimpleSAMLphp diagnostik",
         "de": "SimpleSAMLphp Diagnose",
+        "el": "\u0394\u03b9\u03b1\u03b3\u03bd\u03c9\u03c3\u03c4\u03b9\u03ba\u03ac SimpleSAMLphp",
         "es": "Diagn\u00f3sticos de SimpleSAMLphp",
         "et": "SimpleSAMLphp diagnostika",
         "eu": "SimpleSAMLphp Diagnostikoa",
@@ -129,13 +133,14 @@
         "sv": "SimpleSAMLphp diagnostik ",
         "tr": "SimpleSAMLphp Kontroller",
         "zh": "SimpleSAMLphp \u8bca\u65ad",
-        "zh-tw": "SimpleSAMLphp \u8a3a\u65b7\u5de5\u5177"
+        "zh-tw": "SimpleSAMLphp \u8a3a\u65b7"
     },
     "some_error_occurred": {
         "ar": "\u0644\u0642\u062f \u062d\u062f\u062b \u062e\u0637\u0627 \u0645\u0627",
         "cs": "Nalezena chyba",
         "da": "En fejl opstod.",
         "de": "Es ist ein Fehler aufgetreten",
+        "el": "\u03a3\u03c5\u03bd\u03ad\u03b2\u03b7 \u03c3\u03c6\u03ac\u03bb\u03bc\u03b1",
         "es": "Ocurri\u00f3 alg\u00fan error",
         "et": "Ilmnes mingi t\u00f5rge",
         "eu": "Errore bat jazo da",
@@ -169,6 +174,7 @@
         "cs": "V\u00edtejte na informa\u010dn\u00ed str\u00e1nce. Zde uvid\u00edte, pokud vypr\u0161elo va\u0161e sezen\u00ed, jak dlouho jste pry\u010d a v\u0161echny atributy p\u0159ipojen\u00e9 k va\u0161emu sezen\u00ed.",
         "da": "Dette er statussiden for SimpleSAMLphp. Du kan se om din session er udl\u00f8bet, hvor lang tid der er til at den udl\u00f8ber, samt alle \u00f8vrige oplysninger om din session.",
         "de": "Hallo, das ist die Statusseite von SimpleSAMLphp. Hier k\u00f6nnen Sie sehen, ob Ihre Sitzung ausgelaufen ist, wie lange die Sitzung noch g\u00fcltig ist und alle Attribute Ihrer Sitzung.",
+        "el": "\u03a7\u03b1\u03af\u03c1\u03b5\u03c4\u03b5, \u03b1\u03c5\u03c4\u03ae \u03b5\u03af\u03bd\u03b1\u03b9 \u03b7 \u03c3\u03b5\u03bb\u03af\u03b4\u03b1 \u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7\u03c2 \u03c4\u03bf\u03c5 SimpleSAMLphp. \u0395\u03b4\u03ce \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03b4\u03b5\u03af\u03c4\u03b5 \u03b1\u03bd \u03b7 \u03c3\u03c5\u03bd\u03b5\u03b4\u03c1\u03af\u03b1 \u03c3\u03b1\u03c2 (session) \u03ad\u03c7\u03b5\u03b9 \u03bb\u03ae\u03be\u03b5\u03b9, \u03c4\u03bf \u03c7\u03c1\u03bf\u03bd\u03b9\u03ba\u03cc \u03b4\u03b9\u03ac\u03c3\u03c4\u03b7\u03bc\u03b1 \u03c0\u03bf\u03c5 \u03b4\u03b9\u03b1\u03c1\u03ba\u03b5\u03af \u03ad\u03c9\u03c2 \u03cc\u03c4\u03bf\u03c5 \u03bb\u03ae\u03be\u03b5\u03b9, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03ba\u03b1\u03b9 \u03cc\u03bb\u03b5\u03c2 \u03c4\u03b9\u03c2 \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2 \u03c0\u03bf\u03c5 \u03c3\u03c5\u03bd\u03b4\u03ad\u03bf\u03bd\u03c4\u03b1\u03b9 \u03bc\u03b5 \u03c4\u03b7 \u03c3\u03c5\u03bd\u03b5\u03b4\u03c1\u03af\u03b1 \u03c3\u03b1\u03c2.",
         "es": "Hola, esta es la p\u00e1gina del estado de SimpleSAMLphp. Aqu\u00ed puedes ver si expir\u00f3 el tiempo de tu sesi\u00f3n, cu\u00e1nto dura hasta que expira y todos los atributos a los que est\u00e1 unida.",
         "et": "Tere! See on SimpleSAMLphp olekuteave. Siit on v\u00f5imalik n\u00e4ha, kas su sessioon on aegunud, kui kaua see veel kestab ja k\u00f5iki teisi sessiooniga seotud atribuute.",
         "eu": "Kaixo, hau SimpleSAMLphp-ren egoera orria da. Hemendik ikus dezakezu zure saioa iraungi den, zenbat denbora geratzen den hau gerta dadin eta zure saioan dauden atributu guztiak.",
@@ -195,13 +201,14 @@
         "sv": "Detta \u00e4r stutussidan f\u00f6r SimpleSAMLphp. H\u00e4r kan du se om sessions giltig har g\u00e5tt ut, hur l\u00e4nge det dr\u00f6jer innan den g\u00e5r ut samt alla attribut som tillh\u00f6r sessionen.",
         "tr": "Merhaba, bu SimpleSAMLphp durum sayfas\u0131d\u0131r. Oturumunuzun s\u00fcresinin dolup dolmad\u0131\u011f\u0131n\u0131, oturumunuzun ne kadar s\u00fcrd\u00fc\u011f\u00fcn\u00fc ve oturumunuza ait t\u00fcm bilgileri buradan g\u00f6rebilirsiniz.",
         "zh": "\u55e8\uff0c\u8fd9\u662fSimpleSAMLphp\u72b6\u6001\u9875\u3002\u8fd9\u91cc\u4f60\u53ef\u4ee5\u770b\u5230\uff0c\u5982\u679c\u60a8\u7684\u4f1a\u8bdd\u8d85\u65f6\uff0c\u5b83\u6301\u7eed\u591a\u4e45\uff0c\u76f4\u5230\u8d85\u65f6\u548c\u8fde\u63a5\u5230\u60a8\u7684\u4f1a\u8bdd\u7684\u6240\u6709\u5c5e\u6027\u3002",
-        "zh-tw": "\u563f\uff0c\u9019\u662f SimpleSAMLphp \u72c0\u614b\u9801\uff0c\u5728\u9019\u908a\u60a8\u53ef\u4ee5\u770b\u5230\u60a8\u7684\u9023\u7dda\u662f\u5426\u903e\u6642\uff0c\u4ee5\u53ca\u9084\u6709\u591a\u4e45\u624d\u903e\u6642\uff0c\u6240\u6709\u5c6c\u6027\u503c(attributes)\u90fd\u6703\u9644\u52a0\u5728\u4f60\u7684\u9023\u7dda\u88e1(session)\u3002"
+        "zh-tw": "\u563f\uff0c\u9019\u662f SimpleSAMLphp \u72c0\u614b\u9801\uff0c\u5728\u9019\u908a\u60a8\u53ef\u4ee5\u770b\u5230\u60a8\u7684\u9023\u7dda\u662f\u5426\u903e\u6642\uff0c\u4ee5\u53ca\u9084\u6709\u591a\u4e45\u624d\u903e\u6642\uff0c\u6240\u6709\u5c6c\u6027\u503c (attributes) \u90fd\u6703\u9644\u52a0\u5728\u4f60\u7684\u9023\u7dda (session) \u88e1\u3002"
     },
     "validfor": {
         "ar": "\u0633\u062a\u0633\u062a\u0645\u0631 \u062c\u0644\u0633\u062a\u0643 \u0644\u066a\u0639\u062f\u062f \u062b\u0648\u0627\u0646\u064a\u066a \u062b\u0627\u0646\u064a\u0629 \u062a\u0628\u062f\u0623 \u0627\u0644\u0627\u0646",
         "cs": "Va\u0161e sezen\u00ed je platn\u00e9 %SECONDS% sekund od te\u010f.",
         "da": "Du har %SECONDS% tilbage af din session",
         "de": "Ihre Sitzung ist noch f\u00fcr %SECONDS% g\u00fcltig.",
+        "el": "\u0391\u03c0\u03bf\u03bc\u03ad\u03bd\u03bf\u03c5\u03bd %SECONDS% \u03b4\u03b5\u03c5\u03c4\u03b5\u03c1\u03cc\u03bb\u03b5\u03c0\u03c4\u03b1 \u03bc\u03ad\u03c7\u03c1\u03b9 \u03c4\u03b7 \u03bb\u03ae\u03be\u03b7 \u03c4\u03b7\u03c2 \u03c3\u03c5\u03bd\u03b5\u03b4\u03c1\u03af\u03b1\u03c2 \u03c3\u03b1\u03c2.",
         "es": "Tu sesi\u00f3n es v\u00e1lida por %SECONDS% segundos, desde ahora.",
         "et": "Sinu sessioon kehtib veel %SECONDS% sekundit.",
         "eu": "Zure saioa %SECONDS% segundoz izango da baliagarri.",
@@ -228,13 +235,14 @@
         "sv": "Din session \u00e4r giltig f\u00f6r %SECONDS% sekunder fr\u00e5n nu.",
         "tr": "Oturumunuz, \u015fu andan itibaren %SECONDS% saniyeli\u011fine ge\u00e7erlidir.",
         "zh": "\u4f60\u7684\u4f1a\u8bdd\u5728%SECONDS%\u79d2\u5185\u6709\u6548",
-        "zh-tw": "\u60a8\u7684 session \u5f9e\u73fe\u5728\u8d77\u9084\u6709 %SECONDS% \u6709\u6548\u3002"
+        "zh-tw": "\u60a8\u7684\u9023\u7dda (session) \u5f9e\u73fe\u5728\u8d77\u9084\u6709 %SECONDS% \u79d2\u6709\u6548\u3002"
     },
     "sessionsize": {
         "ar": "\u062d\u062c\u0645 \u0627\u0644\u062c\u0644\u0633\u0629 \u066a\u062d\u062c\u0645\u066a",
         "cs": "Velikost sezeni: %SIZE%",
         "da": "Sessionsst\u00f8rrelse: %SIZE%",
         "de": "Gr\u00f6sse der Sitzung: %SIZE%",
+        "el": "\u039c\u03ad\u03b3\u03b5\u03b8\u03bf\u03c2 \u03c3\u03c5\u03bd\u03b5\u03b4\u03c1\u03af\u03b1\u03c2: %SIZE%",
         "es": "Tama\u00f1o de la sesi\u00f3n: %SIZE%",
         "et": "Sessiooni suurus: %SIZE%",
         "eu": "Saioaren tamaina: %SIZE%",
@@ -265,6 +273,7 @@
     },
     "subject_header": {
         "da": "SAML emne",
+        "el": "\u03a5\u03c0\u03bf\u03ba\u03b5\u03af\u03bc\u03b5\u03bd\u03bf (subject) SAML",
         "es": "Asunto de SAML",
         "nl": "SAML Subject",
         "ru": "\u0422\u0435\u043c\u0430 SAML",
@@ -272,6 +281,7 @@
     },
     "subject_notset": {
         "da": "ikke angivet",
+        "el": "\u03b4\u03b5\u03bd \u03ad\u03c7\u03b5\u03b9 \u03bf\u03c1\u03b9\u03c3\u03c4\u03b5\u03af",
         "es": "no establecido",
         "nl": "niet aanwezig",
         "ru": "\u043d\u0435 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d",
@@ -279,6 +289,7 @@
     },
     "subject_format": {
         "da": "Format",
+        "el": "\u039c\u03bf\u03c1\u03c6\u03ae (format)",
         "es": "Formato",
         "nl": "Formaat",
         "ru": "\u0424\u043e\u0440\u043c\u0430\u0442",
@@ -289,6 +300,7 @@
         "cs": "Va\u0161e atributy",
         "da": "Dine oplysninger",
         "de": "Ihre Attribute",
+        "el": "\u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2",
         "es": "Tus atributos",
         "et": "Sinu atribuudid",
         "eu": "Atributuak",
@@ -315,13 +327,14 @@
         "sv": "Dina attribut",
         "tr": "Bilgileriniz",
         "zh": "\u4f60\u7684\u5c5e\u6027",
-        "zh-tw": "\u60a8\u7684\u5c6c\u6027\u503c"
+        "zh-tw": "\u60a8\u7684\u5c6c\u6027"
     },
     "logout": {
         "ar": "\u062a\u0633\u062c\u064a\u0644 \u0627\u0644\u062e\u0631\u0648\u062c",
         "cs": "Odhl\u00e1\u0161en\u00ed",
         "da": "Log ud",
         "de": "Abmelden",
+        "el": "\u0391\u03c0\u03bf\u03c3\u03cd\u03bd\u03b4\u03b5\u03c3\u03b7",
         "es": "Cerrar sesi\u00f3n",
         "et": "Logi v\u00e4lja",
         "eu": "Irten",

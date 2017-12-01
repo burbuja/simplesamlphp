@@ -4,6 +4,7 @@
         "cs": "ID procesu",
         "da": "Proces ID",
         "de": "Prozess-ID",
+        "el": "\u0391\u03bd\u03b1\u03b3\u03bd\u03c9\u03c1\u03b9\u03c3\u03c4\u03b9\u03ba\u03cc \u03b4\u03b9\u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b1\u03c2 (PID)",
         "es": "ID de proceso",
         "et": "Protsessi ID",
         "eu": "Id prozesua",
@@ -32,6 +33,7 @@
         "cs": "Uptime",
         "da": "Oppetid",
         "de": "Verf\u00fcgbarkeit",
+        "el": "\u03a7\u03c1\u03cc\u03bd\u03bf\u03c2 \u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03af\u03b1\u03c2 (uptime)",
         "es": "Tiempo de actividad",
         "et": "Uptime",
         "eu": "Jardun-denbora",
@@ -60,6 +62,7 @@
         "cs": "Aktu\u00e1ln\u00ed \u010das",
         "da": "Aktuel tid",
         "de": "Jetziger Zeitpunkt",
+        "el": "\u03a4\u03c1\u03ad\u03c7\u03bf\u03c5\u03c3\u03b1 \u03ce\u03c1\u03b1",
         "es": "Hora actual",
         "et": "Aeg praegu",
         "eu": "Uneko ordua",
@@ -88,6 +91,7 @@
         "cs": "Verze",
         "da": "Version",
         "de": "Version",
+        "el": "\u0388\u03ba\u03b4\u03bf\u03c3\u03b7",
         "es": "Versi\u00f3n",
         "et": "Versioon",
         "eu": "Bertsioa",
@@ -116,6 +120,7 @@
         "cs": "CPU sekundy (u\u017eivatel)",
         "da": "CPU sekunder (Bruger)",
         "de": "CPU-Sekunden (Benutzer",
+        "el": "\u03a7\u03c1\u03cc\u03bd\u03bf\u03c2 CPU (\u03a7\u03c1\u03ae\u03c3\u03c4\u03b7)",
         "es": "Segundos de CPU (usuario)",
         "et": "CPU sekundid (kasutaja)",
         "eu": "PUZ segunduak (Erabiltzailea)",
@@ -144,6 +149,7 @@
         "cs": "CPU sekundy (system)",
         "da": "CPU sekunder (System)",
         "de": "CPU-Sekunden (System)",
+        "el": "\u03a7\u03c1\u03cc\u03bd\u03bf\u03c2 CPU (\u03a3\u03c5\u03c3\u03c4\u03ae\u03bc\u03b1\u03c4\u03bf\u03c2)",
         "es": "Segundos de CPU (sistema)",
         "et": "CPU sekundid (s\u00fcsteem)",
         "eu": "PUZ segunduak (Sistema)",
@@ -172,6 +178,7 @@
         "cs": "Aktu\u00e1ln\u00ed mno\u017estv\u00ed polo\u017eek",
         "da": "Aktuelt antal enheder",
         "de": "Derzeitige Anzahl von Elementen",
+        "el": "\u03a4\u03c1\u03ad\u03c7\u03c9\u03bd \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc\u03c2 \u03b1\u03bd\u03c4\u03b9\u03ba\u03b5\u03b9\u03bc\u03ad\u03bd\u03c9\u03bd",
         "es": "N\u00famero actual de \u00edtems",
         "et": "Elementide arv praegu",
         "eu": "Uneko elementu kopurua",
@@ -200,6 +207,7 @@
         "cs": "Celkov\u00fd sou\u010det polo\u017eek",
         "da": "Total antal enheder",
         "de": "Elemente zu allen Zeiten insgesamt",
+        "el": "\u03a3\u03c5\u03bd\u03bf\u03bb\u03b9\u03ba\u03cc\u03c2 \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc\u03c2 \u03b1\u03bd\u03c4\u03b9\u03ba\u03b5\u03b9\u03bc\u03ad\u03bd\u03c9\u03bd",
         "es": "N\u00famero total de \u00edtems",
         "et": "Elementide arv kokku",
         "eu": "Elementuen guztizko kopurua",
@@ -228,6 +236,7 @@
         "cs": "Vyu\u017e\u00edv\u00e1no celkem bajt\u016f",
         "da": "Total antal bytes brugt aktuelt",
         "de": "Insgesamt derzeit verwendete Bytes",
+        "el": "Bytes \u03c3\u03b5 \u03c7\u03c1\u03ae\u03c3\u03b7",
         "es": "Bytes totales en uso actualmente",
         "et": "Kokku baite praegu kasutusel",
         "eu": "Une honetan erabiltzen ari diren byten guztizko kopurua",
@@ -256,6 +265,7 @@
         "cs": "Aktu\u00e1ln\u011b otev\u0159en\u00e9 konexe",
         "da": "Nuv\u00e6rende \u00e5bne forbindelser",
         "de": "Derzeitige offene Verbindungen",
+        "el": "\u0391\u03bd\u03bf\u03b9\u03ba\u03c4\u03ad\u03c2 \u03c3\u03c5\u03bd\u03b4\u03ad\u03c3\u03b5\u03b9\u03c2",
         "es": "Conexiones abiertas actuales",
         "et": "Hetkel avatud \u00fchendusi",
         "eu": "Egun irekita dauden konexioak",
@@ -284,6 +294,7 @@
         "cs": "Celkem konex\u00ed",
         "da": "Total antal forbindelser",
         "de": "Verbindungen insgesamt",
+        "el": "\u03a3\u03cd\u03bd\u03bf\u03bb\u03bf \u03c3\u03c5\u03bd\u03b4\u03ad\u03c3\u03b5\u03c9\u03bd",
         "es": "Conexiones totales",
         "et": "\u00dchendusi kokku",
         "eu": "Konexioak guztira",
@@ -312,6 +323,7 @@
         "cs": "Struktury konex\u00ed",
         "da": "Forbindelses strukturer",
         "de": "Verbindungsstrukturen",
+        "el": "\u0394\u03bf\u03bc\u03ad\u03c2 \u03c3\u03cd\u03bd\u03b4\u03b5\u03c3\u03b7\u03c2",
         "es": "Estructuras de conexi\u00f3n",
         "et": "\u00dchenduste struktuurid",
         "eu": "Konexio egiturak",
@@ -340,6 +352,7 @@
         "cs": "Celkov\u00fd po\u010det GET p\u0159\u00edkaz\u016f",
         "da": "Total antal GET kommandoer",
         "de": "GET Befehle insgesamt",
+        "el": "\u03a3\u03cd\u03bd\u03bf\u03bb\u03bf \u03b5\u03bd\u03c4\u03bf\u03bb\u03ce\u03bd GET",
         "es": "Comandos GET totales",
         "et": "GET-k\u00e4ske kokku",
         "eu": "GET komandoak guztira",
@@ -368,6 +381,7 @@
         "cs": "Celkov\u00fd po\u010det SET p\u0159\u00edkaz\u016f",
         "da": "Total antal SET kommandoer",
         "de": "SET Befehle insgesamt",
+        "el": "\u03a3\u03cd\u03bd\u03bf\u03bb\u03bf \u03b5\u03bd\u03c4\u03bf\u03bb\u03ce\u03bd SET",
         "es": "Comandos SET totales",
         "et": "SET-k\u00e4ske kokku",
         "eu": "SET komandoak guztira",
@@ -399,6 +413,7 @@
         "cs": "Celkov\u00fd po\u010det GET p\u0159\u00edkaz\u016f (\u00fasp\u011b\u0161n\u00fdch)",
         "da": "Total antal GET kommandoer (success)",
         "de": "GET Befehle insgesamt (erfolgreich)",
+        "el": "\u03a3\u03cd\u03bd\u03bf\u03bb\u03bf \u03b5\u03bd\u03c4\u03bf\u03bb\u03ce\u03bd GET (\u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b1)",
         "es": "Comandos GET totales (exitosos)",
         "et": "\u00d5nnestunud GET-k\u00e4ske kokku",
         "eu": "GET komandoak guztira (arrakastatsuak)",
@@ -427,6 +442,7 @@
         "cs": "Celkov\u00fd po\u010det GET p\u0159\u00edkaz\u016f (ne\u00fasp\u011b\u0161n\u00fdch)",
         "da": "Total antal GET kommandoer (fejl)",
         "de": "GET Befehle insgesamt (fehlgeschlagen)",
+        "el": "\u03a3\u03cd\u03bd\u03bf\u03bb\u03bf \u03b5\u03bd\u03c4\u03bf\u03bb\u03ce\u03bd GET (\u03b1\u03c0\u03bf\u03c4\u03c5\u03c7\u03af\u03b1)",
         "es": "Comandos GET totales (fallidos)",
         "et": "Eba\u00f5nnestunud GET-k\u00e4ske kokku",
         "eu": "GET komandoak guztira (huts egiteak)",
@@ -455,6 +471,7 @@
         "cs": "P\u0159\u00edchoz\u00edch bajt\u016f na server",
         "da": "Bytes in i serveren",
         "de": "Am Server eingetroffene Bytes",
+        "el": "Bytes \u03c0\u03bf\u03c5 \u03b1\u03bd\u03b1\u03b3\u03bd\u03ce\u03c3\u03c4\u03b7\u03ba\u03b1\u03bd",
         "es": "Bytes en el servidor",
         "et": "Baite serverisse",
         "eu": "Byte-ak zerbitzarian",
@@ -483,6 +500,7 @@
         "cs": "Bajt\u016f zapsan\u00fdch serverem",
         "da": "Bytes skrevet af serveren",
         "de": "Zum Server geschriebene Bytes",
+        "el": "Bytes \u03c0\u03bf\u03c5 \u03b5\u03b3\u03b3\u03c1\u03ac\u03c6\u03b7\u03ba\u03b1\u03bd",
         "es": "Bytes escritos por el servidor",
         "et": "Serveri poolt kirjutatud baite",
         "eu": "Byte-ak zerbitzariak idatzita",
@@ -511,6 +529,7 @@
         "cs": "Celkov\u00e9 dostupn\u00e9 \u00falo\u017ei\u0161t\u011b",
         "da": "Total plads udnyttet",
         "de": "Insgesamt verf\u00fcgbarer Speicher",
+        "el": "\u0394\u03b9\u03b1\u03b8\u03ad\u03c3\u03b9\u03bc\u03bf\u03c2 \u03c7\u03ce\u03c1\u03bf\u03c2 \u03b1\u03c0\u03bf\u03b8\u03ae\u03ba\u03b5\u03c5\u03c3\u03b7\u03c2",
         "es": "Almacenamiento total disponible",
         "et": "Saadaval ketast kokku",
         "eu": "Ustiatutako biltegiraketa guztira",
@@ -533,5 +552,56 @@
         "sv": "Totalt lagringsutrymme",
         "zh": "\u5168\u90e8\u7684\u5b58\u50a8\u5229\u7528",
         "zh-tw": "\u5132\u5b58\u7a7a\u9593\u7e3d\u5229\u7528\u6578"
+    },
+    "pointer_size": {
+        "es": "Tama\u00f1o del punter (en bits)"
+    },
+    "delete_misses": {
+        "es": "Total de comandos DELETE (fallidos)"
+    },
+    "delete_hits": {
+        "es": "Total de comandos DELETE (exitosos)"
+    },
+    "incr_misses": {
+        "es": "Total de comandos INCR (fallidos)"
+    },
+    "incr_hits": {
+        "es": "Total de comandos INCR (exitosos)"
+    },
+    "decr_misses": {
+        "es": "Total de comandos DECR (fallidos)"
+    },
+    "decr_hits": {
+        "es": "Total de comandos DECR (exitosos)"
+    },
+    "cas_misses": {
+        "es": "Total de comandos CAS (fallidos)"
+    },
+    "cas_hits": {
+        "es": "Total de comandos CAS (exitosos)"
+    },
+    "cas_badval": {
+        "es": "Total de identificadores CAS malos"
+    },
+    "auth_cmds": {
+        "es": "Total de comandos se autenticaci\u00f3n procesados"
+    },
+    "auth_errors": {
+        "es": "Total de comandos de autenticaci\u00f3n fallidos"
+    },
+    "accepting_conns": {
+        "es": "Actualmente aceptando nuevas conexiones"
+    },
+    "listen_disabled_num": {
+        "es": "N\u00famero total de conexiones negadas (l\u00edmite de conexi\u00f3n)"
+    },
+    "threads": {
+        "es": "N\u00famero disponible de hilos"
+    },
+    "conn_yields": {
+        "es": "N\u00famero de veces en que se alcanz\u00f3 el l\u00edmite de requerimientos"
+    },
+    "evictions": {
+        "es": "N\u00famero de objetos quitados del cach\u00e9 (l\u00edmite de memoria)"
     }
 }
