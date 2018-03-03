@@ -176,7 +176,7 @@ class HTTP
 
             // disable caching of this response
             header('Pragma: no-cache');
-            header('Cache-Control: no-cache, must-revalidate');
+            header('Cache-Control: no-cache, no-store, must-revalidate');
         }
 
         // show a minimal web page with a clickable link to the URL
@@ -338,14 +338,22 @@ class HTTP
         // validates the URL's host is among those allowed
         if (is_array($trustedSites)) {
             assert(is_array($trustedSites));
-            preg_match('@^http(s?)://([^/:]+)((?::\d+)?)@i', $url, $matches);
-            $hostname = $matches[2];
+            $components = parse_url($url);
+            $hostname = $components['host'];
+
+            // check for userinfo
+            if ((isset($components['user']) && strpos($components['user'], '\\') !== false) ||
+                (isset($components['pass']) && strpos($components['pass'], '\\') !== false)
+            ) {
+                throw new \SimpleSAML_Error_Exception('Invalid URL: '.$url);
+            }
 
             // allow URLs with standard ports specified (non-standard ports must then be allowed explicitly)
-            if (!empty($matches[3]) &&
-                (($matches[1] === '' && $matches[3] !== ':80') || ($matches[1]) === 's' && $matches[3] !== ':443')
+            if (isset($components['port']) &&
+                (($components['scheme'] === 'http' && $components['port'] !== 80) ||
+                 ($components['scheme'] === 'https' && $components['port'] !== 443))
             ) {
-                $hostname = $hostname.$matches[3];
+                $hostname = $hostname.':'.$components['port'];
             }
 
             $self_host = self::getSelfHostWithNonStandardPort();
@@ -413,7 +421,7 @@ class HTTP
             }
             $proxy_auth = $config->getString('proxy.auth', false);
             if ($proxy_auth !== false) {
-                $context['http']['header'] = "Proxy-Authorization: Basic".base64_encode($proxy_auth);
+                $context['http']['header'] = "Proxy-Authorization: Basic ".base64_encode($proxy_auth);
             }
             if (!isset($context['http']['request_fulluri'])) {
                 $context['http']['request_fulluri'] = true;
@@ -756,6 +764,8 @@ class HTTP
         $cfg = \SimpleSAML_Configuration::getInstance();
         $baseDir = $cfg->getBaseDir();
         $cur_path = realpath($_SERVER['SCRIPT_FILENAME']);
+        // make sure we got a string from realpath()
+        $cur_path = is_string($cur_path) ? $cur_path : '';
         // find the path to the current script relative to the www/ directory of SimpleSAMLphp
         $rel_path = str_replace($baseDir.'www'.DIRECTORY_SEPARATOR, '', $cur_path);
         // convert that relative path to an HTTP query

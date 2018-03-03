@@ -6,9 +6,53 @@ SimpleSAMLphp changelog
 This document lists the changes between versions of SimpleSAMLphp.
 See the upgrade notes for specific information about upgrading.
 
+## Version 1.15.4
+
+Released 2018-03-02
+
+  * Resolved a security issue related to signature validation in the SAML2 library. See [SSPSA 201803-01](https://simplesamlphp.org/security/201803-01).
+
+## Version 1.15.3
+
+Released 2018-02-27
+
+  * Resolved a security issue related to signature validation in the SAML2 library. See [SSPSA 201802-01](https://simplesamlphp.org/security/201802-01).
+  * Fixed edge-case scenario where an application uses one of the known LoggingHandlers' name as a defined class
+  * Fixed issue #793 in the PHP logging handler.
+
+## Version 1.15.2
+
+Released 2018-01-31
+
+  * Resolved a Denial of Service security issue when validating timestamps in the SAML2 library. See [SSPSA 201801-01](https://simplesamlphp.org/security/201801-01).
+  * Resolved a security issue with the open redirect protection mechanism. See [SSPSA 201801-02](https://simplesamlphp.org/security/201801-02).
+  * Fix _undefined method_ error when using memcacheD.
+
+### `authfacebook`
+  * Fix compatibility with Facebook strict URI match.
+
+### `consent`
+  * Fix statistics not being gathered.
+
+### `sqlauth`
+  * Prevented a security issue with the connection charset used for MySQL backends. See [SSPSA 201801-03](https://simplesamlphp.org/security/201801-03).
+
+## Version 1.15.1
+
+Released 2018-01-12
+
+### Bug fixes
+  * AuthX509 error messages were broken.
+  * Properly calculate supported protocols based on config.
+  * NameIDAttribute filter: update to use SAML2\XML\saml\NameID.
+  * Replace remaining uses of SimpleSAML_Logger with namespace version.
+  * Statistics: prevent mixed content errors.
+  * Add 'no-store' to the cache-control header to avoid Chrome
+    caching redirects.
+
 ## Version 1.15.0
 
-Released TBD
+Released 2017-11-20
 
 ### New features
   * Added support for authenticated web proxies with the `proxy.auth` setting.
@@ -46,8 +90,8 @@ Released TBD
   * Make redirections more resilient.
   * Fixed empty protocolSupportEnumeration in AttributeAuthorityDescriptor.
   * Other bug fixes and numerous documentation enhancements.
-  * Fixed a bug in the Redis store that could lead to incorrect _duplicate
-    assertion_errors.
+  * Fixed a bug in the Redis store that could lead to incorrect
+    _duplicate assertion_ errors.
 
 ### API and user interface
   * Updated to Xmlseclibs 3.0.
