@@ -41,6 +41,9 @@
     "warnings": {
         "es": "Advertencias"
     },
+    "warnings_curlmissing": {
+        "es": "Falta la extensi\u00f3n cURL de PHP. No se pueden buscar actualizaciones de SimpleSAMLphp."
+    },
     "warnings_https": {
         "es": "<strong>No est\u00e1s usando HTTPS<\/strong> - comunicaci\u00f3n cifrada con el usuario. HTTP funciona bien para prop\u00f3sitos de prueba, pero en un entorno de producci\u00f3n, deber\u00edas usar HTTPS. [ <a href=\"https:\/\/simplesamlphp.org\/docs\/stable\/simplesamlphp-maintenance\">Lee m\u00e1s acerca del mantenimiento de SimpleSAMLphp<\/a> ]"
     },

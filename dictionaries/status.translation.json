@@ -362,5 +362,11 @@
         "tr": "\u00c7\u0131k\u0131\u015f",
         "zh": "\u9000\u51fa",
         "zh-tw": "\u767b\u51fa"
+    },
+    "authData_header": {
+        "es": "AuthData"
+    },
+    "authData_summary": {
+        "es": "Haga clic para ver AuthData"
     }
 }

@@ -132,6 +132,8 @@ The following filters are included in the SimpleSAMLphp distribution:
 - [`core:AttributeLimit`](./core:authproc_attributelimit): Limit the attributes in the response.
 - [`core:AttributeMap`](./core:authproc_attributemap): Change the name of the attributes.
 - [`core:AttributeRealm`](./core:authproc_attributerealm): (deprecated) Create an attribute with the realm of the user.
+- [`core:Cardinality`](./core:authproc_cardinality): Ensure the number of attribute values is within the specified multiplicity.
+- [`core:CardinalitySingle`](./core:authproc_cardinalitysingle): Ensure the correct cardinality of single-valued attributes.
 - [`core:GenerateGroups`](./core:authproc_generategroups): Generate a `group` attribute for the user.
 - [`core:LanguageAdaptor`](./core:authproc_languageadaptor): Transfering language setting from IdP to SP.
 - [`core:PHP`](./core:authproc_php): Modify attributes with custom PHP code.
@@ -151,6 +153,8 @@ The following filters are included in the SimpleSAMLphp distribution:
 - [`saml:TransientNameID`](./saml:nameid): Generate transient NameID.
 - [`smartattributes:SmartID`](./smartattributes:smartattributes): Generate user ID attribute based on several attributes.
 
+See the [Third-party modules](https://simplesamlphp.org/modules) page on the SimpleSAMLphp website
+for externally hosted modules that may provide a processing filter.
 
 
 Writing your own Auth Proc Filter

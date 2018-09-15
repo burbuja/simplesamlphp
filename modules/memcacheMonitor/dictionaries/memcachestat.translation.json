@@ -603,5 +603,38 @@
     },
     "evictions": {
         "es": "N\u00famero de objetos quitados del cach\u00e9 (l\u00edmite de memoria)"
+    },
+    "libevent": {
+        "es": "Versi\u00f3n de libevent"
+    },
+    "reserved_fds": {
+        "es": "N\u00famero de MDS's miscel\u00e1neos usados internamente"
+    },
+    "cmd_touch": {
+        "es": "N\u00famero cumulativo de requerimientos de toque"
+    },
+    "touch_hits": {
+        "es": "N\u00famero de claves que han sido tocadas con una nueva fecha de expiraci\u00f3n"
+    },
+    "touch_misses": {
+        "es": "N\u00famero de elementos que se han tocado y no se han encontrado"
+    },
+    "hash_power_level": {
+        "es": "Tama\u00f1o actual del multiplicador para la tabla hash"
+    },
+    "hash_bytes": {
+        "es": "Bytes utilizados actualmente por las tablas hash"
+    },
+    "hash_is_expanding": {
+        "es": "Indica si la tabla hash aumentar\u00e1 a un nuevo tama\u00f1o"
+    },
+    "expired_unfetched": {
+        "es": "Elementos obtenidos desde LRU que nunca se tocaron antes de expirar"
+    },
+    "evicted_unfetched": {
+        "es": "Elementos obtenidos desde LRU que nunca se tocaron"
+    },
+    "reclaimed": {
+        "es": "N\u00famero de veces en que una entrada se guard\u00f3 usando la memoria de una entrada expirada"
     }
 }
